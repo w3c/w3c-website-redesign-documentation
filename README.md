@@ -16,10 +16,17 @@ The production site is cached via Cloudflare.
 ## Requirements
 
 * [Deployer](https://deployer.org)
+* [Jekyll](https://jekyllrb.com/)
 
 ## Installation
 
 TODO
+
+## Build locally
+
+https://jekyllrb.com/docs/
+
+`bundle exec jekyll serve`
 
 ## Deployment 
 
