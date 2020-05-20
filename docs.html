@@ -1,0 +1,26 @@
+---
+layout: default
+title: Docs
+description: "docs innit"
+---
+<div class="articles">
+
+    <h1>Docs</h1>
+
+    <p class="fs-6 fw-300">docs innit</p>
+
+    <hr>
+
+    <ul class="post-list">
+        {% for post in site.docs %}
+        <li>
+            <article>
+                <h2 class="delta"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title  | markdownify | strip_html | trim }}</a>
+                </h2>
+                <p>{{ post.description  | markdownify | strip_html | trim }}</p>
+            </article>
+        </li>
+        {% endfor %}
+    </ul>
+
+</div>

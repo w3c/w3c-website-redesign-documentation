@@ -1,10 +1,19 @@
 ---
-title: Project approach
+layout: post
+title: "Project approach"
 date: 2020-05-07
+categories: [Accessibility, "Headless CMS / Strata", "Using open source applications", Translations, Security, Code]
+description: "A short ~140 character summary of the page, setting out the premise it will deliver."
 author: Simon R Jones
 ---
+# Project approach
+{: .no_toc }
 
-## Project background
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 W3C is the standards body of the web. Their mission is to “lead the World Wide Web to its full potential by developing protocols and guidelines that ensure the long-term growth of the Web.”
 

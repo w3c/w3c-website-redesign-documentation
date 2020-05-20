@@ -1,0 +1,26 @@
+---
+layout: default
+title: Updates
+description: "Every other Tuesday morning, you&rsquo;ll get a decade of knowledge and experience packed into a 5-minute piece of thoughtful and actionable advice on accessible and inclusive practices."
+---
+<div class="articles">
+
+    <h1>Updates</h1>
+
+    <p class="fs-6 fw-300">Every other Tuesday morning, you&rsquo;ll get a decade of knowledge and experience packed into a 5-minute piece of thoughtful and actionable advice on accessible and inclusive practices.</p>
+
+    <hr>
+
+    <ul class="post-list">
+        {% for post in site.posts %}
+        <li>
+            <article>
+                <h2 class="delta"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title  | markdownify | strip_html | trim }}</a>
+                </h2>
+                <p>{{ post.description  | markdownify | strip_html | trim }}</p>
+            </article>
+        </li>
+        {% endfor %}
+    </ul>
+
+</div>
