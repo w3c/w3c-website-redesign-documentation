@@ -39,8 +39,6 @@ host('staging')
     ->set('deploy_path','/data/var/www/vhosts/w3c/staging');
 
 
-
-
 // Tasks
 
 desc('Deploy W3C Document Portal');
@@ -61,6 +59,11 @@ task('deploy', [
     'success'
 ]);
 
+task('deploy:update_code', function () {
+    writeln("<info>Uploading files to server</info>");
+    upload('~/sites/w3c-website-redesign-documentation/_site', '{{release_path}}');
+});
+
 //task('deploy:composer:s3',function(){
 
 //    cd('{{release_path}}/web/content/plugins/S3-Uploads');
@@ -77,5 +80,4 @@ task('deploy', [
 
 // [Optional] If deploy fails automatically unlock.
 after('deploy:failed', 'deploy:unlock');
-
 
