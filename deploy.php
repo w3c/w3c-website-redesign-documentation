@@ -61,7 +61,7 @@ task('deploy', [
 
 task('deploy:update_code', function () {
     writeln("<info>Uploading files to server</info>");
-    upload('~/sites/w3c-website-redesign-documentation/_site', '{{release_path}}');
+	upload(__DIR__  . '/_site', '{{release_path}}');
 });
 
 //task('deploy:composer:s3',function(){
