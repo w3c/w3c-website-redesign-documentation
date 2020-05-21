@@ -14,12 +14,12 @@ footer_content: "Copyright &copy; footer copy"
 collections:
   docs:
     output: true
-    permalink: /docs/:title
+    permalink: /docs/:title/
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /updates/:title
+permalink: /updates/:title/
 future: false
 
 # Sass settings
