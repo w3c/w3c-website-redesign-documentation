@@ -2,6 +2,7 @@
 layout: default
 title: About Studio 24
 permalink: /about-studio24/
+nav_order: 5
 description: "About summary description needed."
 ---
 # About Studio 24

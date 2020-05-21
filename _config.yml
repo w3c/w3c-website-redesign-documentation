@@ -1,5 +1,6 @@
 # Site settings
 title: Working in the open with W3C and Studio 24
+logo: "/assets/images/w3c-s24-logo.png"
 email: carlos@studio24.net
 description: > # this means to ignore newlines until "baseurl:"
   Global page description
@@ -9,7 +10,7 @@ theme: just-the-docs
 color_scheme: nil
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; footer copy"
+footer_content: "Copyright &copy; 2020 Studio 24 and W3C."
 
 collections:
   docs:
