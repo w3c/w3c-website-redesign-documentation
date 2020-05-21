@@ -28,6 +28,10 @@ https://jekyllrb.com/docs/
 
 `bundle exec jekyll serve`
 
+## Right now, build site locally (with multiple configs) and then deploy.
+
+`bundle exec jekyll build --config _config.yml,_config_development.yml`
+
 ## Deployment 
 
 Deploy to production (deploys master branch):
