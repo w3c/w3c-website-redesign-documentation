@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Studio 24
+permalink: /about-studio24/
 description: "About summary description needed."
 ---
 # About Studio 24

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About W3C
+permalink: /about-w3c/
 description: "About summary description needed."
 ---
 # About W3C

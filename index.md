@@ -2,7 +2,8 @@
 layout: default
 title: Home
 description: "Working in the open on the W3C website redesign."
-nav_order: 0
+nav_order: 1
+permalink: /
 ---
 <div class="home">
 

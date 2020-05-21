@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Feedback
+permalink: /feedback/
 description: "Time-shifted content which is available for your convenience, time and attention, on your terms."
 ---
 # Feedback
