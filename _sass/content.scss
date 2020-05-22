@@ -15,11 +15,11 @@
   }
 
   ul,
-  ol {
+  ol:not(.tree-list) {
     padding-left: 1.5em;
   }
 
-  ol {
+  ol:not(.tree-list) {
     list-style-type: none;
     counter-reset: step-counter;
 
