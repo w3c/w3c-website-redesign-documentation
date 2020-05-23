@@ -17,7 +17,7 @@ author: Simon R Jones
 
 W3C is the standards body of the web. Their mission is to “lead the World Wide Web to its full potential by developing protocols and guidelines that ensure the long-term growth of the Web.”
 
-W3C celebrated its 25th anniversary last October and plans to incorporate as a legal entity in 2021. 
+W3C celebrated its 25th anniversary last October and plans to incorporate as a legal entity in 2022. 
 
 The current W3C website was last redesigned in 2008 and needs redesigning. In February 2020, [Studio 24 won the contract](https://www.w3.org/2019/11/website-redesign-rfp.html) to incrementally redesign the W3C website,[ w3.org](http://w3.org).
 
@@ -39,7 +39,7 @@ Key business goals are to:
 
 The key deadline for this project is:
 
-W3C wants to launch the newly redesigned website by January 2021 to coincide with W3C’s aim to launch as its own legal entity in 2021.
+> W3C wants to launch the newly redesigned website by January 2021.
 
 Successful outcomes for this project are:
 
@@ -54,7 +54,7 @@ Successful outcomes for this project are:
 
 Please note we need to confirm these outcomes with W3C and whether we can identify any KPIs to measure on the new site.  
 
-The desired outcome is to define the direction and approach of the project so we’re moving in the right direction and have agreement across the team. The output is this  document, the Discovery report, and a number of other documents summarising our research undertaken to date.
+The desired outcome is to define the direction and approach of the project so we’re moving in the right direction and have agreement across the team. The output is this  document and a number of other documents summarising our research undertaken to date.
 
 ## Project phases
 
