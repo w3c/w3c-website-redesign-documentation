@@ -3,7 +3,7 @@ layout: post
 title: "Design direction survey insights"
 date: 2020-05-26
 categories: [Design]
-description: "Some initial thoughts from W3C to inform the design direction for the site."
+description: "Initial thoughts from W3C to inform the design direction."
 ---
 # Design direction survey insights
 
@@ -11,72 +11,93 @@ To help us gain an initial understanding of what W3C are looking for in their de
 
 ## List any important words that you want people to associate with your company image / brand.
 
-###Welcoming
+### Welcoming
+
 Approachable / friendly / helpful  / caring / compassion / inclusive / responsive / understandable / accessible / welcoming / inviting / communicative / collaborative / open
 
-###Expert
+### Expert
+
 Knowledgeable / informational / smart / educated / wise / expert / serious / professional / mature / precise / accurate / reliable / thorough / technical / rigorous / comprehensive
 
-###Official
+### Official
+
 Authoritative / exemplary / official / confident / origin / source / standard / process / persistent / longevity / stable / trustworth / respected / organized / trustworthy
 
-###Global
+### Global
+
 Global / world-wide / international / inclusive / connected / universal
 
-###Transparent
+### Transparent
+
 Fair / equality / impartial / neutral / consensual + straightforward / transparent / open / consensual / participatory / grass-roots
 
-###And a wildcard….
+### And a wildcard….
+
 Idealistic / purposeful / public good / value-based / better / ambitious / brave
 
-##If your business was a personality who would it be? And why?
+## If your business was a personality who would it be? And why?
 
-###Leonardo da Vinci
+### Leonardo da Vinci
+
 The homo Universalis, interested in everything: art, culture, technology, law, language... And good at it, too.
 
-###Daedalus
+### Daedalus
+
 The perfect engineer, whose brilliant work, despite his best intentions, still caused somebody to die.
 
-###Fred Rogers
+### Fred Rogers
+
 Constructive, helpful, kind.
 
-###TimBL
+### TimBL
+
 Geeky, smart, respected, kind.
 
-###Dalai Lama? Pope Francis?
+### Dalai Lama? Pope Francis?
+
 Respected; bridging old and new; traditional but progressive.
 
-###Barack Obama 
+### Barack Obama 
+
 Because he's firm and transparent in his policies and is also open to different points of view backed by science and evidence.
 
-###A little bit Richard Ayoade
+### A little bit Richard Ayoade
+
 Not embarrassed to be techy-nerd but also really creative and cool. 
 
-###Bill Nye 
+### Bill Nye 
+
 Smart, explains things simply, but still fun.
 
-###Carl Sagan
+### Carl Sagan
+
 He explained things simply and clearly, in a relaxing tone. 
 
-###Captain Picard
+### Captain Picard
+
 Trusted, humble, grounded.
 
-###Neil deGrasse Tyson. 
+### Neil deGrasse Tyson. 
+
 Its role is communicating and educating. It arbitrates between stakeholders in the web and teaches the public about the resulting technology and standards.
 
-###HEYLEL
+### HEYLEL
+
 The most beautiful star of all. She was the protective cherub, made music, and is said to have been the director of Paradise management.
 
-###Dwight Schrute from The Office
+### Dwight Schrute from The Office
+
 But with web browser standards instead of beet farming and paper. 
 
-###The president of Austria
+### The president of Austria
+
 No-bullshit and reliable, and mostly in the background. 
 
-###Bernie Sanders
+### Bernie Sanders
+
 Because you have to push boundaries to reach out to people, direct and no BS, no pleasantries, clearly-stated positions.
 
-###And some other characters...
+### And some other characters...
 
 The president of a democratic country, because its authoritative output is the result of a collective effort. 
 
