@@ -8,11 +8,15 @@ description: "Time-shifted content which is available for your convenience, time
 # Timeline
 
 
-7. **20-22 May** - Stakeholder interviews [user research blog post]({% post_url 2020-05-22-user-research %})
-6. **11 May** - User survey opened [user research blog post]({% post_url 2020-05-22-user-research %})
-5. **7 May** - High level timeline shared for review [high level timeline](https://docs.google.com/document/d/1JNhp_ItMHkU0tdc1RKrlPURDS2mNCNpcnO2rbK_h40s/edit)
-4. **7 May** - Project approach shared for agreement [project approach document](/docs/project-approach/)
-3. **14 April** - Agreed initial user groups and stories [document](https://3.basecamp.com/3091560/buckets/15695452/documents/2503409022)
-2. **14 April** - Design discussions (link to article) 
-1. **1 April** - Started user group research and user story development
+7. **20-22 May 2020** - Stakeholder interviews [user research blog post]({% post_url 2020-05-22-user-research %})
+6. **11 May 2020** - User survey opened [user research blog post]({% post_url 2020-05-22-user-research %})
+5. **7 May 2020** - High level timeline shared for review [high level timeline](https://docs.google.com/document/d/1JNhp_ItMHkU0tdc1RKrlPURDS2mNCNpcnO2rbK_h40s/edit)
+4. **7 May 2020** - Project approach shared for agreement [project approach document](/docs/project-approach/)
+3. **14 April 2020** - Agreed initial user groups and stories [document](https://3.basecamp.com/3091560/buckets/15695452/documents/2503409022)
+2. **14 April 2020** - Design discussions in progress [View feedback from W3C to inform the design direction](link to article) 
+1. **1 April 2020** - Started user group research and user story development
+**16 March 2020** - Studio 24 kick off the W3C project and start Discovery phase
+**7 February 2020** - W3C awards contract to Studio 24 [View Twitter announcement] (https://twitter.com/w3c/status/1225796276555567105) 
+**13 December 2019** - Studio 24 submit project proposal [View Studio 24's RFP response] (https://lists.w3.org/Archives/Public/public-website-redesign/2019Dec/0024.html) 
+**7 November 2019** - W3C publish the W3C website redesign phase 1 RFP [View W3C's RFP] (https://twitter.com/w3c/status/1192381879812579328)
 {: .tree-list }
