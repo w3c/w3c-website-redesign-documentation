@@ -3,7 +3,7 @@ layout: post
 title: "User research"
 date: 2020-05-22
 categories: [Accessibility, "Headless CMS / Strata", "Using open source applications", Translations, Security, Code]
-description: "How we are gathering feedback from website users to inform the site Information Architecture."
+description: "Find out how we are gathering feedback from website users to discover more about who uses the website and what they need it to do. "
 ---
 # User research
 
@@ -38,11 +38,7 @@ The survey was advertised in the following places:
 
 We are conducting “face to face” stakeholder interviews with key contributors and users of the W3C website, people who have a vested interest in the project's success. The interviews are being carried out on the 20th-22nd May 2020.
 
-We will analyse each individual interview initially and then examine them
-
-collectively afterwards, resulting in a report which will inform design decisions and
-
-help define UX milestones and objectives.
+We will analyse each individual interview initially and then examine them collectively afterwards, resulting in a report which will inform design decisions and help define UX milestones and objectives.
 
 
 ### Who did we interview?
