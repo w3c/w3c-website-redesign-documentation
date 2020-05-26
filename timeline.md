@@ -9,9 +9,9 @@ description: "Time-shifted content which is available for your convenience, time
 
 
 11. **20-22 May 2020** - Stakeholder interviews  
-[View the user research blog post]({% post_url 2020-05-22-user-research %})
+[View the user research blog post](/updates/user-research/)
 10. **11 May 2020** - User survey opened  
-[View the user research blog post]({% post_url 2020-05-22-user-research %})
+[View the user research blog post](/updates/user-research/)
 9. **7 May 2020** - High level timeline shared for review  
 [View the high level timeline](/docs/high-level-timeline/)
 8. **7 May 2020** - Project approach shared for agreement  
