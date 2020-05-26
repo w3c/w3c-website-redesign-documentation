@@ -2,8 +2,8 @@
 layout: post
 title: "User groups"
 date: 2020-05-22
-categories: [Accessibility, "Headless CMS / Strata", "Using open source applications", Translations, Security, Code]
-description: "A short ~140 character summary of the page, setting out the premise it will deliver."
+categories: [Information Architecture]
+description: "The user groups we established to understand the W3C users, their motivations and needs."
 author: Simon R Jones
 ---
 # User groups
