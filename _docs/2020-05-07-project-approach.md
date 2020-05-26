@@ -3,7 +3,7 @@ layout: post
 title: "Project approach"
 date: 2020-05-07
 categories: [Accessibility, "Headless CMS / Strata", "Using open source applications", Translations, Security, Code]
-description: "A short ~140 character summary of the page, setting out the premise it will deliver."
+description: "A definition of the direction and approach of the project to ensure we’re moving in the right direction and have agreement across the team."
 author: Simon R Jones
 ---
 # Project approach
