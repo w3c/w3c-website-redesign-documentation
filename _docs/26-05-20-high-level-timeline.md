@@ -14,16 +14,17 @@ This is not a final schedule. We expect it to be iterated during the project as 
 
 There is a [visual version that can be seen on whimsical](https://whimsical.com/2YEhfU2P2Y4XvwB9bZdBbD) and a textual version below. 
 
-##Information Architecture (IA) and Planning Phase
+## Information Architecture (IA) and Planning Phase
+
 April to June 2020
 
-Work includes:
+### Work includes:
 * IA and content research
 * Design planning
 * Initial UI design work
 * Tech review and approach, shortlist CMS options
 
-Milestones:
+### Milestones:
 * Project approach agreed (May)
 * IA report delivered (early June)
 * IA signed off by W3C (mid June)
@@ -33,10 +34,11 @@ Milestones:
 
 
 
-##Design and Production Phase
+## Design and Production Phase
+
 May to August 2020
 
-Work includes:
+### Work includes:
 * UI Design (June to July)
 * HTML / CSS prototyping (June)
 * Development hosting set up (June, W3C)
@@ -52,7 +54,7 @@ Work includes:
 * TBC: Template integration (TBC, W3C)
 * Live hosting set up (July, October)
 
-Milestones:
+### Milestones:
 * Design direction agreed (early June)
 * Design approval (early July)
 * CMS set up (end of July)
@@ -60,14 +62,14 @@ Milestones:
 * Public beta (October)
 * HTML design system (October)
 
-##Design and Production Iterations to Beta site
+## Design and Production Iterations to Beta site
 September to December 2020  
 
-Work includes:
+### Work includes:
 * User testing (October to November)
 * UI Design updates (November)
 * CMS integration and HTML / CSS updates (November to December)
 * Browser, device and accessibility testing and bug fixing (November)
 
-##Site launch
+## Site launch
 January 2021   
