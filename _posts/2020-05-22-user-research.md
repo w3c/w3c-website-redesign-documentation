@@ -3,7 +3,7 @@ layout: post
 title: "User research"
 date: 2020-05-22
 categories: [Accessibility, "Headless CMS / Strata", "Using open source applications", Translations, Security, Code]
-description: "A short ~140 character summary of the page, setting out the premise it will deliver."
+description: "How we are gathering feedback from website users to inform the site Information Architecture."
 ---
 # User research
 
