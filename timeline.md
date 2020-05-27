@@ -3,7 +3,7 @@ layout: default
 title: Timeline
 permalink: /timeline/
 nav_order: 7
-description: "Time-shifted content which is available for your convenience, time and attention, on your terms."
+description: "A timeline of project events"
 ---
 # Timeline
 
