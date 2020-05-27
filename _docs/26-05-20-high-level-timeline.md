@@ -5,7 +5,6 @@ date: 2020-05-26
 categories: [Planning]
 description: "A high-level project timeline showing key milestones and delivery phases."
 author: "Julia Sang"
-permalink: "high-level-timeline"
 ---
 # High level timeline
  
