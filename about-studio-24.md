@@ -13,37 +13,37 @@ description: "An introduction to Studio 24 and the team working on this project.
 
 The team is a passionate bunch of web designers, content strategists, developers, project managers and client services experts committed to making a better web. Needless to say, the team is very excited to be working with W3C.
 
-Content strategy is an interesting area for this project, there is a huge volume of content on w3.org spanning almost the entire lifetime of the web. While the project is focussed on higher-level pages, we’ll need to review how the site content is organised, making sure it meets its purpose and is easily understood by users.
-
-URI persistence is an interesting and connected topic. Web page addresses are the backbone of the web and it is W3C’s policy not to change them, this raises some interesting challenges as well as best practises we are keen to continue.
-
-Technical strategy will also be a fascinating area. The W3C was founded in the early days of the web in 1994, which means they will have a variety of different systems and ways of managing web pages. Coming up with something modern and manageable will be a good challenge!
-
-### Simon Jones, Founder & Managing Director and project lead
+### Simon Jones, Founder & Managing Director
 
 #### Role: Technical architect, Project lead
 
-Simon studied English Literature at Anglia Ruskin University. While there he learnt HTML, helped start the first [Varsity Online](https://www.varsity.co.uk/) website and started his journey on the web. Simon founded Studio 24 in 1999 and for over 20 years he has been bringing a mix of strategic insight and technical expertise to client projects. Outside of work Simon is a trustee of the charity Cambridge Film Trust who present the annual [Cambridge Film Festival](https://www.cambridgefilmfestival.org.uk/).
+Simon studied English Literature at Anglia Ruskin University. While there he learnt HTML, helped start the first [Varsity Online](https://www.varsity.co.uk/) website and started his journey on the web. Simon founded Studio 24 in 1999 and for over 20 years he has been bringing a mix of strategic insight and technical expertise to client projects. 
+
+Outside of work Simon is a trustee of the charity Cambridge Film Trust who present the annual [Cambridge Film Festival](https://www.cambridgefilmfestival.org.uk/).
 
 ### Ian Axton, Creative Director
 
 #### Role: Design lead
 
-Ian joined the studio in 2014, bringing with him a wealth of expertise having helped brands such as Sony, English Heritage and Centrepoint to connect with their audiences. Ian heads up the Studio 24 creative team and works alongside the development team to ensure a seamless and efficient delivery on all projects. He is an advocate of clean, user centred design that allows people to positively engage with brands and their content. In his free time, Ian can be found in the pottery studio knee deep in creative projects with his family.
+Ian joined the studio in 2014, bringing with him a wealth of expertise having helped brands such as Sony, English Heritage and Centrepoint to connect with their audiences. Ian heads up the Studio 24 creative team and works alongside the development team to ensure a seamless and efficient delivery on all projects. He is an advocate of clean, user centred design that allows people to positively engage with brands and their content. 
+
+In his free time, Ian can be found in the pottery studio knee deep in creative projects with his family.
 
 ### Ben Challenor, Data & Content Strategist
 
 #### Role: Content lead
 
-Before joining Studio 24 as a Digital Marketing Executive in 2015, Ben had spent several years in Australia where he worked as a freelance digital marketing consultant. Ben’s role evolved to Data and Content Strategist - reflecting the strategic work he had been undertaking for clients to help them analyse, optimise and improve their digital performance. Ben loves cinema and is part of the ‘Bums on Seats’ film review show on [Cambridge 105](https://cambridge105.co.uk/) and is co-host of the [‘]Sudden Double Deep: The Triple Bill Title Podcast](https://suddendoubledeep.com/). 
+Before joining Studio 24 as a Digital Marketing Executive in 2015, Ben had spent several years in Australia where he worked as a freelance digital marketing consultant. Ben’s role evolved to Data and Content Strategist - reflecting the strategic work he had been undertaking for clients to help them analyse, optimise and improve their digital performance. 
+
+Ben loves cinema and is part of the ‘Bums on Seats’ film review show on [Cambridge 105](https://cambridge105.co.uk/) and is co-host of the [Sudden Double Deep: The Triple Bill Title Podcast](https://suddendoubledeep.com/). 
 
 ### Carlos Eriksson, Front-end Developer & Accessibility lead
 
 #### Role: Development, Accessibility lead
 
-Carlos believes that the web is built by people, for people. And if we want to make a better web we need to include people from all walks of life. Carlos began his digital journey with a degree in audio visual communication. But the real inspiration for his dedication to digital accessibility came from working closely with people with permanent disabilities. At Studio 24 Carlos has worked with HS2, Heathrow and Crown Commercial Service. In his spare time, Carlos is part of a mentoring programme which supports women to get into tech. 
+Carlos believes that the web is built by people, for people. And if we want to make a better web we need to include people from all walks of life. Carlos began his digital journey with a degree in audio visual communication. But the real inspiration for his dedication to digital accessibility came from working closely with people with permanent disabilities. At Studio 24 Carlos has worked with HS2, Heathrow and Crown Commercial Service. 
 
-Every other Tuesday morning Carlos Eriksson writes [Inclusive by Design, ](http://superdupercritical.com/newsletter)where he gathers a decade of knowledge and experience packed into a 5-minute  piece of thoughtful and actionable advice on accessible and inclusive  practices.
+In his spare time, Carlos is part of a mentoring programme which supports women to get into tech. Carlos also writes [Inclusive by Design](http://superdupercritical.com/), where he gathers a decade of knowledge and experience packed into short, thoughtful and actionable posts on accessibility and inclusive practices.
 
 ### Nicola Saunders, Front-end Developer
 
@@ -55,13 +55,17 @@ TODO
 
 #### Role: User research, Information Architecture lead
 
-Claire’s project management style is to put relationships at the heart of project delivery. In her 3 years at Studio 24, she has worked with a broad range of clients, on a diverse number of projects. These include site rebranding for Cambridge University Botanic Garden, new corporate websites for HS2 and  Heathrow consultation and legacy site maintenance and upgrades for Crossrail. Claire is also the Mental Health First Aider for the Studio, and is passionate about raising awareness on the importance of mental wellbeing. In previous roles Claire has also worked with a number of well-known brands, such as Shell, Michelin and Vauxhall.
+Claire’s project management style is to put relationships at the heart of project delivery. In her 3 years at Studio 24, she has worked with a broad range of clients, on a diverse number of projects. These include site rebranding for Cambridge University Botanic Garden, new corporate websites for HS2 and  Heathrow consultation and legacy site maintenance and upgrades for Crossrail. 
+
+Claire is also the Mental Health First Aider for the Studio, and is passionate about raising awareness on the importance of mental wellbeing. In previous roles Claire has also worked with a number of well-known brands, such as Shell, Michelin and Vauxhall.
 
 ### Julia Sang, Senior Project Manager
 
 #### Role: Project Manager
 
-Julia loves the challenge of managing big projects. At Studio 24 she has delivered a range of projects including the UK government’s Crown Commercial Service website, the Airspace Expansion Consultation for Heathrow, and global e-commerce sites for Urban Bar. Julia always keeps projects under control with a strict eye on client and site priorities. Outside of work Julia organises Playing Out sessions in association with the City Council.  Before moving to Studio 24, Julia worked at IRIS Worldwide with some of the world’s biggest brands including Philips, Britvic and Unilever. 
+Julia loves the challenge of managing big projects. At Studio 24 she has delivered a range of projects including the UK government’s Crown Commercial Service website, the Airspace Expansion Consultation for Heathrow, and global e-commerce sites for Urban Bar. Julia always keeps projects under control with a strict eye on client and site priorities. 
+
+Outside of work Julia organises Playing Out sessions in association with the City Council. Before moving to Studio 24, Julia worked at IRIS Worldwide with some of the world’s biggest brands including Philips, Britvic and Unilever. 
 
 
 ## Our services

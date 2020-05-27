@@ -23,7 +23,8 @@ description: "A timeline of project events"
 5. **1 April 2020** - Started user group research and user story development
 4. **16 March 2020** - Studio 24 kick off the W3C project and start Discovery phase
 3. **7 February 2020** - W3C awards contract to Studio 24  
-[View Twitter announcement](https://twitter.com/w3c/status/1225796276555567105) 
+[View Twitter announcement](https://twitter.com/w3c/status/1225796276555567105)  
+View [Studio 24 blog post](https://www.studio24.net/blog/studio24-w3c/) and [W3C news article](https://www.w3.org/blog/news/archives/8326)
 2. **13 December 2019** - Studio 24 submit project proposal  
 [View Studio 24's RFP response](https://lists.w3.org/Archives/Public/public-website-redesign/2019Dec/0024.html) 
 1. **7 November 2019** - W3C publish the W3C website redesign phase 1 RFP  
