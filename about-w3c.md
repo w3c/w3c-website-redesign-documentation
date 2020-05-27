@@ -25,8 +25,6 @@ W3C are doing this because their website is supposed to show the world who they 
 When the project started, Coralie Mercier, Head of W3C Marketing & Communications said: 
 >“I am delighted to partner with Studio 24 as we embark on this project. We haven’t done a website redesign in a very long time. In fact, in the 21 years I’ve been with the W3C, I remember only 3 different designs, the current one being from a decade ago. Redesigning our website is crucial to improve the overall experience of those who depend on us for our Web standards work. As W3C makes the Web work for everyone, Studio 24 will help make our website work better for everyone.”
 
-You can follow more about the project on the [W3C Website Redesign Project Wiki](https://www.w3.org/wiki/2020_website_redesign)
-
 ## Project team
 
 ### Coralie Mercier, Head of Marketing and Communications
@@ -43,4 +41,4 @@ Jean-Gui the knowledgeable person in the Systems Team as far as the W3C complica
 
 ### Gerald Oskoboiny, Systems Team
 
-Gerald joined the W3C Systems Team in 1997 and helps maintain W3C's system infrastructure including the web and mail servers, mailing lists and publishing tools. He created the W3C HTML validator <http://validator.w3.org/> based on an earlier validation service he began as a student. Prior to joining W3C, Gerald worked at the University of Alberta in Edmonton, Canada, and as a technical writer for IBM Canada in Toronto. Gerald has a Bachelor of Science with specialization in Computing Science from the University of Alberta. His motivation is to help us move from our complex infrastructure to something that is easier to maintain and that follows today's best practices on website and infrastructure and hosting. 
+Gerald joined the W3C Systems Team in 1997 and helps maintain W3C's system infrastructure including the web and mail servers, mailing lists and publishing tools. He created the [W3C HTML validator](http://validator.w3.org/) based on an earlier validation service he began as a student. Prior to joining W3C, Gerald worked at the University of Alberta in Edmonton, Canada, and as a technical writer for IBM Canada in Toronto. Gerald has a Bachelor of Science with specialization in Computing Science from the University of Alberta. His motivation is to help us move from our complex infrastructure to something that is easier to maintain and that follows today's best practices on website and infrastructure and hosting. 

@@ -15,6 +15,6 @@ At certain points during this project we’ll be encouraging public feedback. Th
     [W3C blog](https://www.w3.org/blog/category/website-redesign/).
 
 You can send us your thoughts on social media on [Twitter](https://twitter.com/studio24) or
-    [LinkedIn](https://www.linkedin.com/company/studio24ltd/) using the hashtag #W3redesign.
+    [LinkedIn](https://www.linkedin.com/company/studio24ltd/) using the hashtag #W3redesign
 
 You can also subscribe to updates to the 'Working in the Open' project site via this feed: <a href="/feeds/updates.xml">{{ "/feeds/updates" | prepend: site.baseurl | prepend: site.url }}</a>

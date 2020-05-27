@@ -14,6 +14,8 @@ permalink: /
 
   <p>We’ve set this project site up to help document the process, to share our decisions, processes and learnings. We will blog about key aspects of the design and development including information architecture (IA), design, front-end development, internationalization, accessibility and content management.</p>
 
-    <p>This site is a collection of posts with regular updates and documents we are delivering as part of this project.</p>
+    <p>This site is a collection of regular updates and documents we are delivering as part of this project.</p>
+
+	<p>You can also subscribe to updates to this website via an <a href="/feeds/updates">RSS feed</a>.</p>
 
 </div>
