@@ -37,10 +37,11 @@ Before joining Studio 24 as a Digital Marketing Executive in 2015, Ben had spent
 
 Carlos believes that the web is built by people, for people. And if we want to make a better web we need to include people from all walks of life. Carlos began his digital journey with a degree in audio visual communication. But the real inspiration for his dedication to digital accessibility came from working closely with people with permanent disabilities. At Studio 24 Carlos has worked with HS2, Heathrow and Crown Commercial Service. In his spare time, Carlos is part of a mentoring programme which supports women to get into tech. 
 
-
 ### Nicola Saunders, Front-end Developer
 
 ### Claire McDermott, Senior Project Manager and IA lead
+
+Claire’s project management style is to put relationships at the heart of project delivery. In her 3 years at Studio 24, she has worked with a broad range of clients, on a diverse number of projects. These include site rebranding for Cambridge University Botanic Garden, new corporate websites for HS2 and  Heathrow consultation and legacy site maintenance and upgrades for Crossrail. Claire is also the Mental Health First Aider for the Studio, and is passionate about raising awareness on the importance of mental wellbeing. In previous roles Claire has also worked with a number of well-known brands, such as Shell, Michelin and Vauxhall.
 
 ### Julia Sang, Senior Project Manager
 
