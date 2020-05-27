@@ -26,6 +26,6 @@ description: "A timeline of project events"
 [View Twitter announcement](https://twitter.com/w3c/status/1225796276555567105) 
 2. **13 December 2019** - Studio 24 submit project proposal  
 [View Studio 24's RFP response](https://lists.w3.org/Archives/Public/public-website-redesign/2019Dec/0024.html) 
-1. **7 November 2019** - W3C publish the W3C website redesign phase 1 RFP 
+1. **7 November 2019** - W3C publish the W3C website redesign phase 1 RFP  
 [View W3C's RFP](https://twitter.com/w3c/status/1192381879812579328)
 {: .tree-list }
