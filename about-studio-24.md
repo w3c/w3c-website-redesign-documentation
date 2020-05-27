@@ -7,13 +7,11 @@ description: "An introduction to Studio 24 and the team working on this project.
 ---
 # About Studio 24
 
-[Studio 24](https://www.studio24.net/) is an independent digital agency based in Cambridge, UK. We’ve always believed in building a better web, using standards to make sure the sites we build are accessible to all regardless of who you are, what internet access you have, what device you’re using, or any disability you may have. Our company mission to bring together human-centred design and open source technology is ideally fitted to a client such as W3C.
+[Studio 24](https://www.studio24.net/) is an independent digital agency based in Cambridge, UK. We’ve always believed in building a better web, using standards to make sure the sites we build are accessible to all regardless of who you are, what internet access you have, what device you’re using, or any disability you may have. This has always been a value of Studio 24, and we even have our own Accessibility Lead Developer, Carlos Eriksson, to help move this forward. Our company mission to bring together human-centred design and open source technology is ideally fitted to a client such as W3C.
 
 ## The project team
 
 The team is a passionate bunch of web designers, content strategists and developers committed to making a better web. Needless to say, the team is very excited to be working with W3C for just some of the following reasons...
-
-We’ve always believed in building a better web, using standards to make sure the sites we build are accessible to all regardless of who you are, what internet access you have, what device you’re using, or any disability you may have. This has always been a value of Studio 24, and we even have our own Accessibility Lead Developer, Carlos Eriksson, to help move this forward.
 
 Content strategy is an interesting area for this project, there is a wealth of content on w3.org. While the project is focussed on higher-level pages, we’ll need to review how the site content is organised, making sure it meets its purpose and is easily understood by users.
 
@@ -66,7 +64,7 @@ Our core skills are solving complex problems for our clients through design and 
 * DevOps and hosting infrastructure (AWS) 
 * Support & Maintenance 
  
-## Our Clients
+## Our clients
 * Crossrail
 * Crown Commercial Service
 * Heathrow
