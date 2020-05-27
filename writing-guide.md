@@ -2,6 +2,7 @@
 layout: default
 title: "Markdown writing guide"
 date: 2019-06-11 07:00
+nav_exclude: true
 description: "A Markdown guide to adding page content to this site."
 ---
 # The quick brown fox jumps over the lazy dog
