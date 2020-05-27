@@ -3,7 +3,7 @@ layout: default
 title: Feedback
 permalink: /feedback/
 nav_order: 6
-description: "Time-shifted content which is available for your convenience, time and attention, on your terms."
+description: "Find out how you can contibute to this project by giving feedback."
 ---
 # Feedback
 
