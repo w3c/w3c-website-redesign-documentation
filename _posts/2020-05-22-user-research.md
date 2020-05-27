@@ -4,7 +4,7 @@ title: "User research"
 date: 2020-05-22
 categories: ["Information Architecture"]
 description: "Find out how we are gathering feedback from website users to discover more about who uses the website and what they need it to do. "
-author "Julia Sang"
+author: "Julia Sang"
 ---
 # User research
 
