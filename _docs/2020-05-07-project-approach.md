@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Project approach"
-date: 2020-05-07
-categories: [Accessibility, "Headless CMS / Strata", "Using open source applications", Translations, Security, Code]
+date: "2020-05-07"
+categories: ["Planning"]
 description: "A definition of the project direction and approach, to ensure we’re moving in the right direction, and have agreement across the team."
-author: Simon R Jones
+author: "Simon R Jones"
+permalink: "project-approach"
+
 ---
 # Project approach
 {: .no_toc }
