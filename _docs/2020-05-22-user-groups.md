@@ -50,3 +50,6 @@ The final list of user groups can be seen below:
     1. Beginner Web developers: give them general awareness of what W3C is, what it does, how it works, and that it can be interacted with. Orient them toward our offering of tools (validators) and learning material (W3Cx, MDN).
     2. The Jobseeker
     3. The Casual user
+
+## Where to next? 
+[View all documents](../docs/)
