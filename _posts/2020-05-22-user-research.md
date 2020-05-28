@@ -75,3 +75,6 @@ W3C helped to identify 12 key stakeholders to interview:
 *   What do you think about the tone of voice and how things are communicated? Is the information clear, concise and easy understand?
 *   What impression does the current W3C site give off?
 *   Final Thoughts?
+
+## Where to next? 
+[View all updates](../updates/)
