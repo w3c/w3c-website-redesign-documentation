@@ -112,3 +112,6 @@ A trustworthy, wonky, intelligent neighbor you can always turn to for informatio
 A friend trying to organize a group meal for a few billion people. 
 
 Right now? A scholarly hermit that holds a lot of knowledge, but people don't understand him. 
+
+## Where to next? 
+[View all updates](../updates/)
