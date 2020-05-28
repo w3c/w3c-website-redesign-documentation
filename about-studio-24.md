@@ -2,7 +2,7 @@
 layout: default
 title: About Studio 24
 permalink: /about-studio24/
-nav_order: 5
+nav_order: 7
 description: "An introduction to Studio 24 and the team working on this project."
 ---
 # About Studio 24
