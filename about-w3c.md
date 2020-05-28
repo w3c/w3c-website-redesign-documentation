@@ -2,7 +2,7 @@
 layout: default
 title: About W3C
 permalink: /about-w3c/
-nav_order: 4
+nav_order: 6
 description: "An introduction to W3C and and the team working on this project."
 ---
 # About W3C
