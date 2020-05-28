@@ -2,7 +2,7 @@
 layout: default
 title: Feedback
 permalink: /feedback/
-nav_order: 6
+nav_order: 5
 description: "Find out how you can contibute to this project by giving feedback."
 ---
 # Feedback
