@@ -14,20 +14,8 @@
 
   <link rel="stylesheet" href="{{ '/assets/css/just-the-docs.css' | absolute_url }}">
 
-  {% if site.ga_tracking != nil %}
-  <script>
-      var DO_NOT_TRACK_ENABLED = (
-          navigator.doNotTrack === '1' ||
-          navigator.doNotTrack === 'yes' || // Firefox 31 and below
-          navigator.msDoNotTrack === '1' || // IE 9 - 10
-          window.doNotTrack === '1' // IE 11 / Edge 16 and below
-      )
-
-      // If the user has enabled 'DoNotTrack', we should not load the tracking code
-      if (!DO_NOT_TRACK_ENABLED && !window.__TESTS_RUNNING) {
-          // Matomo here
-      }
-  </script>
+  {% if jekyll.environment == "production" %}
+    {% include analytics.html %}
   {% endif %}
 
   {% if site.search_enabled != false %}
