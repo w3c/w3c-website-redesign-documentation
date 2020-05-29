@@ -41,3 +41,6 @@ sass:
 
 plugins:
 - jekyll-seo-tag
+
+# Files to exclude from site build
+exclude: ["README.md", "deploy.php", "Gemfile", "Gemfile.lock"]
