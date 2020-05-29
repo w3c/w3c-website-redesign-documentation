@@ -8,7 +8,7 @@ description: "Privacy and cookie notice"
 ---
 # Privacy and cookie notice
 
-We respect your privacy and aim to minimise data collection on our website. This policy explains how we process user data and how we meet the [EU General Data Protection Regulations (GDPR)](https://gdpr-info.eu/).
+We respect your privacy and aim to minimise data collection on our website. This policy explains how we process user data and how we meet the EU General Data Protection Regulations (GDPR).
 
 ## Who we are
 We are Studio 24, an independent UK limited company (company number 3971500), registered address 50 St Stephen’s Place, Cambridge, CB3 0JE. Simon R Jones, Managing Director, is our nominated Data Protection Officer. 

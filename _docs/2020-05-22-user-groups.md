@@ -1,21 +1,21 @@
 ---
 layout: post
 title: "User groups"
-date: 2020-05-22
+date: "2020-05-22"
 categories: [Information Architecture]
 description: "The user groups we established to understand the W3C users, their motivations and needs."
 author: Simon R Jones
 ---
 # User groups
- 
+
 ## Why are we doing it?
 
 So we can understand the W3C users, their motivations and needs, we worked with W3C to document a list of the main user groups that use the W3C website. This gives us a strong platform on which we can design a successful site.
- 
+
 We created this list of users by first of all reviewing site content and known user groups. The list was shared with W3C and iterated with input from both the project team and other interested people via the W3C website redesign wiki 
- 
+
 The final list of user groups can be seen below:
- 
+
 ## User groups
 
 1. Members 
@@ -50,6 +50,3 @@ The final list of user groups can be seen below:
     1. Beginner Web developers: give them general awareness of what W3C is, what it does, how it works, and that it can be interacted with. Orient them toward our offering of tools (validators) and learning material (W3Cx, MDN).
     2. The Jobseeker
     3. The Casual user
-
-## Where to next? 
-[View all documents](../docs/)

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "High level timeline"
-date: 2020-05-26
+date: "2020-05-20"
 categories: [Planning]
 description: "A high-level project timeline showing key milestones and delivery phases."
 author: "Julia Sang"
 ---
 # High level timeline
- 
+
 This high level timeline outlines the main project phases. Within each phase the work is described, alongside the milestones that we expect to reach. All the work is to be completed by Studio 24, unless W3C is explicitly mentioned. 
 
 This is not a final schedule. We expect it to be iterated during the project as our planning progresses and key decisions are made. A change log will be kept to highlight amends made after the first publish date. 
@@ -72,8 +72,4 @@ September to December 2020
 * Browser, device and accessibility testing and bug fixing (November)
 
 ## Site launch
-January 2021   
-
-
-## Where to next? 
-[View all documents](../docs/)
+January 2021  
