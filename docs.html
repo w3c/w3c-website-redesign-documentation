@@ -14,7 +14,7 @@ description: "A record of the documentation used to detail the project scope and
     <hr>
 
     <ul class="post-list">
-		{% assign sorted = (site.docs | sort: 'date') | reverse %}
+		{% assign sorted = site.docs | sort: 'date' | reverse %}
         {% for post in sorted %}
         <li>
             <article>
