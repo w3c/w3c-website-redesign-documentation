@@ -1,9 +1,10 @@
 # Site settings
 title: Working in the open with W3C and Studio 24
 logo: "/assets/images/w3c-s24-logo.png"
-email: carlos@studio24.net
+email: hello@studio24.net
 description: > # this means to ignore newlines until "baseurl:"
-  Global page description
+  Studio 24 is working in the open on the World Wide Web Consortium (W3C) redesign project. We plan to write a regular set
+  of posts informing the community of progress made, lessons learned, and sharing project documents and outputs.
 baseurl: ""
 url: "https://w3c.studio24.net"
 theme: just-the-docs
