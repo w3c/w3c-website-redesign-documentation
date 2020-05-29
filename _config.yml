@@ -15,6 +15,7 @@ footer_content: >
   Content on this site is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>. <br>
   Read our <a href="/cookies">privacy and cookies notice</a>. 
   On Twitter: <a href="https://twitter.com/studio24">Studio 24</a> and <a href="https://twitter.com/w3c">W3C</a>. 
+  Our <a href="/writing-guide/">Markdown guide</a> to writing site content.
 
 collections:
   docs:
