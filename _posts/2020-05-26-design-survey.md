@@ -4,8 +4,8 @@ title: "Design direction survey insights"
 date: 2020-05-26
 categories: [Design]
 description: "Initial thoughts from W3C to inform the design direction."
+author: "Ian Axton"
 ---
-# Design direction survey insights
 
 To help us gain an initial understanding of what W3C are looking for in their design solution, we asked them a few questions. The team had some fantastic descriptions to help us, we’ve listed some extracts below.
 

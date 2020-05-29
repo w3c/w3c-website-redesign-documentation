@@ -1,12 +1,11 @@
 ---
-layout: post
+layout: doc
 title: "User groups"
 date: "2020-05-22"
 categories: [Information Architecture]
 description: "The user groups we established to understand the W3C users, their motivations and needs."
 author: Simon R Jones
 ---
-# User groups
 
 ## Why are we doing it?
 

@@ -19,7 +19,8 @@ description: "These articles chart the journey we are taking to deliver the W3C 
             <article>
                 <h2 class="delta"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title  | markdownify | strip_html | trim }}</a>
                 </h2>
-                <p>{{ post.description  | markdownify | strip_html | trim }}</p>
+                <p class="lh-tight">{{ post.date | date_to_string }}</p>
+                <p class="lh-tight">{{ post.description  | markdownify | strip_html | trim }}</p>
             </article>
         </li>
         {% endfor %}

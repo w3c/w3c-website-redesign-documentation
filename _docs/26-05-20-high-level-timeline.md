@@ -1,12 +1,11 @@
 ---
-layout: post
+layout: doc
 title: "High level timeline"
 date: "2020-05-20"
 categories: [Planning]
 description: "A high-level project timeline showing key milestones and delivery phases."
 author: "Julia Sang"
 ---
-# High level timeline
 
 This high level timeline outlines the main project phases. Within each phase the work is described, alongside the milestones that we expect to reach. All the work is to be completed by Studio 24, unless W3C is explicitly mentioned. 
 
