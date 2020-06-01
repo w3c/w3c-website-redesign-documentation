@@ -43,7 +43,7 @@ Ben loves cinema and is part of the ‘Bums on Seats’ film review show on [Cam
 
 Carlos believes that the web is built by people, for people. And if we want to make a better web we need to include people from all walks of life. Carlos began his digital journey with a degree in audio visual communication. But the real inspiration for his dedication to digital accessibility came from working closely with people with permanent disabilities. At Studio 24 Carlos has worked with HS2, Heathrow and Crown Commercial Service. 
 
-In his spare time, Carlos is part of a mentoring programme which supports women to get into tech. Carlos also writes [Inclusive by Design](http://superdupercritical.com/), where he gathers a decade of knowledge and experience packed into short, thoughtful and actionable posts on accessibility and inclusive practices.
+In his spare time, Carlos is part of a mentoring programme which supports women to get into tech. Carlos also writes [Inclusive by Design](https://superdupercritical.com/), where he gathers a decade of knowledge and experience packed into short, thoughtful and actionable posts on accessibility and inclusive practices.
 
 ### Nicola Saunders, Front-end Developer
 
