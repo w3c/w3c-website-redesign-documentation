@@ -49,7 +49,7 @@ In his spare time, Carlos is part of a mentoring programme which supports women 
 
 #### Role: Front-End Development lead
 
-TODO
+Nicola entered the world of web development from self-taught beginnings. She joined Studio 24 as a Front-End Developer in 2017 after acquiring W3C recognised qualifications in responsive web design and JavaScript. With keen awareness and knowledge of accessibility and inclusive design, Nicola has contributed to multiple client sites including: [Cambridge Film Festival](https://www.cambridgefilmfestival.org.uk/), [Cambridge University Botanic Gardens](https://www.botanic.cam.ac.uk/), [Fauna and Flora International](https://www.botanic.cam.ac.uk/), and [UK Parliament](https://learning.parliament.uk/).
 
 ### Claire McDermott, Senior Project Manager
 
