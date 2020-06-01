@@ -44,6 +44,7 @@ host('staging')
 desc('Deploy W3C Document Portal');
 task('deploy', [
     'deploy:info',
+    'build',
     'deploy:prepare',
     'deploy:lock',
     'deploy:release',
@@ -59,24 +60,14 @@ task('deploy', [
     'success'
 ]);
 
+task('build', function () {
+    run('bundle exec jekyll build --config _config.yml,_config_development.yml');
+})->local();
+
 task('deploy:update_code', function () {
     writeln("<info>Uploading files to server</info>");
 	upload(__DIR__  . '/_site', '{{release_path}}');
 });
-
-//task('deploy:composer:s3',function(){
-
-//    cd('{{release_path}}/web/content/plugins/S3-Uploads');
-//    run('/usr/local/bin/composer install  --verbose --prefer-dist --no-progress --no-interaction --optimize-autoloader');
-
-//});
-
-//task('deploy:composer:theme',function(){
-
-//    cd('{{release_path}}/web/content/themes/equaliteas/');
-//    run('/usr/local/bin/composer install  --verbose --prefer-dist --no-progress --no-interaction --optimize-autoloader');
-
-//});
 
 // [Optional] If deploy fails automatically unlock.
 after('deploy:failed', 'deploy:unlock');
