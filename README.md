@@ -42,28 +42,25 @@ bundle exec jekyll serve
 
 ## Deployment 
 
-Right now, you have to build site locally and then run deploy. We plan to move this first step into Deployer in the near future.
+### Deploy to production
 
-### Deploy to production (master branch):
+Only deploy master branch to prod.
 
 ```
-JEKYLL_ENV=production bundle exec jekyll build
 dep deploy production
 ```
 
-### Deploy to staging:
+### Deploy to staging
 
-Please note settings in `_config_staging.yml` override those in `_config.yml`
+Please note this deploy process uses Jekyll settings in `_config_staging.yml`, which override those in `_config.yml`
 
 ```
-JEKYLL_ENV=staging bundle exec jekyll build --config _config.yml,_config_staging.yml
 dep deploy staging
 ```
 
-### Deploy a custom branch to staging:
+### Deploy a custom branch to staging
 
 ```
-JEKYLL_ENV=staging bundle exec jekyll build --config _config.yml,_config_staging.yml
 dep deploy staging --branch=develop
 ``` 
 
