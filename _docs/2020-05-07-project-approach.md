@@ -1,12 +1,11 @@
 ---
-layout: post
+layout: doc
 title: "Project approach"
 date: "2020-05-07"
 categories: ["Planning"]
 description: "A definition of the project direction and approach, to ensure we’re moving in the right direction, and have agreement across the team."
 author: "Simon R Jones"
 ---
-# Project approach
 {: .no_toc }
 
 ## Table of contents

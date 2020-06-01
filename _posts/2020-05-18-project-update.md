@@ -6,7 +6,6 @@ categories: ["Status report"]
 description: "A summary of the new W3C website redesign project and where we are now."
 author: "Simon R Jones"
 ---
-# Project update, May 2020
 
 We are working in the open on the World Wide Web Consortium (W3C) redesign project. We plan to write a regular set of posts informing the community of progress made, lessons learned, and sharing project documents and outputs. First, I'll recap on how we got here and what we've done to date.
 

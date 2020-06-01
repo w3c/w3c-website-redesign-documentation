@@ -10,44 +10,71 @@ These instructions will get you a copy of the project up and running on your loc
 
 * Live - https://w3c.studio24.net/
 * Staging - http://w3c.studio24.dev/
+* Local development - http://localhost:4000
 
 The production site is cached via Cloudflare.
 
 ## Requirements
 
 * [Deployer](https://deployer.org)
-* [Jekyll](https://jekyllrb.com/)
+* [Jekyll](https://jekyllrb.com/docs/)
 
 ## Installation
 
-TODO
+Make sure you have Ruby, Bundler and Jekyll installed, see [instructions for Mac](https://jekyllrb.com/docs/installation/macos/).
 
-## Build locally
+In project folder, run:
 
-https://jekyllrb.com/docs/
+```
+bundle install
+bundle exec jekyll serve
+```
 
-`bundle exec jekyll serve`
+View site at http://localhost:4000
 
-## Right now, build site locally (with multiple configs) and then deploy.
+## Build commands
 
-`bundle exec jekyll build --config _config.yml,_config_development.yml`
+To build and serve the site via http://localhost:4000
+
+```
+bundle exec jekyll serve
+```
 
 ## Deployment 
 
-Deploy to production (deploys master branch):
+Right now, you have to build site locally and then run deploy. We plan to move this first step into Deployer in the near future.
+
+### Deploy to production (master branch):
 
 ```
+JEKYLL_ENV=production bundle exec jekyll build
 dep deploy production
 ```
 
-Deploy to staging:
+### Deploy to staging:
+
+Please note settings in `_config_staging.yml` override those in `_config.yml`
 
 ```
+JEKYLL_ENV=staging bundle exec jekyll build --config _config.yml,_config_staging.yml
 dep deploy staging
 ```
 
-Deploy a custom branch to staging:
+### Deploy a custom branch to staging:
 
 ```
+JEKYLL_ENV=staging bundle exec jekyll build --config _config.yml,_config_staging.yml
 dep deploy staging --branch=develop
 ``` 
+
+## Templating
+
+The website uses the [Just the Docs](https://pmarsceill.github.io/just-the-docs/) theme. 
+
+Templates are loaded first from the local `_layouts` folder, next from the parent templates located in the theme. You can find the theme location bia:
+
+```
+bundle info --path just-the-docs
+```
+
+See https://jekyllrb.com/docs/themes/

@@ -6,7 +6,6 @@ categories: ["Information Architecture"]
 description: "Find out how we are gathering feedback from website users to discover more about who uses the website and what they need it to do. "
 author: "Julia Sang"
 ---
-# User research
 
 Following on from the user stories we've worked on with W3C, we are now testing if we have the right information about people who use the W3C website. We are doing this through two ways - a public user survey and focussed stakeholder interviews.
 
