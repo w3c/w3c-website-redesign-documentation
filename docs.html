@@ -1,0 +1,30 @@
+---
+layout: default
+title: Documents
+permalink: /docs/
+nav_order: 4
+description: "A record of the documentation used to detail the project scope and deliver the project."
+---
+<div class="articles">
+
+    <h1>Documents</h1>
+
+    <p class="fs-6 fw-300">These documents are key project deliverables, detailing the scope of work we are delivering and how we are going to deliver it. They have been shared and iterated with W3C.  </p>
+
+    <hr>
+
+    <ul class="post-list">
+		{% assign sorted = site.docs | sort: 'date' | reverse %}
+        {% for post in sorted %}
+        <li>
+            <article>
+                <h2 class="delta"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title  | markdownify | strip_html | trim }}</a>
+                </h2>
+                <p class="lh-tight">{{ post.date | date_to_string }}</p>
+                <p class="lh-tight">{{ post.description  | markdownify | strip_html | trim }}</p>
+            </article>
+        </li>
+        {% endfor %}
+    </ul>
+
+</div>

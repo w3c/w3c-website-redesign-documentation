@@ -1,0 +1,32 @@
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+  {% if site.plugins.jekyll-seo == nil %}
+    <title>{{ page.title }} - {{ site.title }}</title>
+
+    {% if page.description %}
+  <meta property="og:description" name="description" content="{{ page.description }}"/>
+    {% endif %}
+  {% endif %}
+
+  <link rel="shortcut icon" href="{{ 'favicon.ico' | absolute_url }}" type="image/x-icon">
+
+  <link rel="stylesheet" href="{{ '/assets/css/just-the-docs.css' | absolute_url }}">
+
+  {% if jekyll.environment == "production" %}
+    {% include analytics.html %}
+  {% endif %}
+
+  {% if site.search_enabled != false %}
+    <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.min.js' | absolute_url }}"></script>
+  {% endif %}
+  <script type="text/javascript" src="{{ '/assets/js/just-the-docs.js' | absolute_url }}"></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% seo %}
+
+  {% include head_custom.html %}
+
+</head>

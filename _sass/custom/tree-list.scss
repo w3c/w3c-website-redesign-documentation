@@ -1,0 +1,135 @@
+/*------------------------------------*\
+    #Tree list
+\*------------------------------------*/
+
+.tree-list,
+.tree-list ul {
+    margin: 0 0 0 0.5em; // indentation
+    padding: 0;
+    list-style: none;
+    position: relative;
+}
+
+.tree-list li {
+
+    margin: 0;
+    padding: 0 0 0 1.375em; // indentation + .5em
+    line-height: 1.5em; // default list item's `line-height`
+
+    // Make non-links bold
+    //font-weight: bold;
+    position: relative;
+
+    margin-top: 1.25em;
+
+}
+
+// Horizontal line ( | )
+.tree-list li:before {
+
+    content: " ";
+    display: block;
+
+    width: 0;
+    height: calc(100% + 1.25em);
+    border-left: 1px solid grey;
+
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+
+}
+
+// Vertical line ( - )
+.tree-list li:after {
+
+    content: " ";
+    display: block;
+    width: 0.75em; // same with indentation
+    height: 0;
+    border-top: 1px solid grey;
+    margin-top: -1px; // border top width
+    position: absolute;
+    top: 0.75em; // (line-height/2
+    left: 0;
+
+}
+
+// Attach a `Dot` to the (li>span) to indicate the current list item
+.tree-list li.current span:after {
+
+    content: " ";
+    display: block;
+
+    width: 0.875em;
+    height: 0.875em;
+
+    border: 2px solid grey;
+    background-color: white;
+
+    border-radius: 50%;
+
+    position: absolute;
+    top: 0.3125em; // Account for border-width
+    left: -0.4375em;
+
+    z-index: 3;
+
+}
+
+// Cover the oversticking bit on the `current` child item
+.tree-list li.current span:before {
+
+    content: " ";
+    display: block;
+
+    height: 0.75em;
+
+    border-left: 1px solid grey;
+
+    position: absolute;
+    top: -1px;
+    left: 0;
+
+    z-index: 2;
+
+}
+
+.tree-list li.current:before,
+.tree-list li.current + .tree-list li:after,
+.tree-list li.current + .tree-list li:before {
+
+    border-color: $grey-lt-300;
+
+}
+
+// Cover the out-sticking bit on the first child
+.tree-list:before {
+
+    content: " ";
+    display: block;
+
+    width: 2px;
+    height: 0.75em;
+
+    position: absolute;
+    top: -1px;
+    left: 0;
+
+    z-index: 2;
+
+    background-color: white;
+
+}
+
+// Cover the onverhanging after element on the last-child
+.tree-list li:last-child:after {
+
+    height: calc(100% + 1.25em);
+    bottom: 0;
+    top: 0.75em;
+
+    background-color: white; // same with body background
+
+}

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{% if page.categories.size > 0 %}
+<p class="post-labels">
+  <span class="label">Updates</span>
+  {% for category in page.categories %}
+  <span class="label label-green">{{ category }}</span>
+  {% endfor %}
+</p>
+{% endif %}
+
+<p class="post-byline">By {{ page.author }} - {{ page.date | date_to_string }}</p>
+
+<hr>
+
+{{ content }}
