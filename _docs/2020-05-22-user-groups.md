@@ -4,7 +4,7 @@ title: "User groups"
 date: "2020-05-22"
 categories: [Information Architecture]
 description: "The user groups we established to understand the W3C users, their motivations and needs."
-author: Simon R Jones
+author: Ian Axton, Ben Challoner
 ---
 
 ## Why are we doing it?
