@@ -29,7 +29,7 @@ Ian joined the studio in 2014, bringing with him a wealth of expertise having he
 
 In his free time, Ian can be found in the pottery studio knee deep in creative projects with his family.
 
-### Ben Challenor, Data & Content Strategist
+### Ben Challoner, Data & Content Strategist
 
 #### Role: Content lead
 
