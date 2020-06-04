@@ -149,9 +149,9 @@ something that the team is comfortable with.
 
 ## Responses to questions
 
-__Updated: 4 June 2020__
+_Updated: 4 June 2020_
 
-From our agency-perspective, Studio 24 would prefer to work with Apollo v2, but we understand if the need to use a standard 
+From our agency-perspective, Studio 24 would prefer to work with Apollo, but we understand if the need to use a standard 
 tool such as Bootstrap is required and we'll work with this if it's the better option for W3C. 
 
 ### What’s the ETA regarding Apollo 2?
