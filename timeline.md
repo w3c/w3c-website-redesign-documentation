@@ -3,7 +3,7 @@ layout: default
 title: Timeline
 permalink: /timeline/
 nav_order: 2
-description: "A timeline of project events"
+description: "This timeline covers the key milestones and events in the W3C website redesign."
 ---
 # Timeline
 

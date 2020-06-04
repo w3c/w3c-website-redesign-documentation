@@ -23,7 +23,7 @@ Outside of work Simon is a trustee of the charity Cambridge Film Trust who prese
 
 ### Ian Axton, Creative Director
 
-#### Role: Design lead
+#### Role: Design lead, Information Architecture lead
 
 Ian joined the studio in 2014, bringing with him a wealth of expertise having helped brands such as Sony, English Heritage and Centrepoint to connect with their audiences. Ian heads up the Studio 24 creative team and works alongside the development team to ensure a seamless and efficient delivery on all projects. He is an advocate of clean, user centred design that allows people to positively engage with brands and their content. 
 
@@ -53,7 +53,7 @@ Nicola entered the world of web development from self-taught beginnings. She joi
 
 ### Claire McDermott, Senior Project Manager
 
-#### Role: User research, Information Architecture lead
+#### Role: User research
 
 Claire’s project management style is to put relationships at the heart of project delivery. In her 3 years at Studio 24, she has worked with a broad range of clients, on a diverse number of projects. These include site rebranding for Cambridge University Botanic Garden, new corporate websites for HS2 and  Heathrow consultation and legacy site maintenance and upgrades for Crossrail. 
 

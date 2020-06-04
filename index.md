@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-description: "Working in the open on the W3C website redesign."
+description: "This site is a collection of regular updates and documents Studio 24 are delivering as part of the W3C website redesign"
 nav_order: 1
 permalink: /
 ---
