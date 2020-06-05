@@ -119,7 +119,7 @@ Apollo has been heavily influenced by the Every Layout[^8] project and technique
 Starting from a semantic HTML base, it is largely a collection of informed layout “primitives”, which can be combined 
 and composed in multiple configurations to create discrete components and larger templates.
 
-By focusing more on reusable layout ‘primitives’, and leaning on the power of the CSS cascade, inheritance and what 
+By focusing more on reusable layout “primitives”, and leaning on the power of the CSS cascade, inheritance and what 
 modern browsers offer by default, Apollo aims to be leaner than Bootstrap. This should give an inherent boost to performance.
 
 #### Uses modern CSS and web APIs
