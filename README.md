@@ -66,7 +66,7 @@ dep deploy staging --branch=develop
 
 ## Templating
 
-The website uses the [Just the Docs](https://pmarsceill.github.io/just-the-docs/) theme. 
+The website uses the [Just the Docs](https://pmarsceill.github.io/just-the-docs/) theme and [Kramdown](https://kramdown.gettalong.org/quickref.html) markdown formatting.
 
 Templates are loaded first from the local `_layouts` folder, next from the parent templates located in the theme. You can find the theme location bia:
 
