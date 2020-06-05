@@ -166,8 +166,7 @@ We will look to release minor versions as and when we need to during client proj
 releases a year. We plan to ensure backward compatibility and will start a changelog file if there are any important notes to 
 be aware of between versions. Yes, you can keep track of this by watching for new releases via GitHub.
 
-### What is the upgrade path when new versions of Apollo are released? Do you follow semantic versioning to ensure backward 
-compatibility between minor versions?
+### What is the upgrade path when new versions of Apollo are released? Do you follow semantic versioning to ensure backward compatibility between minor versions?
 Apollo 2 will follow semantic versioning[^10].
 
 ### Related to the previous questions, does the upgrade from Apollo 1 to Apollo 2 require a lot of changes in the templates?
