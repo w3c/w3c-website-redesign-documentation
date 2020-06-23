@@ -63,7 +63,7 @@ Web pages are cached using Varnish.
 
 As a rough overview incoming web requests look like:
 
-![Request from Webservers (Apache, NGINX) with other services (MySQL), to Varnish Cache servers, to HA Proxy servers, to w3.org to the person browsing.](/assets/images/web-request-flow.png "image_tooltip")
+![Request from Webservers (Apache, NGINX) with other services (MySQL), to Varnish Cache servers, to HA Proxy servers, to w3.org to the person browsing.](/assets/images/routing_web_requests.png "image_tooltip")
 
 
 
@@ -472,7 +472,7 @@ Example: [https://www.w3.org/Member/](https://www.w3.org/Member/) (restricted to
 
 Simple basic authentication over HTTPS. This displays a basic browser dialog box to request the user’s login credentials. This is a pretty basic user interface, which is not an ideal user experience.
 
-![Default browser dialog box requiring the user to authenticate.](/assets/images/authentication.png)
+![Default browser dialog box requiring the user to authenticate.](/assets/images/basic_auth.png)
 
 
 
