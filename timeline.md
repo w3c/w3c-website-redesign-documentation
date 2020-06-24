@@ -8,8 +8,18 @@ description: "This timeline covers the key milestones and events in the W3C webs
 # Timeline
 
 
-11. **20-22 May 2020** - Stakeholder interviews  
-[View the user research blog post](/updates/user-research/)
+16. **12 June 2020** - Information architecture research and analysis
+<br>[View the Information architecture research and analysis](/docs/information-architecture-research-and-analysis)
+15. **12 June 2020** - Information architecture recommendations
+<br>[View the Information architecture recommendations](/docs/information-architecture-recommendations)
+14. **12 June 2020** - Front end standards
+<br>[View the Front end standards](/docs/front-end-standards)
+13. **02 June 2020** - Choosing a front end framework
+<br>[View the Choosing a front end framework](/docs/choosing-a-front-end-framework)
+12. **22 May 2020** - Technical systems audit
+<br>[View the Technical systems audit](/docs/technical-system-audit)
+11. **20-22 May 2020** - Stakeholder interviews
+<br>[View the Stakeholder interviews](/updates/user-research/)
 10. **11 May 2020** - User survey opened  
 [View the user research blog post](/updates/user-research/)
 9. **7 May 2020** - High level timeline shared for review  
