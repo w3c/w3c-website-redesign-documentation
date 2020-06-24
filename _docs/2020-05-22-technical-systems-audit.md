@@ -6,6 +6,13 @@ categories: [Planning]
 description: "An overview of the technical infrastructure and technical challenges we have to deal with as part of the W3C website redesign project."
 author: Simon R Jones
 ---
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Aim of this document
 
@@ -162,12 +169,13 @@ If possible, W3C, would like advice on how to manage these more sensibly.
 
 An abbreviated summary of some HAProxy routing config:
 
-` \
-acl sf_path    path_beg /ieapp/ ... /Press/Articles  \
-acl not_sf	path_beg /Press/Articles- /Press/Articles.html \
-use_backend symfony if sf OR sf_path !not_sf \
- \
-`This is setup via “acl”, the format of which is:
+```
+acl sf_path     path_beg /ieapp/ ... /Press/Articles
+acl not_sf      path_beg /Press/Articles- /Press/Articles.html
+use_backend     symfony if sf OR sf_path !not_sf
+```
+
+This is setup via “acl”, the format of which is:
 
 
 ```
@@ -457,9 +465,8 @@ Implementing any changes to the login process is out of scope for this project, 
 
 W3C:
 
-_We are looking for advice here, not implementation, so would be happy to receive input from Studio 24 on how to rework our system._
-
-_We would like our help on making the user journey smoother, especially for new users. _
+> We are looking for advice here, not implementation, so would be happy to receive input from Studio 24 on how to rework our system.
+> We would like our help on making the user journey smoother, especially for new users.
 
 W3C would like the website redesign project to “consider user workflow including logged in/out states.”
 
