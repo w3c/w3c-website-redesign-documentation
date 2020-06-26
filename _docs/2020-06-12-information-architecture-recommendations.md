@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: "Information architecture recommendations"
+published: false
 date: "2020-06-12"
 categories: [Planning]
 description: "This Information Architecture (IA) report documents the research and analysis carried out by Studio 24, to identify the needs of the primary users of the W3C site, and combine these insights with the company goals, to deliver a proposed new IA structure for the W3C site."

@@ -8,10 +8,8 @@ description: "This timeline covers the key milestones and events in the W3C webs
 # Timeline
 
 
-16. **12 June 2020** - Information architecture research and analysis
-<br>[View the Information architecture research and analysis](/docs/information-architecture-research-and-analysis)
-15. **12 June 2020** - Information architecture recommendations
-<br>[View the Information architecture recommendations](/docs/information-architecture-recommendations)
+15. **12 June 2020** - Information architecture report
+<br>[View the Information architecture report](https://docs.google.com/document/d/1qVUWoRqMD95LE9z22dP5hPbToKnRugv4jK83L3pXvts/edit#heading=h.9lvctvyvjuuq)
 14. **12 June 2020** - Front end standards
 <br>[View the Front end standards](/docs/front-end-standards)
 13. **02 June 2020** - Choosing a front end framework
