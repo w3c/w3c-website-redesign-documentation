@@ -13,9 +13,9 @@ description: "This timeline covers the key milestones and events in the W3C webs
 14. **12 June 2020** - Front end standards
 <br>[View the Front end standards](/docs/front-end-standards)
 13. **02 June 2020** - Choosing a front end framework
-<br>[View the Choosing a front end framework](/docs/choosing-a-front-end-framework)
+<br>[View the Choosing a front end framework](/docs/choosing-front-end-framework)
 12. **22 May 2020** - Technical systems audit
-<br>[View the Technical systems audit](/docs/technical-system-audit)
+<br>[View the Technical systems audit](/docs/technical-systems-audit)
 11. **20-22 May 2020** - Stakeholder interviews
 <br>[View the Stakeholder interviews](/updates/user-research/)
 10. **11 May 2020** - User survey opened  
