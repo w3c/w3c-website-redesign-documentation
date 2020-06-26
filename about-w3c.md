@@ -37,7 +37,7 @@ Vivien has been the head of the W3C Systems Team since April 2018 and leads a te
 
 ### Jean-Guilhem Rouel, Systems Team
 
-Jean-Gui the knowledgeable person in the Systems Team as far as the W3C complicated website works. He was part of the 2008/2009 team who set-up the in-house CMS currently being used. He is the team PHP expert and is experienced in Symfony and Wordpress. Jean-Gui joined W3C in 2006 as Webmaster. He holds an engineering degree in Computer Science, specializing in Networks, and a degree in Mathematics and Computer Science. 
+Jean-Gui is the most knowledgeable person in the Systems Team as far as the W3C complicated website works. He was part of the 2008/2009 team who set-up the in-house CMS currently being used. He is the team PHP expert and is experienced in Symfony and Wordpress. Jean-Gui joined W3C in 2006 as Webmaster. He holds an engineering degree in Computer Science, specializing in Networks, and a degree in Mathematics and Computer Science. 
 
 ### Gerald Oskoboiny, Systems Team
 
