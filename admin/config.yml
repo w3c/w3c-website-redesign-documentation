@@ -10,17 +10,17 @@ collections:
     label: "Data"
     files:
       - label: "Timeline"
-          name: "timeline"
-          file: "timeline.yml"
-          format: "yaml"
-          fields:
-            - label: "Entries"
-              widget: list
-              fields:
-                - {label: "Title", name: "title", widget: "string"}
-                - {label: "Description", name: "description", widget: "string"}
-                - {label: "Date", name: "date", widget: "date"}
-                - {label: "Link", name: "link", widget: "string"}
+        name: "timeline"
+        file: "timeline.yml"
+        format: "yaml"
+        fields:
+          - label: "Entries"
+            widget: list
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Description", name: "description", widget: "string"}
+              - {label: "Date", name: "date", widget: "date"}
+              - {label: "Link", name: "link", widget: "string"}
   - name: "pages"
     label: "Pages"
     files:
