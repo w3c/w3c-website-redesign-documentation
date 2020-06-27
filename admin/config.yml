@@ -11,7 +11,7 @@ collections:
     files:
       - label: "Timeline"
         name: "timeline"
-        file: "timeline.yml"
+        file: "_data/timeline.yml"
         format: "yaml"
         fields:
           - label: "Entries"
