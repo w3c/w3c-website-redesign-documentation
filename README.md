@@ -4,7 +4,7 @@ Project documention for the 2020 W3C website redesign project hosted on https://
 
 ## Getting started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on staging and prod environments.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project to staging and prod environments.
 
 ## Site URLs
 
@@ -27,14 +27,11 @@ In project folder, run:
 
 ```
 bundle install
-bundle exec jekyll serve
 ```
-
-View site at http://localhost:4000
 
 ## Build commands
 
-To build and serve the site via http://localhost:4000
+To build and serve the site locally via http://localhost:4000
 
 ```
 bundle exec jekyll serve
