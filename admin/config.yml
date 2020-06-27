@@ -18,10 +18,10 @@ collections:
             name: "entries"
             widget: list
             fields:
-              - {label: "Title", name: "title", widget: "string"}
-              - {label: "Description", name: "description", widget: "string"}
-              - {label: "Date", name: "date", widget: "date"}
-              - {label: "Link", name: "link", widget: "string"}
+              - {label: "Title", name: "title", widget: "string", hint: "A short title for the update"}
+              - {label: "Date", name: "date", widget: "date", hint: "The date this update happened (or the first date if it applies to a date range"}
+              - {label: "Description", name: "description", widget: "string", required: false, hint: "Summary of the update. Please note, if you do not include a link the RSS feed requires a description which should contain full details of the update."}
+              - {label: "Link", name: "link", widget: "string", required: false, hint: "A link to more information"}
   - name: "pages"
     label: "Pages"
     files:
