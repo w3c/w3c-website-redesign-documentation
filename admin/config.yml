@@ -12,15 +12,14 @@ collections:
       - label: "Timeline"
         name: "timeline"
         file: "_data/timeline.yml"
-        format: "yaml"
         fields:
           - label: "Entries"
             name: "entries"
             widget: list
             fields:
               - {label: "Title", name: "title", widget: "string", hint: "A short title for the update"}
-              - {label: "Date", name: "date", widget: "date", hint: "The date this update happened (or the first date if it applies to a date range"}
               - {label: "Description", name: "description", widget: "string", required: false, hint: "Summary of the update. Please note, if you do not include a link the RSS feed requires a description which should contain full details of the update."}
+              - {label: "Date", name: "datetime", widget: "date", format: "YYYY-MM-DD", dateFormat: "YYYY-MM-DD", timeFormat: false, hint: "The date this update happened (or the first date if it applies to a date range"}
               - {label: "Link", name: "link", widget: "string", required: false, hint: "A link to more information"}
   - name: "pages"
     label: "Pages"
