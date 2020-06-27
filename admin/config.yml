@@ -6,28 +6,53 @@ publish_mode: editorial_workflow
 media_folder: "assets/images"
 
 collections:
+  - name: "data"
+    label: "Data"
+    files:
+      - label: "Timeline"
+          name: "timeline"
+          file: "timeline.yml"
+          format: "yaml"
+          fields:
+            - label: "Entries"
+              widget: list
+              fields:
+                - {label: "Title", name: "title", widget: "string"}
+                - {label: "Description", name: "description", widget: "string"}
+                - {label: "Date", name: "date", widget: "date"}
+                - {label: "Link", name: "link", widget: "string"}
   - name: "pages"
     label: "Pages"
     files:
-      - label: "Home"
-        name: "home"
-        file: "index.md"
+      - label: "Feedback"
+        name: "feedback"
+        file: "feedback.md"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
-          - {label: "Nav order", name: "nav_order", widget: "number"}
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "string"}
+          - {label: "Nav order", name: "nav_order", widget: "number"}
           - {label: "Description", name: "description", widget: "string"}
-          - {label: "Author", name: "author", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "About W3C"
+        name: "about-w3c"
+        file: "about-w3c.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "string"}
+          - {label: "Nav order", name: "nav_order", widget: "number"}
+          - {label: "Description", name: "description", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "About Studio 24"
         name: "about-studio-24"
         file: "about-studio-24.md"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
-          - {label: "Nav order", name: "nav_order", widget: "number"}
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "string"}
+          - {label: "Nav order", name: "nav_order", widget: "number"}
           - {label: "Description", name: "description", widget: "string"}
-          - {label: "Author", name: "author", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
   - name: "updates" 
     label: "Updates" 

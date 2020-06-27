@@ -1,0 +1,75 @@
+- title: Front end approach
+  description: Announcing the decision on the front end approach we will use
+  date: 2020-06-24
+  link: /updates/front-end-approach/
+
+- title: Information architecture report
+  description: Draft IA report presented to W3C team
+  date: 2020-06-12
+  link: https://docs.google.com/document/d/1qVUWoRqMD95LE9z22dP5hPbToKnRugv4jK83L3pXvts/view
+
+- title: Front end standards
+  description: Front-end standards we plan to meet in the HTML build of w3.org
+  date: 2020-06-12
+  link: /docs/front-end-standards
+
+- title: Choosing a front end framework
+  description: Document to help W3C team choose the right CSS approach for long-term maintenance
+  date: 2020-06-02
+  link: /docs/choosing-front-end-framework
+
+- title: Technical systems audit
+  description: Overview of the technical infrastructure we have to deal with as part of this project
+  date: 2020-05-22
+  link: /docs/technical-systems-audit
+
+- title: Stakeholder interviews started
+  date: 2020-05-20
+
+- title: Project update, May
+  description: A summary of the new W3C website redesign project and where we are now.
+  date: 2020-05-18
+  link: /updates/project-update/
+
+- title: User survey started
+  description: How we are gathering feedback from website users
+  date: 2020-05-11
+  link: /updates/user-research/
+
+- title: High level timeline shared for review
+  description: First version after Discovery phase
+  date: 2020-05-07
+  link: /docs/high-level-timeline/
+
+- title: Project approach shared for agreement
+  description: Definition of the project direction and approach
+  date: 2020-05-07
+  link: /docs/project-approach/
+
+- title: Agreed initial user groups
+  date: 2020-04-14
+  link: /docs/user-groups/
+
+- title: Design discussions in progress
+  description: Feedback from W3C to inform the design direction
+  date: 2020-04-14
+  link: /updates/design-survey/
+
+- title: Started user group research and user story development
+  date: 2020-04-01
+
+- title: Studio 24 kick off the W3C project and start Discovery phase
+  date: 2020-03-16
+
+- title: W3C awards contract to Studio 24
+  date: 2020-02-07
+  link: https://twitter.com/w3c/status/1225796276555567105
+
+- title: Studio 24 submit project proposal
+  date: 2019-12-13
+  link: https://lists.w3.org/Archives/Public/public-website-redesign/2019Dec/0024.html
+
+- title: W3C publish the W3C website redesign phase 1 RFP
+  date: 2019-11-07
+  link: https://www.w3.org/2019/11/website-redesign-rfp.html
+
