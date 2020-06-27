@@ -15,6 +15,7 @@ collections:
         format: "yaml"
         fields:
           - label: "Entries"
+            name: "entries"
             widget: list
             fields:
               - {label: "Title", name: "title", widget: "string"}
