@@ -25,6 +25,7 @@ entries:
     link: /docs/technical-systems-audit
 
   - title: Stakeholder interviews started
+    description: We ran stakeholder interviews with 12 people connected to W3C between 20th and 22nd May
     date: 2020-05-20
 
   - title: Project update, May
@@ -56,10 +57,12 @@ entries:
     date: 2020-04-14
     link: /updates/design-survey/
 
-  - title: Started user group research and user story development
+  - title: Started user group research
+    description: Work starts on identifying user groups and user research. This will help form user and job stories which we use to help define what users want to do on the W3C site.
     date: 2020-04-01
 
-  - title: Studio 24 kick off the W3C project and start Discovery phase
+  - title: Studio 24 kick off the W3C project
+    description: The project officially started on 16th March, the team are really excited about working with W3C! This starts with the Discovery phase where we review the current site, technical architecure, users, and problems we're trying to solve on this project.
     date: 2020-03-16
 
   - title: W3C awards contract to Studio 24

@@ -7,7 +7,7 @@ description: "Find out how you can contibute to this project by giving feedback.
 ---
 # Feedback
 
-There are several ways you can follow updates on this project and provide feedback. These are listed below.
+There are several ways you can follow updates on this project and provide feedback.
 
 ## Keeping up to date
 
