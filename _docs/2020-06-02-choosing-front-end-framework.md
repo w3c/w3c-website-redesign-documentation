@@ -3,7 +3,7 @@ layout: doc
 title: "Choosing a front end framework"
 date: "2020-06-02"
 categories: [Front-End]
-description: "A summary of W3C's requirements for a Front-End CSS framework to build w3.org and Studio 24's recommendations."
+description: "A summary of W3C's requirements for a Front-End CSS framework to help maintain w3.org and Studio 24's recommendations on how to approach CSS build."
 author: Nicola Saunders
 ---
 
