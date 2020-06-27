@@ -1,12 +1,12 @@
 entries:
-  - title: Front end approach
+  - date: 2020-06-24
+    title: Front end approach
     description: Announcing the decision on the front end approach we will use
-    date: 2020-06-24
     link: /updates/front-end-approach/
 
-  - title: Information architecture report
+  - date: 2020-06-12
+    title: Information architecture report
     description: Draft IA report presented to W3C team
-    date: 2020-06-12
     link: https://docs.google.com/document/d/1qVUWoRqMD95LE9z22dP5hPbToKnRugv4jK83L3pXvts/view
 
   - title: Front end standards
