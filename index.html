@@ -1,0 +1,38 @@
+---
+layout: default
+title: Home
+description: "This site is a collection of regular updates and documents Studio 24 are delivering as part of the W3C website redesign"
+nav_order: 1
+permalink: /
+---
+<div class="home">
+
+  <h1>W3C website redesign project</h1>
+
+  <p>During 2020, Studio 24 are proud to be working with the World Wide Web Consortium (W3C) on a redesign of their website
+      <a href="https://www.w3.org/">w3.org</a> to more effectively communicate what the organisation does with a modern, inclusive, usable website.</p>
+
+  <p>We’ve set this project site up to help work in the open, to share our progress, key documents and learnings.
+    We strive to post regularly to this site, so sometimes documents will be draft and potentially work-in-progress.</p>
+
+  <p>You can view the <a href="/timeline/">full timeline</a> or subscribe to updates via <a href="/feeds/updates.xml">RSS</a>.</p>
+
+    <h2>Recent updates</h2>
+    
+    <ol class="tree-list">
+      {% for member in site.data.timeline.entries limit:3 %}
+        <li>
+          <strong>{{ member.date | date_to_string }}</strong> -
+          {% if member.link != nil %}
+            <a href="{{ member.link | absolute_url }}">{{ member.title | markdownify | strip_html | trim  }}</a>
+          {% else %}
+            {{ member.title | markdownify | strip_html | trim  }}
+          {% endif %}
+          {% if member.description != nil %}
+            <br>{{ member.description | markdownify | strip_html | trim  }}
+          {% endif %}
+        </li>
+      {% endfor %}
+      </ol>
+
+</div>

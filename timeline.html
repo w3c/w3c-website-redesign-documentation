@@ -1,0 +1,36 @@
+---
+layout: default
+title: Timeline
+permalink: /timeline/
+nav_order: 2
+description: "This timeline covers the key milestones and events in the W3C website redesign."
+---
+
+<div class="articles">
+
+  <h1>Timeline</h1>
+
+  <p class="fs-6 fw-300">
+    This timeline covers the key milestones and events in the W3C website redesign.
+    You can subscribe to updates via <a href="/feeds/updates.xml">RSS</a>.
+  </p>
+
+  <hr>
+
+  <ol class="tree-list">
+  {% for member in site.data.timeline.entries %}
+    <li>
+      <strong>{{ member.date | date_to_string }}</strong> -
+      {% if member.link != nil %}
+        <a href="{{ member.link | absolute_url }}">{{ member.title | markdownify | strip_html | trim  }}</a>
+      {% else %}
+        {{ member.title | markdownify | strip_html | trim  }}
+      {% endif %}
+      {% if member.description != nil %}
+        <br>{{ member.description | markdownify | strip_html | trim  }}
+      {% endif %}
+    </li>
+  {% endfor %}
+  </ol>
+
+</div>

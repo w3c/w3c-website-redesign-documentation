@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: "CMS strategy and requirements"
-date: "2020-05-15"
+date: "2020-06-15"
 categories: [Planning]
 description: "An overview of what W3C need from a new CMS."
 author: Simon R Jones
