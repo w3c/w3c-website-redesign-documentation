@@ -18,8 +18,8 @@ collections:
             widget: list
             fields:
               - {label: "Title", name: "title", widget: "string", hint: "A short title for the update"}
-              - {label: "Description", name: "description", widget: "string", required: false, hint: "Summary of the update. Please note, if you do not include a link for this entry the RSS feed requires a description."}
               - {label: "Date", name: "datetime", widget: "date", format: "YYYY-MM-DD", dateFormat: "Do MMM YYYY", timeFormat: false, hint: "The date this update happened (or the first date if it applies to a date range)"}
+              - {label: "Description", name: "description", widget: "string", required: false, hint: "Summary of the update. Please note, if you do not include a link for this entry the RSS feed requires a description."}
               - {label: "Link", name: "link", widget: "string", required: false, hint: "A link to more information"}
   - name: "pages"
     label: "Pages"
@@ -52,6 +52,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "string"}
           - {label: "Nav order", name: "nav_order", widget: "number"}
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Writing guide"
+        name: "writing-guide"
+        file: "writing-guide.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "string"}
+          - {label: "Nav exclude", name: "nav_exclude", widget: "hidden", default: true}
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
   - name: "updates" 
