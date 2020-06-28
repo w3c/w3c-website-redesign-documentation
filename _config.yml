@@ -13,9 +13,9 @@ color_scheme: nil
 # Footer content appears at the bottom of every page's main content
 footer_content: >
   Copyright &copy; 2020 <a href="https://studio24.net/">Studio 24</a>.
-  View all <a href="/docs/">Documents</a> and <a href="/updates/">Updates</a>.
   <a href="/cookies/">Privacy and cookies</a>.
-  <a href="/writing-guide/">Writing guide</a>.
+  View all <a href="/docs/">Documents</a> and <a href="/updates/">Updates</a>.
+  <a href="/writing-guide/">Writing guide</a>. 
   <br>
   Content on this site is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.<br>
   Find us on Twitter: <a href="https://twitter.com/studio24">Studio 24</a> and <a href="https://twitter.com/w3c">W3C</a>.
