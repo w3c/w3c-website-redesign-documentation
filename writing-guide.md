@@ -83,6 +83,9 @@ Occassional project update posts that are not project documents go here. Think o
 All new content needs to be added to the timeline. You can edit this in the `_data/timeline.yml` file or via 
 [NetlifyCMS](https://ecstatic-mccarthy-0be5bd.netlify.app/admin/#/collections/data/entries/timeline).
 
+Please note the timeline is displayed in the order of each entry. Therefore, you need to add new entries at the top. 
+When adding a timeline entry in NetlifyCMS it will appear at the bottom, so you'll need to drag it to the top.
+
 Each timeline update must contain:
 
 * Title - short title for this update (try to keep this under 8 words)
