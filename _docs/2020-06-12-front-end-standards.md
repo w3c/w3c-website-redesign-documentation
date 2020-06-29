@@ -5,6 +5,8 @@ date: "2020-06-12"
 categories: [Planning]
 description: "The front-end standards we plan to use within the W3C website redesign project are summarised below. Further details on each item appear in this document."
 author: Carlos Eriksson, Nicola Saunders
+thumbnail: "/assets/images/img-standards.png"
+thumbnail_alt: "Sketch of an American Football Placekicker scoring a field goal. The football shows the W3C logo. 'Standards' is written in the end zone."
 ---
 
 # Executive summary

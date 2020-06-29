@@ -1,5 +1,9 @@
 {% if page.thumbnail %}
-<meta property="og:image" content="http://apollo.s24.net/dist/assets/images/apollo.png"/>
+<meta property="og:image" content="{{ page.thumbnail | absolute_url }}"/>
+{% endif %}
+
+{% if page.thumbnail_alt %}
+<meta property="og:image:alt" content="{{ page.thumbnail_alt }}" />
 {% endif %}
 
 <meta property="og:title" content="{{ page.title }} - {{ site.title }}"/>
