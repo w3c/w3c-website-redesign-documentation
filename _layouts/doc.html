@@ -13,7 +13,19 @@ layout: default
 </p>
 {% endif %}
 
-<p class="post-byline">By {{ page.author }} - {{ page.date | date_to_string }}</p>
+<p class="post-byline">
+  By {{ page.author }} - {{ page.date | date: "%e %B %Y" }}{%- if page.updated != nil -%}
+    , updated {{ page.updated | date: "%e %B" }}
+
+    {% assign date_year = page.date | date: "%Y" %}
+    {% assign updated_year = page.updated | date: "%Y" %}
+
+    {% if date_year !=  updated_year %}
+      {{ page.updated | date: "%Y" }}
+    {% endif %}
+
+  {%- endif -%}
+</p>
 
 <hr>
 

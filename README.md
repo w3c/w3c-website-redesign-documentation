@@ -9,7 +9,6 @@ These instructions will get you a copy of the project up and running on your loc
 ## Site URLs
 
 * Live - https://w3c.studio24.net/
-* Staging - http://w3c.studio24.dev/
 * Local development - http://localhost:4000
 
 The production site is cached via Cloudflare.
@@ -39,27 +38,9 @@ bundle exec jekyll serve
 
 ## Deployment 
 
-### Deploy to production
+We use [Netlify](https://www.netlify.com) to build and host the working in the open site.
 
-Only deploy master branch to prod.
-
-```
-dep deploy production
-```
-
-### Deploy to staging
-
-Please note this deploy process uses Jekyll settings in `_config_staging.yml`, which override those in `_config.yml`
-
-```
-dep deploy staging
-```
-
-### Deploy a custom branch to staging
-
-```
-dep deploy staging --branch=develop
-``` 
+See [publishing content](/writing-guide/#publishing-content).
 
 ## Templating
 
@@ -72,3 +53,5 @@ bundle info --path just-the-docs
 ```
 
 See https://jekyllrb.com/docs/themes/
+
+CSS overrides for the theme are currently written in `_sass/overrides.scss`
