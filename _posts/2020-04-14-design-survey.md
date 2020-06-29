@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Design direction survey insights"
-date: 2020-05-26
+date: 2020-04-14
 categories: [Design]
 description: "Initial thoughts from W3C to inform the design direction."
 author: "Ian Axton"

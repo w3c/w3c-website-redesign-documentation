@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: "User groups"
-date: "2020-05-22"
+date: "2020-04-14"
 categories: [Information Architecture]
 description: "The user groups we established to understand the W3C users, their motivations and needs."
 author: Ian Axton, Ben Challoner

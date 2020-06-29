@@ -33,6 +33,11 @@ entries:
     date: 2020-05-18
     link: /updates/project-update/
 
+  - title:  CMS strategy and requirements
+    description: An overview of what W3C need from a new CMS
+    date: 2020-05-15
+    link: /docs/cms-strategy-and-requirements/
+
   - title: User survey started
     description: How we are gathering feedback from website users
     date: 2020-05-11
