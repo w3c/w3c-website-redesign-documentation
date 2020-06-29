@@ -71,8 +71,13 @@ in the HTML file.
 
 ### Docs
 
-Project documents. We should publish these as soon as we want to share these with the wider W3C team & community. It's 
-OK if these documents are work-in-progress or draft, just note this where appropriate.
+Project documents. We should publish these as soon as we want to share these with the wider W3C team & community. 
+
+It's OK if these documents are work-in-progress or draft, just note this in the document title and timeline title. E.g.
+
+```
+title: Information architecture report (draft)
+```
 
 ### Updates
 
