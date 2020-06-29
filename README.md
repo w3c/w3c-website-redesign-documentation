@@ -9,6 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Site URLs
 
 * Live - https://w3c.studio24.net/
+* Develop branch - https://develop--ecstatic-mccarthy-0be5bd.netlify.app/
 * Local development - http://localhost:4000
 
 The production site is cached via Cloudflare.
@@ -40,7 +41,12 @@ bundle exec jekyll serve
 
 We use [Netlify](https://www.netlify.com) to build and host the working in the open site.
 
-See [publishing content](/writing-guide/#publishing-content).
+Content is published from the production `netlify` branch. See [publishing content](/writing-guide/#publishing-content) for how to publish content to production.
+
+Any changes committed to the `develop` branch are auto-deployed to https://develop--ecstatic-mccarthy-0be5bd.netlify.app/
+
+Netlify automatically creates a preview URL for any pull requests that are created to merge into the `netlify` branch. 
+[Login to Netlify](https://app.netlify.com/sites/ecstatic-mccarthy-0be5bd/overview) to view the preview URL.
 
 ## Templating
 
