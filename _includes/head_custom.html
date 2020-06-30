@@ -1,5 +1,5 @@
 {% if page.thumbnail %}
-<meta property="og:image" content="{{ page.thumbnail | relative_url }}"/>
+<meta property="og:image" content="{{ page.thumbnail | absolute_url }}"/>
 {% endif %}
 
 {% if page.thumbnail_alt %}
