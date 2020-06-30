@@ -2,6 +2,7 @@
 layout: doc
 title: "Front end standards"
 date: "2020-06-12"
+updated: "2020-06-30"
 categories: [Planning]
 description: "The front-end standards we plan to use within the W3C website redesign project are summarised below. Further details on each item appear in this document."
 author: Carlos Eriksson, Nicola Saunders
@@ -9,7 +10,7 @@ thumbnail: "/assets/images/img-standards.png"
 thumbnail_alt: "Sketch of an American Football Placekicker scoring a field goal. The football shows the W3C logo. 'Standards' is written in the end zone."
 ---
 
-# Executive summary
+## Executive summary
 
 The front-end standards we plan to use within the W3C website redesign project are summarised below. Further details on each item appear in this document.
 
@@ -25,14 +26,14 @@ The front-end standards we plan to use within the W3C website redesign project a
 *   We use NPM scripts to build front-end assets. Once HTML build starts we’ll run through this with the Systems Team. It’s been noted they use [Symfony Webpack](https://symfony.com/doc/current/frontend.html) to build front-end assets.
 
 
-# Page speed (performance)
+## Page speed (performance)
 
 _“Performance must be as good as or better than the current site.”_
 
 We recommend creating performance budgets: a target for how long a user has to wait before the site is usable, known as [Time-to-Interactive (TTI)](https://web.dev/tti/). We do this through a list of how large each template is allowed to be, grouped by resource-type. We can measure against these budgets during development and aim to stay within them by making decisions that will impact features or page resources.
 
 
-## Why performance matters
+### Why performance matters
 
 Performance is a fundamental component of the user experience, people are impatient and won’t wait for a slow website. Whilst the idea of an average page is a myth, the reality is that websites are growing larger by the month.
 
@@ -48,14 +49,14 @@ The two biggest contributors to slow websites are:
 *   JavaScript which, although smaller in size, has a much bigger impact on performance resulting in pages taking a long time before people can interact with them.
 
 
-## Your current website
+### Your current website
 
 Overall, testing your frequently-visited pages shows that your website performance is in the 90th percentile, with some exceptions*. Your current site takes an average of 2.7 seconds for first-load** which is good.
 
 [https://docs.google.com/spreadsheets/d/1DkTcK024oWhGerYbamHDNObGPWpIPLKjBKyTpCrFGGE/edit#gid=1323628854](https://docs.google.com/spreadsheets/d/1DkTcK024oWhGerYbamHDNObGPWpIPLKjBKyTpCrFGGE/edit#gid=1323628854)
 
 
-## Our recommendations
+### Our recommendations
 
 We recommend 2.7 seconds for first-load TTI and less than 1 second for subsequent (cached) loads. The Google Lighthouse performance assessment settings are as follows:
 
@@ -68,7 +69,7 @@ We recommend 2.7 seconds for first-load TTI and less than 1 second for subsequen
 Using the [Performance Budget Calculator](https://www.performancebudget.io/) with a desired 3 seconds loading time on a Mobile 3G - Fast connection (1.6 Mbps) gives us a **maximum 600 KB budget**.
 
 
-### Critical rendering path
+#### Critical rendering path
 
 We also recommend thinking about the [critical rendering path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/) of your website: the set of steps browsers must take to convert HTML, CSS and JavaScript into a rendered web page that can be interacted with.
 
@@ -89,7 +90,7 @@ These budgets are split into different resource types (HTML, CSS, JavaScript, im
 ****Note: These measurements were made in March 2020 using the Google Lighthouse Tool. The newer [Google Web Vitals Initiative](https://web.dev/vitals/) uses updated terminology and methods, and it may be worth repeating the measurements using this newer set of guidelines.**
 
 
-### Additional recommendations
+#### Additional recommendations
 
 There are many performance improvements which can be implemented on a server and hosting level. These are often one-time tasks with great benefits for your visitors. While some of these recommendations may seem self-evident, an audit of your site shows that these are not currently implemented consistently.
 
@@ -100,7 +101,7 @@ There are many performance improvements which can be implemented on a server and
 *   Serve static assets with an efficient cache policy
 
 
-## How we measure performance
+### How we measure performance
 
 Throughout the development process we measure against these budgets and stay within them by either: 
 
@@ -113,7 +114,7 @@ Throughout the development process we measure against these budgets and stay wit
 We use Google Lighthouse to measure the performance because it gives us standalone documents which are easy to share, and allows for potential future continuous integration (CI).
 
 
-# Accessibility
+## Accessibility
 
 _“WCAG 2.1, ideally Level AAA (Level AA as a minimum)”_
 
@@ -136,7 +137,7 @@ Where interactivity needs to be added to any elements with JavaScript, we will f
 Accessibility checks will be made in house for each major page component/template during development with reference to the [WCAG Quick Reference Guide](https://www.w3.org/WAI/WCAG21/quickref/), to ensure accessibility is at the forefront of our process from the outset and not a box-ticking exercise later on.
 
 
-# Internationalisation
+## Internationalisation
 
 The W3C website serves a global audience. Internationalisation features, alongside the accessibility requirements outlined above, are crucial to ensuring a good user experience. We need to consider the following with respect to front end standards:
 
@@ -171,104 +172,60 @@ The W3C website serves a global audience. Internationalisation features, alongsi
 We will pay particular attention to [W3C internationalisation techniques for authoring HTML and CSS](https://www.w3.org/International/techniques/authoring-html) and other resources on [right-to-left styling](https://rtlstyling.com/posts/rtl-styling).
 
 
-# Browser compliance and support
+## Browser compliance and support
 
 Whilst acknowledging that we must provide a robust, working site for all users irrespective of device, browser or network conditions, we advise following the current [Government Digital Service (GDS) guidelines on browser support](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices#browsers-to-test-in):
 
 
 <table>
   <tr>
-   <td><strong>Operating system</strong>
-   </td>
-   <td><strong>Browser</strong>
-   </td>
-   <td><strong>Support</strong>
-   </td>
+   <th scope="col">Operating system</th>
+   <th scope="col">Browser</th>
+   <th scope="col">Support</th>
   </tr>
   <tr>
-   <td><strong>Windows</strong>
-   </td>
-   <td>Internet Explorer 11
-   </td>
-   <td>Compliant
-   </td>
-  </tr>
-  <tr>
+   <th scope="row">Windows</th>
    <td>
-   </td>
-   <td>Edge (latest versions)
+     <ul>
+     <li>Internet Explorer 11</li>
+     <li>Edge (latest versions)</li>
+     <li>Google Chrome (latest versions)</li>
+     <li>Mozilla Firefox (latest versions)</li>
+     </ul>
    </td>
    <td>Compliant
    </td>
   </tr>
   <tr>
+   <th scope="row">macOS</th>
    <td>
-   </td>
-   <td>Google Chrome (latest versions)
+     <ul>
+     <li>Safari 12 and later</li>
+     <li>Google Chrome (latest versions)</li>
+     <li>Mozilla Firefox (latest versions)</li>
+     </ul>
    </td>
    <td>Compliant
    </td>
   </tr>
   <tr>
+    <th scope="row">iOS</th>
+    <td>
+      <ul>
+      <li>Safari for iOS 12.1 and later</li>
+      <li>Google Chrome (latest versions)</li>
+      </ul>
+    </td>
+   <td>Compliant
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">Android</th>
    <td>
-   </td>
-   <td>Mozilla Firefox (latest versions)
-   </td>
-   <td>Compliant
-   </td>
-  </tr>
-  <tr>
-   <td><strong>macOS</strong>
-   </td>
-   <td>Safari 12 and later
-   </td>
-   <td>Compliant
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Google Chrome (latest versions)
-   </td>
-   <td>Compliant
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Mozilla Firefox (latest versions)
-   </td>
-   <td>Compliant
-   </td>
-  </tr>
-  <tr>
-   <td><strong>iOS</strong>
-   </td>
-   <td>Safari for iOS 12.1 and later
-   </td>
-   <td>Compliant
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Google Chrome (latest versions)
-   </td>
-   <td>Compliant
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Android</strong>
-   </td>
-   <td>Google Chrome (latest versions)
-   </td>
-   <td>Compliant
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Samsung Internet (latest versions)
+     <ul>
+     <li>Google Chrome (latest versions)</li>
+     <li>Samsung Internet (latest versions)</li>
+     </ul>
    </td>
    <td>Compliant
    </td>
@@ -286,25 +243,13 @@ Older browsers will receive a more simplified single column layout, and progress
 
 ### Your current website
 
-Based on the last month of traffic (6,449,184 pageviews, measured in March 2020) we’ve identified these as your busiest sites.
-
-
-
-*   Validators (65.6% of traffic)
-*   W3C site (23% of traffic)
-*   WAI (10.1% of traffic)
-*   Blog (0.3% of traffic)
-
-Of these four, we’re only focusing on the statistics from the W3C site as this is in scope and has a large enough percentage of traffic to be statistically significant.
-
-
 <table>
+<thead>
   <tr>
-   <td><strong>Browser</strong>
-   </td>
-   <td><strong>Usage</strong>
-   </td>
+   <th scope="col">Browser</th>
+   <th scope="col">Usage</th>
   </tr>
+</thead>
   <tr>
    <td>Google Chrome (20 latest versions)
    </td>
@@ -352,3 +297,7 @@ Of these four, we’re only focusing on the statistics from the W3C site as this
 
 This browser list is fairly similar to the GDS browser list. However, it is important for us to note that for Chrome, Firefox and Edge your site receives visits from a broader range of versions of those browsers.
 
+
+_Update: 30 June 2020_
+
+Based on the decreasing usage of IE11 and [Microsoft encouraging its users to use Edge](https://docs.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge) the decision has been made not to include IE11 in the list of browsers that we target for the advanced experience. While the website needs to work on IE11, it does not have to be pretty or highly optimised for that browser.
