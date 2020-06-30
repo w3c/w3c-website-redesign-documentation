@@ -1,4 +1,9 @@
 entries:
+  - date: 2020-06-30
+    title: Front end standards
+    description: Update about Internet Explorer 11
+    link: /docs/front-end-standards
+
   - date: 2020-06-24
     title: Front end approach
     description: Announcing the decision on the front end approach we will use
