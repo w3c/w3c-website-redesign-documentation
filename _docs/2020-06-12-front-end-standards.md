@@ -187,7 +187,7 @@ Whilst acknowledging that we must provide a robust, working site for all users i
    <th scope="row">Windows</th>
    <td>
      <ul>
-     <li>Internet Explorer 11</li>
+     <li><del>Internet Explorer 11</del></li>
      <li>Edge (latest versions)</li>
      <li>Google Chrome (latest versions)</li>
      <li>Mozilla Firefox (latest versions)</li>
