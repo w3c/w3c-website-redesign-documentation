@@ -40,7 +40,9 @@ content via [NetlifyCMS](https://www.netlifycms.org/).
 
 ### NetlifyCMS
 
-To access NetlifyCMS go to [https://ecstatic-mccarthy-0be5bd.netlify.app/admin/](https://ecstatic-mccarthy-0be5bd.netlify.app/admin/)
+You need to be invited to access NetlifyCMS. 
+
+To access NetlifyCMS go to [https://w3c.studio24.net/admin/](https://w3c.studio24.net/admin/)
 
 Login either with your GitHub account (which must have write access to the [repo](https://github.com/w3c/w3c-website-redesign-documentation)) or a Netlify user (you need to be 
 invited to join).
@@ -60,17 +62,17 @@ Add new images to the site, these are saved in `assets/images`.
 ## Publishing content
 We use [Netlify](https://www.netlify.com) to build and host the working in the open site.
 
-Any changes to the `netlify` branch are automatically deployed by Netlify and published to the live site at 
+Any changes to the `production` branch are automatically deployed by Netlify and published to the live site at 
 [https://w3c.studio24.net/](https://w3c.studio24.net/)
 
-Please note you cannot publish changes directly to the `netlify` branch, instead you need to create a branch (or use the 
-`develop` branch) for any changes and create a pull request to merge these into `netlify`. You can 
+Please note you cannot publish changes directly to the `production` branch, instead you need to create a branch (or use the 
+`develop` branch) for any changes and create a pull request to merge these into `production`. You can 
 also use NetlifyCMS to manage the process of publishing content.
 
 ### NetlifyCMS publishing workflow 
 All content is added as a draft, which then allows us to go through an editorial workflow to review and publish changes. 
 Draft changes are added to a git branch and a new pull request is opened. Once approved, these changes are merged into 
-the `netlify` branch.
+the `production` branch.
 
 A summary of how this works appears below (also see [publish mode](https://www.netlifycms.org/docs/configuration-options/#publish-mode)).
 
@@ -83,7 +85,7 @@ A summary of how this works appears below (also see [publish mode](https://www.n
 The timeline acts as a list of all updates made to this site. Please add a timeline entry for all new content additions 
 and any content changes (e.g. an updated document).
 
-You can edit this in the `_data/timeline.yml` file or via NetlifyCMS in Data > [Timeline](https://ecstatic-mccarthy-0be5bd.netlify.app/admin/#/collections/data/entries/timeline).
+You can edit this in the `_data/timeline.yml` file or via NetlifyCMS in Data > [Timeline](https://w3c.studio24.net/admin/#/collections/data/entries/timeline).
 
 Please note the timeline is displayed in the order of each entry. Therefore, you need to add new entries at the top. 
 When adding a timeline entry in NetlifyCMS it will appear at the bottom, so you'll need to drag it to the top.
@@ -143,6 +145,8 @@ You can also set front matter variables via NetlifyCMS.
 * `categories` - list of categories separated by comma
 * `description` - short description of the page
 * `author` - the people who wrote the document 
+* `thumbnail` - Thumbnail image, used for social sharing  
+* `thumbnail_alt` - Alternative text for thumbnail image
 
 Example: 
  
@@ -155,6 +159,8 @@ updated: "2020-06-30"
 categories: [Planning]
 description: "The front-end standards we plan to use within the W3C website redesign project are summarised below. Further details on each item appear in this document."
 author: Carlos Eriksson, Nicola Saunders
+thumbnail: "/assets/images/img-standards.png"
+thumbnail_alt: "Sketch of an American Football Placekicker scoring a field goal. The football shows the W3C logo. 'Standards' is written in the end zone."
 ---
 ```
 
@@ -180,4 +186,6 @@ You can also set front matter variables via NetlifyCMS.
 * `categories` - list of categories separated by comma
 * `description` - short description of the page
 * `author` - the people who wrote the document 
+* `thumbnail` - Thumbnail image, used for social sharing  
+* `thumbnail_alt` - Alternative text for thumbnail image
 
