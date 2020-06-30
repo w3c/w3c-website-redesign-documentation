@@ -174,7 +174,7 @@ We will pay particular attention to [W3C internationalisation techniques for aut
 
 ## Browser compliance and support
 
-Whilst acknowledging that we must provide a robust, working site for all users irrespective of device, browser or network conditions, we advise following the current [Government Digital Service (GDS) guidelines on browser support](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices#browsers-to-test-in):
+Whilst acknowledging that we must provide a robust, working site for all users irrespective of device, browser or network conditions, we broadly advise following the [Government Digital Service (GDS) guidelines on browser support](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices#browsers-to-test-in):<sup>*</sup>
 
 
 <table>
@@ -187,7 +187,6 @@ Whilst acknowledging that we must provide a robust, working site for all users i
    <th scope="row">Windows</th>
    <td>
      <ul>
-     <li><del>Internet Explorer 11</del></li>
      <li>Edge (latest versions)</li>
      <li>Google Chrome (latest versions)</li>
      <li>Mozilla Firefox (latest versions)</li>
@@ -235,7 +234,7 @@ Whilst acknowledging that we must provide a robust, working site for all users i
 
 
 
-*   **Compliant** means that the website must look as good as it does in modern browsers. Users must be able to access the information they need and/or complete their task without layout issues causing them problems.
+*   **Compliant** means that the website must look as good as it does in modern browsers. Users must be able to access the information they need and/or complete their task without layout issues causing them problems. We will undertake detailed testing for the new w3.org designs in compliant browsers.
 *   **Latest versions** refers to the latest stable version and the version immediately before that.
 
 Older browsers will receive a more simplified single column layout, and progressive enhancement will be used to provide advanced CSS and JavaScript to supporting browsers.
@@ -298,6 +297,6 @@ Older browsers will receive a more simplified single column layout, and progress
 This browser list is fairly similar to the GDS browser list. However, it is important for us to note that for Chrome, Firefox and Edge your site receives visits from a broader range of versions of those browsers.
 
 
-_Update: 30 June 2020_
+<sup>*</sup>_Update: 30 June 2020_
 
-Based on the decreasing usage of IE11 and [Microsoft encouraging its users to use Edge](https://docs.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge) the decision has been made not to include IE11 in the list of browsers that we target for the advanced experience. While the website needs to work on IE11, it does not have to be pretty or highly optimised for that browser.
+Based on the decreasing usage of IE11 and [Microsoft encouraging its users to use Edge](https://docs.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge) the decision has been made not to include IE11 in the list of compliant browsers. While the website needs to work on IE11, it does not have to be pretty or highly optimised for that browser.
