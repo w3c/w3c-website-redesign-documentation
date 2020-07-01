@@ -1,94 +1,107 @@
 entries:
-  - date: 2020-06-30
+  - datetime: 2020-07-01
+    title: Stakeholder interviews
+    description: We are running a series of stakeholder interviews to help
+      understand how users find standards and groups content on w3.org
+  - date: 2020-06-30T00:00:00.000Z
     title: Front end standards
     description: Update about Internet Explorer 11
     link: /docs/front-end-standards
-
-  - date: 2020-06-24
+    datetime: 2020-07-01
+  - date: 2020-06-24T00:00:00.000Z
     title: Front end approach
     description: Announcing the decision on the front end approach we will use
     link: /updates/front-end-approach/
-
-  - date: 2020-06-23
+    datetime: 2020-07-01
+  - date: 2020-06-23T00:00:00.000Z
     title: User survey for standards & groups
-    description: Launched two user surveys to find out more about how users find standards & groups on w3.org
+    description: Launched two user surveys to find out more about how users find
+      standards & groups on w3.org
     link: https://www.w3.org/blog/2020/06/w3c-website-redesign-short-user-surveys-regarding-finding-content/
-
-  - date: 2020-06-12
+    datetime: 2020-07-01
+  - date: 2020-06-12T00:00:00.000Z
     title: Information architecture report (draft)
     description: Draft IA report presented to W3C team
     link: https://docs.google.com/document/d/1qVUWoRqMD95LE9z22dP5hPbToKnRugv4jK83L3pXvts/view
-
+    datetime: 2020-07-01
   - title: Front end standards
     description: Front-end standards we plan to meet in the HTML build of w3.org
-    date: 2020-06-12
+    date: 2020-06-12T00:00:00.000Z
     link: /docs/front-end-standards
-
+    datetime: 2020-07-01
   - title: Choosing a front end framework
-    description: Document to help W3C team choose the right CSS approach for long-term maintenance
-    date: 2020-06-02
+    description: Document to help W3C team choose the right CSS approach for
+      long-term maintenance
+    date: 2020-06-02T00:00:00.000Z
     link: /docs/choosing-front-end-framework
-
+    datetime: 2020-07-01
   - title: Technical systems audit
-    description: Overview of the technical infrastructure we have to deal with as part of this project
-    date: 2020-05-22
+    description: Overview of the technical infrastructure we have to deal with as
+      part of this project
+    date: 2020-05-22T00:00:00.000Z
     link: /docs/technical-systems-audit
-
+    datetime: 2020-07-01
   - title: Stakeholder interviews started
-    description: We ran stakeholder interviews with 12 people connected to W3C between 20th and 22nd May
-    date: 2020-05-20
-
+    description: We ran stakeholder interviews with 12 people connected to W3C
+      between 20th and 22nd May
+    date: 2020-05-20T00:00:00.000Z
+    datetime: 2020-07-01
   - title: Project update, May
     description: A summary of the new W3C website redesign project and where we are now.
-    date: 2020-05-18
+    date: 2020-05-18T00:00:00.000Z
     link: /updates/project-update/
-
-  - title:  CMS strategy and requirements
+    datetime: 2020-07-01
+  - title: CMS strategy and requirements
     description: An overview of what W3C need from a new CMS
-    date: 2020-05-15
+    date: 2020-05-15T00:00:00.000Z
     link: /docs/cms-strategy-and-requirements/
-
+    datetime: 2020-07-01
   - title: User survey started
     description: How we are gathering feedback from website users
-    date: 2020-05-11
+    date: 2020-05-11T00:00:00.000Z
     link: /updates/user-research/
-
+    datetime: 2020-07-01
   - title: High level timeline shared for review
     description: First version after Discovery phase
-    date: 2020-05-07
+    date: 2020-05-07T00:00:00.000Z
     link: /docs/high-level-timeline/
-
+    datetime: 2020-07-01
   - title: Project approach shared for agreement
     description: Definition of the project direction and approach
-    date: 2020-05-07
+    date: 2020-05-07T00:00:00.000Z
     link: /docs/project-approach/
-
+    datetime: 2020-07-01
   - title: Agreed initial user groups
-    date: 2020-04-14
+    date: 2020-04-14T00:00:00.000Z
     link: /docs/user-groups/
-
+    datetime: 2020-07-01
   - title: Design discussions in progress
     description: Feedback from W3C to inform the design direction
-    date: 2020-04-14
+    date: 2020-04-14T00:00:00.000Z
     link: /updates/design-survey/
-
+    datetime: 2020-07-01
   - title: Started user group research
-    description: Work starts on identifying user groups and user research. This will help form user and job stories which we use to help define what users want to do on the W3C site.
-    date: 2020-04-01
-
+    description: Work starts on identifying user groups and user research. This will
+      help form user and job stories which we use to help define what users want
+      to do on the W3C site.
+    date: 2020-04-01T00:00:00.000Z
+    datetime: 2020-07-01
   - title: Studio 24 kick off the W3C project
-    description: The project officially started on 16th March, the team are really excited about working with W3C! This starts with the Discovery phase where we review the current site, technical architecure, users, and problems we're trying to solve on this project.
-    date: 2020-03-16
-
+    description: The project officially started on 16th March, the team are really
+      excited about working with W3C! This starts with the Discovery phase where
+      we review the current site, technical architecure, users, and problems
+      we're trying to solve on this project.
+    date: 2020-03-16T00:00:00.000Z
+    datetime: 2020-07-01
   - title: W3C awards contract to Studio 24
-    date: 2020-02-07
+    date: 2020-02-07T00:00:00.000Z
     link: https://twitter.com/w3c/status/1225796276555567105
-
+    datetime: 2020-07-01
   - title: Studio 24 submit project proposal
-    date: 2019-12-13
+    date: 2019-12-13T00:00:00.000Z
     link: https://lists.w3.org/Archives/Public/public-website-redesign/2019Dec/0024.html
-
+    datetime: 2020-07-01
   - title: W3C publish the W3C website redesign phase 1 RFP
-    date: 2019-11-07
+    date: 2019-11-07T00:00:00.000Z
     link: https://www.w3.org/2019/11/website-redesign-rfp.html
-
+    datetime: 2020-07-01
