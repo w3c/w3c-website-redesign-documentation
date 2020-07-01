@@ -85,10 +85,7 @@ A summary of how this works appears below (also see [publish mode](https://www.n
 The timeline acts as a list of all updates made to this site. Please add a timeline entry for all new content additions 
 and any content changes (e.g. an updated document).
 
-You can edit this in the `_data/timeline.yml` file or via NetlifyCMS in Data > [Timeline](https://w3c.studio24.net/admin/#/collections/data/entries/timeline).
-
-Please note the timeline is displayed in the order of each entry. Therefore, you need to add new entries at the top. 
-When adding a timeline entry in NetlifyCMS it will appear at the bottom, so you'll need to drag it to the top.
+You can edit this in the `_data/timeline.yml` file. It's not possible to edit via NetlifyCMS. 
 
 Each timeline update must contain:
 
