@@ -6,21 +6,6 @@ publish_mode: editorial_workflow
 media_folder: "assets/images"
 
 collections:
-  - name: "data"
-    label: "Data"
-    files:
-      - label: "Timeline"
-        name: "timeline"
-        file: "_data/timeline.yml"
-        fields:
-          - label: "Entries"
-            name: "entries"
-            widget: list
-            fields:
-              - {label: "Title", name: "title", widget: "string", hint: "A short title for the update"}
-              - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", dateFormat: "Do MMM YYYY", timeFormat: false, hint: "The date this update happened (or the first date if it applies to a date range)"}
-              - {label: "Description", name: "description", widget: "string", required: false, hint: "Summary of the update. Please note, if you do not include a link for this entry the RSS feed requires a description."}
-              - {label: "Link", name: "link", widget: "string", required: false, hint: "A link to more information"}
   - name: "pages"
     label: "Pages"
     files:

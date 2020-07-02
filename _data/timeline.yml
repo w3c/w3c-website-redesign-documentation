@@ -1,7 +1,11 @@
 entries:
+  - date: 2020-07-01
+    title: Stakeholder interviews
+    description: We are running a series of stakeholder interviews to help understand how users find standards and groups content on w3.org
+
   - date: 2020-06-30
     title: Front end standards
-    description: Update about Internet Explorer 11
+    description: Remove "compliant" support for Internet Explorer 11. Site content will still be readable in IE11, it just won't look the same as modern browsers.
     link: /docs/front-end-standards
 
   - date: 2020-06-24
