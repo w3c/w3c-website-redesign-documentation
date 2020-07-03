@@ -14,7 +14,7 @@ date: 2020-07-03
 
 We're really excited to have welcomed two new people onto our team this week. 
 
-Marie Manandise, one of our Senior Developers, has retuned from maternity leave. When she went on leave, she was the only member of our team who was working remotely, being based in Belgium. She's come back to us all working remotely! Marie will be leading our work on choosing a CMS suitable for W3C. 
+Marie Manandise, one of our senior developers, has returned from maternity leave. When she went on leave, she was the only member of our team who was working remotely, being based in Belgium. She's come back to us all working remotely! Marie will be leading our work on choosing a CMS suitable for W3C. 
 
 Sazia Islam is a Senior UX Designer who has come on-board to drive some additional user research in the areas of Groups and Specifications on the W3C website. 
 
