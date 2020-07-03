@@ -1,4 +1,9 @@
 entries:
+  - date: 2020-07-03
+    title: Weeknotes 3 July
+    description: An update and reflection on this week
+    link: /updates/weeknotes-3-july
+
   - date: 2020-07-01
     title: Stakeholder interviews
     description: We are running a series of stakeholder interviews to help understand how users find standards and groups content on w3.org
@@ -13,10 +18,15 @@ entries:
     description: Announcing the decision on the front end approach we will use
     link: /updates/front-end-approach/
 
-  - date: 2020-06-23
+  - date: 2020-06-22
     title: User survey for standards & groups
     description: Launched two user surveys to find out more about how users find standards & groups on w3.org
-    link: https://www.w3.org/blog/2020/06/w3c-website-redesign-short-user-surveys-regarding-finding-content/
+    link: /updates/our-second-user-survey/
+
+  - date: 2020-06-15
+    title: CMS strategy and requirements
+    description: An outline of what W3C need from a new CMS to manage contnet on w3.org
+    link: /docs/cms-strategy-and-requirements/
 
   - date: 2020-06-12
     title: Information architecture report (draft)
