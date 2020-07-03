@@ -45,14 +45,14 @@ Carlos believes that the web is built by people, for people. And if we want to m
 
 In his spare time, Carlos writes [Inclusive by Design](https://superdupercritical.com/), where he gathers a decade of knowledge and experience packed into short, thoughtful and actionable posts on accessibility and inclusive practices.
 
-### Marie Manandise, Senior Front-end Developer
+### Marie Manandise, Senior Web Developer
 
-#### Role: CMS Development lead
+#### Role: CMS lead
 
 Marie first started coding as part of her biology degree course, during which she learned Pascal.
 A few years later, she woke up with the urge to make websites for a living. She took courses to turn her scripting skills into website building ones and started straight away as a freelance web developer.
 
-Marie now has 6 years’ experience as a front-end developer. She can work with any PHP based CMS but has been working almost exclusively with WordPress for the past few years.
+Marie joined Studio 24 in 2016 and has focussed on PHP development and Wordpress CMS projects.
 
 She is a big believer in coding best practices and often thinks that, when it comes to web design or development, ‘less is more’.
 
