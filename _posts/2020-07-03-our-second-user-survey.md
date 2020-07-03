@@ -6,18 +6,13 @@ categories:
 description: Two new public surveys to gather user information on groups,
   standards, specifications and technical reports.
 author: Julia Sang
-date: 2020-06-22T13:43:36.776Z
-thumbnail: /assets/images/img-content-management.png
-thumbnail_alt: "*"
+date: 2020-06-22
 ---
-## User surveys, round 2
 
 We've created two additional user surveys to gather more information on user needs, challenges and interactions with the following areas of the W3C website:
 
-1. Standards / specifications / technical reports\
-   [View on Survey Gizmo ](<1. <https://www.surveygizmo.eu/s3/90248823/W3C-re-design-Standards-Specifications-Technical-Reports>>)
-2. Groups [](https://www.surveygizmo.eu/s3/90248825/W3C-re-design-Groups)\
-   [View on Survey Gizmo](https://www.surveygizmo.eu/s3/90248825/W3C-re-design-Groups)
+1. [Standards / specifications / technical reports](https://www.surveygizmo.eu/s3/90248823/W3C-re-design-Standards-Specifications-Technical-Reports)
+2. [Groups](https://www.surveygizmo.eu/s3/90248825/W3C-re-design-Groups) 
 
 These are open from 22nd June and will be analysed the first week in July.
 
