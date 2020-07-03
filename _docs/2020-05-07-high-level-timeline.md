@@ -6,9 +6,7 @@ categories:
 description: A high-level project timeline showing key milestones and delivery phases.
 author: Julia Sang
 date: 2020-05-07
-updated: 2020-07-03T13:56:41.759Z
-thumbnail: /assets/images/project-approach-v1.2.png
-thumbnail_alt: Project approach chart
+updated: 2020-07-03
 ---
 This high level timeline outlines the main project phases. Within each phase the work is described, alongside the milestones that we expect to reach. All the work is to be completed by Studio 24, unless W3C is explicitly mentioned. 
 
