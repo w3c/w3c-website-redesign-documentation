@@ -46,7 +46,7 @@ To choose a CMS we will trial and assess Statamic and Craft CMS, while we can as
 
 ## Timeline
 
-There have been a few unexpected bumps in the road on the project which have affected the timeline. Covid-19 and moving to work remotely has been a big player in this area, as has the need for additional user research. Our high-level timeline has now been updated to reflect this. 
+There have been a few unexpected bumps in the road on the project which have affected the timeline. Covid-19 and moving to work remotely has been a big player in this area, as has the need for additional user research. Our [high-level timeline](https://w3c.studio24.net/docs/high-level-timeline/) has now been updated to reflect this. 
 
 ## Final thoughts
 
