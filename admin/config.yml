@@ -61,8 +61,8 @@ collections:
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "date"}
-      - {label: "Thumbnail image", name: "thumbnail", widget: "image"}
-      - {label: "Thumbnail image ALT text", name: "thumbnail_alt", widget: "string"}
+      - {label: "Social thumbnail image", name: "thumbnail", widget: "image", required: false}
+      - {label: "Social thumbnail image ALT text", name: "thumbnail_alt", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"} 
   - name: "docs" 
     label: "Docs" 
@@ -76,7 +76,7 @@ collections:
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "date"}
-      - {label: "Updated Date", name: "updated", widget: "date"}
-      - {label: "Thumbnail image", name: "thumbnail", widget: "image"}
-      - {label: "Thumbnail image ALT text", name: "thumbnail_alt", widget: "string"}
+      - {label: "Updated Date", name: "updated", widget: "date", required: false}
+      - {label: "Social thumbnail image", name: "thumbnail", widget: "image", required: false}
+      - {label: "Social thumbnail image ALT text", name: "thumbnail_alt", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
