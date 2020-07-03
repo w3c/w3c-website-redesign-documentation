@@ -3,7 +3,7 @@ layout: default
 title: About Studio 24
 permalink: /about-studio24/
 nav_order: 7
-description: "An introduction to Studio 24 and the team working on this project."
+description: An introduction to Studio 24 and the team working on this project.
 ---
 # About Studio 24
 
@@ -45,6 +45,17 @@ Carlos believes that the web is built by people, for people. And if we want to m
 
 In his spare time, Carlos writes [Inclusive by Design](https://superdupercritical.com/), where he gathers a decade of knowledge and experience packed into short, thoughtful and actionable posts on accessibility and inclusive practices.
 
+### Marie Manandise, Senior Web Developer
+
+#### Role: CMS lead
+
+Marie first started coding as part of her biology degree course, during which she learned Pascal.
+A few years later, she woke up with the urge to make websites for a living. She took courses to turn her scripting skills into website building ones and started straight away as a freelance web developer.
+
+Marie joined Studio 24 in 2016 and has focussed on PHP development and Wordpress CMS projects.
+
+She is a big believer in coding best practices and often thinks that, when it comes to web design or development, ‘less is more’.
+
 ### Nicola Saunders, Front-end Developer
 
 #### Role: Front-End Development lead
@@ -59,6 +70,12 @@ Claire’s project management style is to put relationships at the heart of proj
 
 Claire is also the Mental Health First Aider for the Studio, and is passionate about raising awareness on the importance of mental wellbeing. In previous roles Claire has also worked with a number of well-known brands, such as Shell, Michelin and Vauxhall.
 
+### Sazia Islam, Senior UX Designer
+
+#### Role: UX design
+
+Sazia is a user advocate, a systematic problem solver and just generally a people's person. She has a deep toolkit of techniques and methods that has helped brands such as Volkswagen, O2, Avios and The Telegraph. She is skilled at user research, information architecture, workshop facilitation and user centric design. All in all she just has a passion for making others’ lives easier on the web and beyond.
+
 ### Julia Sang, Senior Project Manager
 
 #### Role: Project Manager
@@ -67,8 +84,8 @@ Julia loves the challenge of managing big projects. At Studio 24 she has deliver
 
 Outside of work Julia organises Playing Out sessions in association with the City Council. Before moving to Studio 24, Julia worked at IRIS Worldwide with some of the world’s biggest brands including Philips, Britvic and Unilever. 
 
-
 ## Our services
+
 Our core skills are solving complex problems for our clients through design and technology. We focus on open source solutions in the PHP tech stack and offer a range of services including:
 
 * Digital strategy 
@@ -87,6 +104,7 @@ Our core skills are solving complex problems for our clients through design and 
 * Support & Maintenance 
 
 ## Our clients
+
 * Animal Health Trust
 * CBM
 * Crossrail
