@@ -45,6 +45,17 @@ Carlos believes that the web is built by people, for people. And if we want to m
 
 In his spare time, Carlos writes [Inclusive by Design](https://superdupercritical.com/), where he gathers a decade of knowledge and experience packed into short, thoughtful and actionable posts on accessibility and inclusive practices.
 
+### Marie Manandise, Senior Front-end Developer
+
+#### Role: CMS Development lead
+
+Marie first started coding as part of her biology degree course, during which she learned Pascal.
+A few years later, she woke up with the urge to make websites for a living. She took courses to turn her scripting skills into website building ones and started straight away as a freelance web developer.
+
+Marie now has 6 years’ experience as a front-end developer. She can work with any PHP based CMS but has been working almost exclusively with WordPress for the past few years.
+
+She is a big believer in coding best practices and often thinks that, when it comes to web design or development, ‘less is more’.
+
 ### Nicola Saunders, Front-end Developer
 
 #### Role: Front-End Development lead
@@ -64,8 +75,6 @@ Claire is also the Mental Health First Aider for the Studio, and is passionate a
 #### Role: UX design
 
 Sazia is a user advocate, a systematic problem solver and just generally a people's person. She has a deep toolkit of techniques and methods that has helped brands such as Volkswagen, O2, Avios and The Telegraph. She is skilled at user research, information architecture, workshop facilitation and user centric design. All in all she just has a passion for making others’ lives easier on the web and beyond.
-
-
 
 ### Julia Sang, Senior Project Manager
 
