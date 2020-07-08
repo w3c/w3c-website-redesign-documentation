@@ -1,10 +1,13 @@
 ---
 layout: doc
-title: "User groups"
-date: "2020-04-14"
-categories: [Information Architecture]
-description: "The user groups we established to understand the W3C users, their motivations and needs."
+title: User groups
+categories:
+  - Information Architecture
+description: The user groups we established to understand the W3C users, their
+  motivations and needs.
 author: Ian Axton, Ben Challoner
+date: 2020-04-14
+updated: 2020-07-08T13:26:21.875Z
 ---
 
 ## Why are we doing it?
@@ -30,7 +33,7 @@ The final list of user groups can be seen below:
     2. W3C Chair
     3. W3C Spec Editor
     4. W3C Invited Expert
-    5. W3C Translator?
+    5. W3C Translator
 4. Web developers & designers 
     1. Intermediate Web developers: have a better grasp of W3C, awareness of upcoming new technologies, and guidance on how to bring input and feedback to the standardization process.
     2. Expert Web developers: convert them into active contributors to W3C work, either via spec contributions, issue discussions, MDN documentation and test case development.
