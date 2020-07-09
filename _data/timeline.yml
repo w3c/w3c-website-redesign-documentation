@@ -1,4 +1,9 @@
 entries:
+  - date: 2020-07-09
+    title: Front end standards
+    description: Clarify bidirectional support for global page layout
+    link: /docs/front-end-standards
+
   - date: 2020-07-07
     title: User research update
     link: /updates/user-research-update
