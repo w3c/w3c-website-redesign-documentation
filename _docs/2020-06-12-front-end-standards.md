@@ -2,7 +2,7 @@
 layout: doc
 title: "Front end standards"
 date: "2020-06-12"
-updated: "2020-06-30"
+updated: "2020-07-09"
 categories: [Planning]
 description: "The front-end standards we plan to use within the W3C website redesign project are summarised below. Further details on each item appear in this document."
 author: Carlos Eriksson, Nicola Saunders
@@ -18,9 +18,9 @@ The front-end standards we plan to use within the W3C website redesign project a
 
 *   Performance budget for critical-path resources of no more than 170KB (compressed but not minified) to guarantee a fast website, even on inexpensive mobile devices and slow 3G.
 *   Do not minify HTML, CSS or JavaScript to help others read the code and learn from it. This may have a small impact on performance, so we may deliver slightly above this budget.
-*   WCAG 2.1 Level AA accessibility at a minimum, with an ideal target of AAA. accessibility wherever possible.
+*   WCAG 2.1 Level AA accessibility at a minimum, with an ideal target of AAA accessibility wherever possible.
 *   Consider internationalization (i18n) in the front-end build, paying special attention to typography, bidirectionality and sizing.
-*   We target modern browsers (current stable version and one version before) and Internet Explorer 11 for full layout support. Page content must remain accessible in older browsers, though page layout is not required to be the same.
+*   We target modern browsers (current stable version and one version before) for full layout support. Page content must remain accessible in older browsers, though page layout is not required to be the same.
 *   We will use standard HTML5, CSS and JavaScript to build the site, 
 *   We use SASS to manage CSS files.
 *   We use NPM scripts to build front-end assets. Once HTML build starts we’ll run through this with the Systems Team. It’s been noted they use [Symfony Webpack](https://symfony.com/doc/current/frontend.html) to build front-end assets.
@@ -81,7 +81,7 @@ Based on the performance assessment settings suggested in a [real world performa
 *   400 KB per second link
 *   400 milliseconds round-trip-time (RTT)
 
-With a desired 5 seconds for first-load TTI and no more than 2 seconds for subsequent (cached) loads this equates to a **maximum 170 KB budget **for critical path resources (minified and compressed).
+With a desired 5 seconds for first-load TTI and no more than 2 seconds for subsequent (cached) loads this equates to a **maximum 170 KB budget** for critical path resources (minified and compressed).
 
 These budgets are split into different resource types (HTML, CSS, JavaScript, images, fonts and video) because they have different impacts on the TTI. Together, we will decide what these splits should be and different templates may justify their own budget splits.
 
@@ -150,7 +150,7 @@ The W3C website serves a global audience. Internationalisation features, alongsi
 *   Font support for different languages
 
 
-### Bidirectionality (impacting at both text and layout levels)
+### Bidirectionality (at both text and global page layout levels)
 
 
 
@@ -300,3 +300,8 @@ This browser list is fairly similar to the GDS browser list. However, it is impo
 <sup>*</sup>_Update: 30 June 2020_
 
 Based on the decreasing usage of IE11 and [Microsoft encouraging its users to use Edge](https://docs.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge) the decision has been made not to include IE11 in the list of compliant browsers. While the website needs to work on IE11, it does not have to be pretty or highly optimised for that browser.
+
+
+_Update: 09 July 2020_
+
+Make clear that bidirectional support is required for the whole, global page layout.
