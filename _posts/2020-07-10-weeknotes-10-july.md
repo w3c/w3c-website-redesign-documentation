@@ -25,6 +25,7 @@ Users then have to navigate through the site headings to the section they think 
 
 * took the right path to the content
 * took a direct or indirect path
+* how long it takes to find the content
 * or if they didn't manage to find it at all
 
 We're all looking forward to seeing the full results next week!
