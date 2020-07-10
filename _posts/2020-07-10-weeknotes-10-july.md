@@ -11,12 +11,12 @@ The goal of the week was to go deep into research. Sazia has immersed herself in
 
 ## Identifying patterns
 
-This week we did play 'spot the difference' on our daily video-call stand-ups, pointing out any differences we spotted in people's rooms. But that's not really what I meant by identifying patterns. Sazia has been collating and analysing all the responses from our user research. By grouping the responses into similar points, patterns of behaviours, successes and  frustrations emerge. These will be invaluable to help inform the changes we'll be recommending to the IA - to better meet user needs.
+We did play 'spot the difference' on our daily video-call stand-ups, pointing out any differences we spotted in people's rooms. But that's not really what I meant by identifying patterns. Sazia has been collating and analysing all the responses from our user research. By grouping the responses into similar points, patterns of behaviours and successes and frustrations emerge. These will be invaluable to help inform the changes we'll be recommending to the IA - to better meet user needs.
 
 ## Testing the navigation
 
-Sazia also set up a test of the current site's navigation on [`Treejack`](https://www.optimalworkshop.com/treejack/). The purpose is to see how easy it is for users to find the information they are looking for on the site today. Then once we make recommendations on how to improve the site IA, we can test again. If we get it right, the results of the test should show an improvement. \
-\
+Sazia also set up a test of the current site's navigation on [`Treejack`](https://www.optimalworkshop.com/treejack/). The purpose is to see how easy it is for users to find the information they are looking for on the site today. Then once we make recommendations on how to improve the site IA, we can test again. If we get it right, the results of the test should show an improvement.
+
 How did we do it? We recruited users who are not too familiar with the W3C website and asked them to complete certain goals, such as:
 
 > "You're designing for a target audience based in the middle east, the site will need to translate for both English and Arabic. English is written left-to-right. Arabic is written right-to-left. You have not designed for this type of user before so you are looking to learn how best to do this. Where would you expect to find guidance on this?"
@@ -36,7 +36,7 @@ Marie has started her investigation into the three CMS options we are considerin
 
 ## Final thoughts
 
-What was good: seeing results from the treejack testing coming in. The results are fascinating. 
+What was good: seeing results from the Treejack testing coming in. The results are fascinating. 
 
 What we found challenging: I never thought my risk register would include a pandemic, but it does. We are a small team of experts; if someone takes unplanned leave we can't readily bring in someone else to replace them. In normal times, unplanned leave would normally be for a few days. These days, it could be a minimum of two weeks. So it's been added to our risk register. We talked about it with Coralie and agreed that if someone needs to take leave we will deal with it on a case-by-case basis, to review the project impact and decide the best way to proceed. 
 
