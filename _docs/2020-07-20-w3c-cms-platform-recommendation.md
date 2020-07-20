@@ -299,11 +299,11 @@ CMS features
 * There is a built-in integration with Amazon S3 for the storage of media files. 
 * Example of defining a focal point for an image and previewing it:
 
-![Screenshot of the Statamic feature to define a focal point for an image and previewing it](/assets/images/statamic-image-focal-point.png)
+![Screenshot of the Statamic feature to define a focal point for an image and previewing it. Shows an image with a preview to choose an image focal point to allow a subject to stay in frame with dynamic photo cropping. ](/assets/images/statamic-image-focal-point.png)
 
 * Nice of the content editor: a live preview <https://statamic.dev/live-preview>, including the ability to switch between screen sizes 
 
-![A screenshot of the content editor showing the menu allowing you to switch between screen sizese](/assets/images/statamic-responsive.png)
+![A screenshot of the content editor showing the menu allowing you to switch between screen sizes. Menu options are: Responsive, Laptop, Tablet, Mobile.](/assets/images/statamic-responsive.png)
 
 * Currently waiting for the official release of version 3. According to the Statamic team, the codebase is available, stable and freezed but documentation and marketing material are still work in progress. It should be released in the coming weeks.
 
@@ -428,8 +428,6 @@ I suspect this must generate a lot of head scratching when initially forgetting 
 * We had a few difficulties with fundamental things:
 * Defining the assets upload directory (and there was no default)
 * We hit ‘reserved’ terms straight away for things that could be scoped
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![Screenshot of Craft CMS field settings showing the top field 'Name' filled with the copy 'Title'. The next field 'Handle' filled with the copy 'text-title' showing an error message '"title" is a reserver word.](/assets/images/craft-reserved-terms.png)
 
