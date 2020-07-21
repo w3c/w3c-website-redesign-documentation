@@ -18,8 +18,8 @@ We have pulled all of this research and analysis together to recommend a new sit
 [IA Recommendations (Google presentation)](https://docs.google.com/presentation/d/1V1LttqpEerve9m69xZIabpc-2VYThBbgGp_HC0SpoSk/edit?usp=sharing)\
 This documents the problems we identified and our proposed solutions
 
-Proposed site map\
+[Proposed site map](https://w3c.studio24.net/docs/proposed-site-map)\
 View the new site map we are recommending
 
-Existing site map\
+[Existing site map](https://w3c.studio24.net/docs/current-site-map)\
 View the existing site map to compare the current navigation to the proposed site map
