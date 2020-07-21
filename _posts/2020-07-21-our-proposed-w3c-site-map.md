@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our proposed W3C site map
+title: Our proposal for a new W3C site Information Architecture
 categories:
   - Information Architecture
 description: A summary of the problems with the current site navigation and how
