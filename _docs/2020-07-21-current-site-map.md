@@ -12,6 +12,21 @@ You can view this [visually in whimsical](https://whimsical.com/VYt7KqiQeMhaiT2z
 
 ## Current site map
 
+### Top-level sections
+
+* Home
+* Standards
+* Participate
+* Membership
+* About W3C
+* W3C User Account Management
+* Industries
+* Developers
+* Validators
+* W3C Cheatsheet
+
+### Detailed site map
+
 * Home
 * Standards
   * Web Design and Applications
@@ -156,6 +171,7 @@ You can view this [visually in whimsical](https://whimsical.com/VYt7KqiQeMhaiT2z
     * Developer Sponsor
   * Jobs and Fellowships
     * Fellows Program
+    * Job opportunities
   * Contact
     * ERCIM
     * Keio
@@ -180,9 +196,9 @@ You can view this [visually in whimsical](https://whimsical.com/VYt7KqiQeMhaiT2z
     * Recover Password
     * Manage API Keys
     * Manage Webhooks
-    * Connected Accounts
     * Manage Two Factor Authentication
     * Register U2F device
+  * Connected Accounts
   * Invited Expert Applications
   * Generate recovery codes
 * Industries
