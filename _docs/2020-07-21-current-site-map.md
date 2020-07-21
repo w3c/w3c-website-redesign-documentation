@@ -8,7 +8,8 @@ author: Julia Sang
 date: 2020-07-21T09:12:32.485Z
 updated: 2020-07-21T09:12:32.516Z
 ---
-This is the current W3C site map, documented for reference, so it can be compared to the proposed site map.
+This is the current W3C site map, documented for reference, so it can be compared to the proposed site map.\
+You can view this [visually in whimsical](https://whimsical.com/VYt7KqiQeMhaiT2zALwT4V) or as a text version below.
 
 ## Current site map
 
