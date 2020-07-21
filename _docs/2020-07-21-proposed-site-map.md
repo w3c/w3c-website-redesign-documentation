@@ -17,6 +17,18 @@ Additional documentation to support this proposed site map includes:
 
 ## Proposed site map
 
+### Top-level sections
+
+* Home
+* Standards
+* Groups
+* Resources
+* About
+* Get Involved
+* News and Insights
+
+### Detailed site map
+
 * Home
 * Standards
   * All Standards and Drafts
@@ -73,7 +85,7 @@ Additional documentation to support this proposed site map includes:
   * Validators
   * W3C Cheatsheet
   * Weekly Newsletter
-* About W3C
+* About
   * W3C Mission
   * Facts About W3C
   * Press and Analysts
