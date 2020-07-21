@@ -144,9 +144,9 @@ Additional documentation to support this proposed site map includes:
       * Recover Password
       * Manage API Keys
       * Manage Webhooks
-      * Connected Accounts
       * Manage Two Factor Authentication
       * Register U2F device
+    * Connected Accounts
     * Invited Expert Applications
     * Generate recovery codes
   * Sponsorships and Donations
