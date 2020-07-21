@@ -1,4 +1,9 @@
 entries:
+  - date: 2020-07-21
+    title: Our proposal for a new W3C site Information Architecture
+    description: A summary of the problems with the current site navigation and how we recommend solving them
+    link: /updates/our-proposed-w3c-site-map
+
   - date: 2020-07-17
     title: Weeknotes 17 July
     description: The research is coming together

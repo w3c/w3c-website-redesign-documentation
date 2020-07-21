@@ -1,12 +1,11 @@
 ---
-layout: blog
+layout: doc
 title: Proposed site map
 categories:
   - Information Architecture
 description: Our proposed site map
 author: Sazia Islam
-date: 2020-07-21T11:21:45.138Z
-updated: 2020-07-21T11:21:45.181Z
+date: 2020-07-21
 ---
 This is our proposed site map for the W3C website.
 You can view it [visually in whimsical](https://whimsical.com/XVTy5CCcHTQdTuKBcnmmom) or as a text version below.
@@ -14,7 +13,7 @@ You can view it [visually in whimsical](https://whimsical.com/XVTy5CCcHTQdTuKBcn
 Additional documentation to support this proposed site map includes:
 
 * Our [IA recommendations report (Google presentation)](https://docs.google.com/presentation/d/1V1LttqpEerve9m69xZIabpc-2VYThBbgGp_HC0SpoSk/edit?usp=sharing) which documents current site problems and our proposed solutions to them
-* The [existing site map](https://w3c.studio24.net/docs/current-site-map), for a comparison point. 
+* The [existing site map](/docs/current-site-map), for a comparison point. 
 
 ## Proposed site map
 
