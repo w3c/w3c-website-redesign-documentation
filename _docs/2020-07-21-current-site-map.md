@@ -5,7 +5,7 @@ categories:
   - Information Architecture
 description: The current W3C site map, for reference
 author: Julia Sang
-date: 2020-07-21
+date: 2020-07-22
 ---
 This is the current W3C site map, documented for reference, so it can be compared to the [proposed site map](/docs/proposed-site-map).
 You can view this [visually in whimsical](https://whimsical.com/VYt7KqiQeMhaiT2zALwT4V) or as a text version below.

@@ -3,10 +3,10 @@ layout: post
 title: Our proposal for a new W3C site Information Architecture
 categories:
   - Information Architecture
-description: A summary of the problems with the current site navigation and how
+description: A summary of the problems with the current site organisation and how
   we recommend solving them.
 author: Sazia Islam
-date: 2020-07-21
+date: 2020-07-22
 thumbnail: /assets/images/img-content-management.png
 thumbnail_alt: An image of a person with a rake standing on part of a wireframe,
   using the rake to organise the content on the page.

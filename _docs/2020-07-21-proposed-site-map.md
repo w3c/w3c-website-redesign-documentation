@@ -5,7 +5,7 @@ categories:
   - Information Architecture
 description: Our proposed site map
 author: Sazia Islam
-date: 2020-07-21
+date: 2020-07-22
 ---
 This is our proposed site map for the W3C website.
 You can view it [visually in whimsical](https://whimsical.com/XVTy5CCcHTQdTuKBcnmmom) or as a text version below.
