@@ -180,13 +180,44 @@ We can choose to keep some files and folders out of version control (use .gitign
 
 We can also choose to keep users data in a database (<https://statamic.dev/knowledge-base/storing-users-in-a-database>).
 
-From our initial review Statamic may not meet the accessibility requirements. This requires further investigation and ideally testing.
-
 We have no experience with Statamic in the studio. That said, we have a lot of experience with Laravel and  a variety of CMSes, some of which Statamic must have taken inspiration from. Things went very smoothly during our test and we are reassured by the quality of the documentation and responsiveness of the Statamic team.
 
 Statamic relies on a multi-site structure to build multilingual websites. This means that, once we have set up the main site in multiple languages, this feature is not available anymore for its original purpose, i.e. managing other related websites.
 
 Finally, compared to other CMSes we have considered, Statamic has a small team of developers and a less extended community. This is partly due to it being a more recent, commercial software. This is mitigated by the quality of the software, its documentation and the responsiveness of its developers and community.
+
+### Statamic and accessibility
+
+*The accessibility testing was done by Carlos Eriksson.*
+
+For the accessibility testing, I tried a simple use case of adding a News entry.
+
+This use case does not include the user journey in navigating to the content entry page itself. However, my initial impressions suggest the journey itself has accessibility issues as well. For example, the login page fails to meet the following standards (not exhaustive):
+
+- [3.3.2: Labels or Instructions (Level A)](https://www.w3.org/WAI/WCAG21/Understanding/labels-or-instructions.html) - Email and Passwords fields have no associated labels
+- [1.4.3: Contrast (Minimum) (Level AA)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) - Text contrast for "Log in" button is insufficient
+
+It should also be noted that the CMS relies on VueJS and without JavaScript, the CMS is completely unusable. Whilst this is not necessarily an issue as Assistive Technology will often execute JavaScript, state changes are often not made available to the Accessibility Tree.
+
+Tested URL: https://statamic.studio24.dev/cp/collections/news/entries/create/default
+
+On the page where I created a new News entry, the following issues were identified:
+
+- Some page areas are not accessible by keyboard
+- Some heading levels are missing or skipped
+- Tab order is not logical (Save button is first)
+- Tabs interface is not accessible by keyboard
+- Labels which have no fields
+- Fields without labels
+- Field descriptions aren't associated with the fields they describe
+- Buttons without texts (or relying on icons only)
+- Some button texts rely on surrounding context for their meaning
+- Checkboxes built divs
+- Labels are misused
+
+Based on these issues, my conclusion is that accessibility has not been a consideration during the development of this CMS.
+
+Notes: A more comprehensive audit of Statamic would need to be conducted by a specialised agency, such as Digital Accessibility Centre (DAC).
 
 ## Test results and notes
 
