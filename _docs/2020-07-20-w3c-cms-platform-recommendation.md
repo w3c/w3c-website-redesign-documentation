@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: doc
 title: W3C CMS platform recommendation
 categories:
   - CMS
@@ -394,7 +394,7 @@ Front-end
   Yes, using the Twig templating engine.
 * What options does it have for front-end performance (for content page delivery)?
 
-  The only thing we could find documentation about is the Twig {% cache %} tag that allows caching portions of templates.
+  The only thing we could find documentation about is the Twig {% raw %}{% cache %}{% endraw %} tag that allows caching portions of templates.
 * Does it support static site building? \
   No
 * Does it have any features that make full-page caching a problem? \
