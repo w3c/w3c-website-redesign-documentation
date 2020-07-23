@@ -11,12 +11,13 @@ updated: 2020-07-20T14:35:04.101Z
 ---
 # W3C CMS platform recommendation
 
-## Table of contents
+{: .no_toc }
 
+## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ## Summary of our recommendations
 
@@ -338,7 +339,7 @@ CMS features
 
 * Currently waiting for the official release of version 3. According to the Statamic team, the codebase is available, stable and freezed but documentation and marketing material are still work in progress. It should be released in the coming weeks.
 
-#### [Craft CMS](https://craftcms.com/)
+### [Craft CMS](https://craftcms.com/)
 
 #### Features checklist
 
