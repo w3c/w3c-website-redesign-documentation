@@ -212,7 +212,7 @@ On the page where I created a new News entry, the following issues were identifi
 - Field descriptions aren't associated with the fields they describe
 - Buttons without texts (or relying on icons only)
 - Some button texts rely on surrounding context for their meaning
-- Checkboxes built divs
+- Checkboxes are built using `<div>` elements
 - Labels are misused
 
 Based on these issues, my conclusion is that accessibility has not been a consideration during the development of this CMS.
