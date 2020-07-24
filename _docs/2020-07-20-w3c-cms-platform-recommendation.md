@@ -333,7 +333,7 @@ CMS features
 
 ![Screenshot of the Statamic feature to define a focal point for an image and previewing it. Shows an image with a preview to choose an image focal point to allow a subject to stay in frame with dynamic photo cropping. ](/assets/images/statamic-image-focal-point.png)
 
-* Nice of the content editor: a live preview <https://statamic.dev/live-preview>, including the ability to switch between screen sizes 
+* Nice feature of the content editor: a live preview <https://statamic.dev/live-preview>, including the ability to switch between screen sizes 
 
 ![A screenshot of the content editor showing the menu allowing you to switch between screen sizes. Menu options are: Responsive, Laptop, Tablet, Mobile.](/assets/images/statamic-responsive.png)
 
