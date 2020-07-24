@@ -3,14 +3,11 @@ layout: doc
 title: W3C CMS platform selection - full status update
 categories:
   - CMS
-description: A summary of the CMS options we reviewed and our recommendation of
-  the best one for W3C.
+description: A summary of the CMS options we reviewed and the current status of the selection process
 author: Marie Manandise
 date: 2020-07-24T14:35:04.069Z
 updated: 2020-07-24T14:35:04.101Z
 ---
-# W3C CMS platform selection: full status update
-
 {: .no_toc }
 
 ## Table of contents
@@ -26,7 +23,7 @@ Last week we pre-selected three CMSes to look into in detail:
 * Craft
 * WordPress
 
-We proceeded with the CMS trials and were hoping to finalise our recommendation today. Unfortunately, we encountered a hurdle: none of the CMSes comply with the accessibility guidelines (https://www.w3.org/WAI/standards-guidelines/atag/), which is part of the essential requirements for W3C.
+We proceeded with the CMS trials and were hoping to finalise our recommendation today. Unfortunately, we encountered a hurdle: none of the CMSes comply with the [accessibility guidelines](https://www.w3.org/WAI/standards-guidelines/atag/), which is part of the essential requirements for W3C.
 
 It turns out very few, if any, CMSes are compliant with the authoring tools accessibility guidelines. Those who are better on that front do not necessarily cater to the other project requirements.
 
@@ -152,7 +149,7 @@ Finally, WordPress does not have good long-term content versioning capabilities.
 
 If you look at the candidates descriptions above and the [full test notes below](#heading-test-results-and-notes), you can see Statamic solves most of the requirements for this project. On that of tap, we found it very comfortable to use - both for users and developers.
 
-Unfortunately, it does not meet the accessibility requirements. Carlos, our accessibility lead, did a light-touch accessibility audit 
+Unfortunately, it does not meet the accessibility requirements. Carlos, our accessibility lead, did a light-touch accessibility audit of it.
 
 ## Test results and notes
 
