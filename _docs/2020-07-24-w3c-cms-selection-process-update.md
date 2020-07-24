@@ -147,9 +147,9 @@ Finally, WordPress does not have good long-term content versioning capabilities.
 
 ## The conclusion we could not come to
 
-If you look at the candidates descriptions above and the [full test notes below](#heading-test-results-and-notes), you can see Statamic solves most of the requirements for this project. On that of tap, we found it very comfortable to use - both for users and developers.
+If you look at the candidates descriptions above and the [full test notes below](#test-results-and-notes), you can see Statamic solves most of the requirements for this project. On that of tap, we found it very comfortable to use - both for users and developers.
 
-Unfortunately, it does not meet the accessibility requirements. Carlos, our accessibility lead, did a light-touch accessibility audit of it. You can see his notes in the section [Statamic: notes on accessibility](#heading-statamic-notes-on-accessibility).
+Unfortunately, it does not meet the accessibility requirements. Carlos, our accessibility lead, did a light-touch accessibility audit of it. You can see his notes in the section [Statamic: notes on accessibility](#statamic-notes-on-accessibility).
 
 ## Test results and notes
 
@@ -226,7 +226,7 @@ CMS features
 
   <https://twitter.com/fiinixdesign/status/1281553420210577409>
 
-  Statamic did not have a label for accessibility issues until we asked them about it. They have one now that we asked them about it. See [results of our preliminary accessibility assessment](#heading-statamic-notes-on-accessibility).
+  Statamic did not have a label for accessibility issues until we asked them about it. They have one now that we asked them about it. See [results of our preliminary accessibility assessment](#statamic-notes-on-accessibility).
 
   https://github.com/statamic/cms/labels/accessibility<https://github.com/statamic/cms/issues>
 * Does it support LDAP or OAuth authentication for logging into the CMS? \
@@ -372,7 +372,7 @@ CMS features
   From the Craft CMS team: *“The next major iteration of the control panel will be WCAG AA compliant. In the meantime we’re just fixing critical issues as they are found.”* <https://twitter.com/fiinixdesign/status/1281554602031226880>\
   Craft CMS have a label to group their accessibility issues. Some basic compliance issues appear to stem back to Nov 2019, which have yet to be resolved. \
   <https://github.com/craftcms/cms/issues?q=is%3Aopen+is%3Aissue+label%3A%22accessibility+%3Awheelchair%3A%22>
-  See [results of our preliminary accessibility assessment](#heading-craft-notes-on-accessibility)
+  See [results of our preliminary accessibility assessment](#craft-notes-on-accessibility)
 * Does it support LDAP or OAuth authentication for logging into the CMS? \
   A plugin exists for OAuth (<https://plugins.craftcms.com/oauthclient>)
 * Does it support two-factor authentication for the CMS editor login? \
