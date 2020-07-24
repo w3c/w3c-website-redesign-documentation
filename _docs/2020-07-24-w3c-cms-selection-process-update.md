@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: W3C CMS platform recommendation
+title: W3C CMS platform selection - full status update
 categories:
   - CMS
 description: A summary of the CMS options we reviewed and our recommendation of
