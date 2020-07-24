@@ -2,7 +2,7 @@
 layout: post
 title: Weeknotes, 10 July
 categories:
-  - UPDATES
+  - Updates
 description: An update and reflection on this week
 author: Julia Sang
 date: 2020-07-10T12:17:49.851Z

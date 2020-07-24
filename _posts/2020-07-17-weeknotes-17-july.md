@@ -2,8 +2,7 @@
 layout: post
 title: Weeknotes, 17 Jul
 categories:
-  - Information Architecture
-  - CMS
+  - Updates
 description: The research is coming together.
 author: Julia Sang
 date: 2020-07-17T15:33:54.399Z
