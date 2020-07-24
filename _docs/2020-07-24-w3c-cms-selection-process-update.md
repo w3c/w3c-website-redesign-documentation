@@ -149,7 +149,7 @@ Finally, WordPress does not have good long-term content versioning capabilities.
 
 If you look at the candidates descriptions above and the [full test notes below](#heading-test-results-and-notes), you can see Statamic solves most of the requirements for this project. On that of tap, we found it very comfortable to use - both for users and developers.
 
-Unfortunately, it does not meet the accessibility requirements. Carlos, our accessibility lead, did a light-touch accessibility audit of it.
+Unfortunately, it does not meet the accessibility requirements. Carlos, our accessibility lead, did a light-touch accessibility audit of it. You can see his notes in the section [Statamic: notes on accessibility](#heading-statamic-notes-on-accessibility).
 
 ## Test results and notes
 
