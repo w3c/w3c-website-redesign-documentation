@@ -10,7 +10,8 @@ description: A workplan showing the approach, tasks and timings to complete the
 author: Julia Sang
 date: 2020-07-29T12:14:54.346Z
 thumbnail: /assets/images/img-standards.png
-thumbnail_alt: A rugby player kicking a rugby ball through the goal posts, scoring a goal.
+thumbnail_alt: Sketch of an American Football Placekicker scoring a field goal.
+  The football shows the W3C logo. 'Standards' is written in the end zone.
 ---
 This approach details the remaining work required to finalise the site information architecture and agree which templates will be part of the build. It includes reviewing the site content, updating the site map and testing again, building wireframes of core pages and the navigation.
 
