@@ -8,7 +8,8 @@ author: Julia Sang
 date: 2020-05-07
 updated: 2020-07-28T23:00:00.000Z
 thumbnail: /assets/images/img-standards.png
-thumbnail_alt: A rugby player kicking a rugby ball through the goal posts, scoring a goal.
+thumbnail_alt: Sketch of an American Football Placekicker scoring a field goal.
+  The football shows the W3C logo. 'Standards' is written in the end zone.
 ---
 This high level timeline outlines the main project phases. Within each phase the work is described, alongside the milestones that we expect to reach. All the work is to be completed by Studio 24, unless W3C is explicitly mentioned. 
 
