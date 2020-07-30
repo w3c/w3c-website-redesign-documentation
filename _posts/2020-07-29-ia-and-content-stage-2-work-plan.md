@@ -5,8 +5,7 @@ categories:
   - User experience
   - Information architecture
   - Project delivery
-description: A workplan showing the approach, tasks and timings to complete the
-  next stage of work.
+description: A workplan showing the approach, tasks and timings to complete the next stage of work.
 author: Julia Sang
 date: 2020-07-29T12:14:54.346Z
 thumbnail: /assets/images/img-standards.png

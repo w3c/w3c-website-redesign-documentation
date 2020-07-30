@@ -1,4 +1,14 @@
 entries:
+  - date: 2020-07-29
+    title: High level timeline update
+    description: Updated to show new delivery dates
+    link: /docs/high-level-timeline/
+
+  - date: 2020-07-29
+    title: IA and content - stage 2 work plan
+    description: A workplan showing the approach, tasks and timings to complete the next stage of work
+    link: /updates/ia-and-content-stage-2-work-plan/
+
   - date: 2020-07-24
     title: Weeknotes 24 July
     description: Two key meetings with W3C, progress on IA and CMS platform
