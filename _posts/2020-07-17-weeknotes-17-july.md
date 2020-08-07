@@ -5,7 +5,7 @@ categories:
   - Updates
 description: The research is coming together.
 author: Julia Sang
-date: 2020-07-17T15:33:54.399Z
+date: 2020-07-17
 ---
 This week we have seen the results of all the research the team has been beavering away on. 
 

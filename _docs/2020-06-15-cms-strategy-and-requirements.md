@@ -6,7 +6,7 @@ categories: [Planning]
 description: "An overview of what W3C need from a new CMS."
 author: Simon R Jones
 thumbnail: "/assets/images/img-content-management.png"
-thumbnail_alt: "Sketch of a person pulling a rake across the ground, which is creating lines of text on a wireframe below an image placeholder."
+thumbnail_alt: "Sketch of a person with a rake standing on part of a wireframe, using the rake to organise the content on the page."
 ---
 {: .no_toc }
 

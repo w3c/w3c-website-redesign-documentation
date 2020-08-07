@@ -5,7 +5,7 @@ categories:
   - Updates
 description: An update and reflection on this week
 author: Julia Sang
-date: 2020-07-10T12:17:49.851Z
+date: 2020-07-10
 ---
 The goal of the week was to go deep into research. Sazia has immersed herself in the results of our user research. Marie in Content Management Systems (CMSes). This is how they got on...
 

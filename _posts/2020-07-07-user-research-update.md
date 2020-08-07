@@ -6,7 +6,7 @@ categories:
   - Information Architecture
 description: Our next steps in recommending a new site IA
 author: Julia Sang
-date: 2020-07-07T09:05:00.595Z
+date: 2020-07-07
 thumbnail: /assets/images/img-content-management.png
 thumbnail_alt: Sketch of a person pulling a rake across the ground, which is
   creating lines of text on a wireframe below an image placeholder.

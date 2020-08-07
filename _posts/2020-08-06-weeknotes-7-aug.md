@@ -6,10 +6,9 @@ categories:
   - Content
 description: A review of the last two weeks' work.
 author: Julia Sang
-date: 2020-08-07T14:49:16.887Z
+date: 2020-08-07
 thumbnail: /assets/images/img-content-management.png
-thumbnail_alt: An image of a person with a rake standing on part of a wireframe,
-  using the rake to organise the content on the page.
+thumbnail_alt: Sketch of a person with a rake standing on part of a wireframe, using the rake to organise the content on the page.
 ---
 Holiday season is upon us. Team members from both Studio 24 and W3C have time-off over August, and so the pace of work has slowed a little. 
 
