@@ -41,7 +41,7 @@ On Thursday, we had a meeting with the W3C Systems Team to go through our recomm
 
 ## CMS choice and accessibility
 
-It has become apparent to us that most CMS's have not done much work, if any, to ensure their software is accessible for CMS editors. This is rather a sad state of affairs, and it means our accessibility criteria for choosing a CMS has changed from finding one that fully meets [accessibility guidelines](https://www.w3.org/WAI/standards-guidelines/atag/), to finding a company who is willing to work with us and W3C to iterate their software to improve authoring tool accessibility.
+It has become apparent to us that most CMSs have not done much work, if any, to ensure their software is accessible for CMS editors. This is rather a sad state of affairs, and it means our accessibility criteria for choosing a CMS has changed from finding one that fully meets [accessibility guidelines](https://www.w3.org/WAI/standards-guidelines/atag/), to finding a company who is willing to work with us and W3C to iterate their software to improve authoring tool accessibility.
 
 We're currently liaising with our preferred CMS platform to see what accessibility fixes are feasible in the short-to-mid term.
 
@@ -49,6 +49,6 @@ We're currently liaising with our preferred CMS platform to see what accessibili
 
 What was good: seeing the content come together into wireframes - it feels like the site is starting to take shape!
 
-What we found challenging: fully understanding how hard it will be to find a CMS that meets all our functional, non-functional and accessible requirements and realising we may need to compromise on some areas for launch of this phase.
+What we found challenging: fully understanding how hard it will be to find a CMS that meets all our functional, non-functional and accessibility requirements and realising we may need to compromise on some areas for launch of this phase.
 
 What are we looking forward to: building on the content work and seeing the next pages / user flows emerge.
