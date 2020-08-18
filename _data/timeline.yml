@@ -1,4 +1,10 @@
 entries:
+  - date: 2020-08-17
+    title: Weeknotes 17 August
+    description: First look at content design, URL strategy, and some CMS
+      accessibility considerations
+    link: /updates/weeknotes-17-aug/
+
   - date: 2020-08-06
     title: Weeknotes 7 August
     description: Progressing the IA and site content work
