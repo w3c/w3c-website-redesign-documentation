@@ -1,11 +1,10 @@
 ---
 layout: doc
-title: Proposed site map
-categories:
-  - Information Architecture
-description: Our proposed site map, v2
-author: Sazia Islam, Simon Jones
-date: 2020-08-24
+title: "Proposed site map, v2"
+date: "2020-08-21"
+categories: ["Information Architecture"]
+description: "The second version of our proposed sitemap."
+author: "Sazia Islam, Simon R Jones"
 ---
 
 This is v2 of our proposed site map for the W3C website. You can view it as a text version below.
@@ -139,6 +138,8 @@ Content related to learning resources and events organised by and associated wit
   * W3C API
 
 ### About
+
+TODO..
 
 * About
   * W3C Mission
