@@ -7,8 +7,8 @@ description: "Wireframes that illustrate the content hierarchy of key pages."
 author: "Sazia Islam, Ian Axton"
 ---
 
-The following are wireframes that illustrate the content hierarchy of key pages. These are mobile view so are thin and long, 
-we recommend opening these in a web browser, zooming into 100% view, and 
+The following are wireframes that illustrate the content hierarchy of key pages. These are mobile view so are thin and 
+long. Slide numbers in brackets refer to the [Content design work](https://docs.google.com/presentation/d/16VQIUv2ugeZG8mNmAtZtHnaMo2E4y9x7YxKA_tPq-Xw/view) slides.
 
 * [About W3C](/wireframes/about-w3c/) (slide 10)
 * [Industry - Publishing](/wireframes/industry-publishing/) (slide 13)
