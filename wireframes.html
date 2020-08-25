@@ -1,0 +1,27 @@
+---
+layout: default
+title: Wireframes
+permalink: /wireframes/
+nav_exclude: true
+description: "Content wireframes."
+---
+<div class="articles">
+
+    <h1>Wireframes</h1>
+
+    <p class="fs-6 fw-300">
+        The following are wireframes that illustrate the content hierarchy of key pages.
+    </p>
+
+    <hr>
+
+    <ul class="post-list">
+        {% assign sorted = site.wireframes | sort: 'date' | reverse %}
+        {% for post in sorted %}
+        <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title  | markdownify | strip_html | trim }}</a> - {{ post.date | date_to_string }}
+        </li>
+        {% endfor %}
+    </ul>
+
+</div>

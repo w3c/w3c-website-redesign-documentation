@@ -1,21 +1,21 @@
 ---
 layout: doc
 title: "Proposed site map, v2"
-date: "2020-08-21"
+date: "2020-08-27"
 categories: ["Information Architecture"]
 description: "The second version of our proposed sitemap."
 author: "Sazia Islam, Simon R Jones"
 ---
 
-This is v2 of our proposed site map for the W3C website. You can view it as a text version below.
-
-Additional information has been added to help explain the purpose of each section. Please note it is likely 
-there will be changes to deep pages (level 3 and below) may change during the build of the site as content is updated 
-and created. 
+This is v2 of our proposed site map for the W3C website. You can view it as a text version below. Information has been 
+added to help explain the purpose of each section. 
 
 Additional documentation to support this proposed site map includes:
 
-* The [existing site map](/docs/current-site-map), for a comparison point. 
+* Google slides which summarise our [Content design work](https://docs.google.com/presentation/d/16VQIUv2ugeZG8mNmAtZtHnaMo2E4y9x7YxKA_tPq-Xw/view), this informs the new Information Architecture
+* [Wireframes](/docs/content-wireframes) which detail our work on content hierarchy which is explained in the Content design slides 
+* Google sheet of [the proposed sitemap](https://docs.google.com/spreadsheets/d/1a9pm5HWzcidtLPCeFRz4F0Ir4TT3oOK54FlEEd3IXUE/view) which list all pages and their URLs
+* The [existing site map](/docs/current-site-map), for a comparison point
 
 ## Top-level sections
 
