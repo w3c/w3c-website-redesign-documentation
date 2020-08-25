@@ -22,36 +22,37 @@ Additional documentation to support this proposed site map includes:
 * Home
 * Standards
 * Groups
-* Resources
-* About
 * Get Involved
+* Resources
 * News and Insights
+* About
 
-## User account menu
+## User login navigation
 
 Links associated with whether a user is logged in. Due to full page caching a JavaScript solution will likely need to be used 
 to implement the logged-in state (if possible).  
 
-If not logged in:
+Please note navigation links below suffixed with the note _(requires login)_ mean the content can only be accessed if the 
+user is logged in. 
 
-* Sign in
-* Register 
+### Logged out
 
-If logged in:
+* Login
+* Help
 
-* [Username or name]
+### Logged in
+
+* Member home
 * My account
 
-Please note at present we have not included a logout link since this is not technically possible with basic auth login.
-This can change as the login system is replaced with the new W3C auth system.
+## Footer navigation
 
-## Footer menu
-
-A limited number of key links focussed around legal and help information.
+A limited number of key links focussed around contact, help, sponsor and legal information.
 
 * Home
 * Contact
 * Help and FAQ
+* Sponsor and Donate
 * Privacy policy
 * Legal
 * Site map
@@ -112,6 +113,55 @@ in the design phase.
   * W3C Invited Experts
   * Groups FAQ 
 
+### Get Involved
+
+Content related to getting involved in W3C activity, membership, sponsorship and donations.
+
+* Get Involved
+  * Business areas
+    * Automotive
+    * Entertainment (TV and broadcasting)
+    * Publishing
+    * Web Payments
+    * Web of Data
+    * Web and Telecommunications
+    * Web of Things
+  * Sponsorship and Donations
+    * Donate now
+    * Global sponsor
+    * Technology and Industry sponsor
+    * Event and Diversity sponsor
+    * Web for All sponsor
+    * Developer sponsor
+  * W3C Membership
+    * Benefits
+    * Membership fees
+    * Join W3C
+      * Member application
+      * Member agreement
+    * Our members
+    * Membership testimonials
+    * Membership submissions (cross-link)
+    * Membership FAQ
+  * Invited Experts
+    * Directory of W3C Invited Experts
+    * Invited Expert application (requires login)
+    * Invited Expert and Collaborators Agreement
+    * External Contributions
+    * Invited Expert Policies (requires login)
+  * Groups (cross-link)
+  * How to participate
+    * Instructions for Members
+    * Instructions for Invited Experts
+    * Public users (content to help individuals understand how they can get involved)
+    * Code of Ethics and Professional Conduct
+  * Members home (requires login)
+    * Create an account on w3.org
+    * Instructions for members (requires login)
+  * Promote Web Standards
+    * Logos and Icons
+      * Trademark policy (cross-link)
+ 
 ### Resources
 
 Content related to learning resources and events organised by and associated with W3C.
@@ -124,11 +174,11 @@ Content related to learning resources and events organised by and associated wit
     * Talks
     * Workshops
       * Workshops archive
-      * Subscribe
+      * Subscribe to upcoming workshops
     * Meetings
     * Conferences Endorsed by W3C
       * Endorsed conferences archive
-      * Subscribe
+      * Subscribe to upcoming conferences
   * Developer resources
   * W3C Cheatsheet
   * Glossary
@@ -136,111 +186,73 @@ Content related to learning resources and events organised by and associated wit
   * Standards
   * Validators
   * W3C API
+  
+### News and Insights
+
+Content related to news, press releases, blogs and other time-related updates from W3C.
+
+* News and Insights (listing of all recent content across different categories)
+  * News
+    * News feed
+  * Blogs
+    * Blog feed
+    * Other W3C blogs
+  * Press releases
+    * Subscribe to press releases updates by email
+    * Press releases archive
+  * In the media
+    * In the media archive
+  * Weekly newsletter
+    * Subscribe to weekly newsletter
+    * Weekly newsletter archive
+  * Team submissions
 
 ### About
 
-TODO..
+Content related to W3C, it's mission, history and people, contact information, and policies and legal information.  
 
 * About
-  * W3C Mission
-  * Facts About W3C
-  * Press and Analysts
-    * W3C in the Press
-    * W3C Press Releases
-  * FAQ about W3C Web Site
-  * W3C Site Map
-  * Glossary
-  * System Status
+  * Our mission
+  * History
+  * Leadership
+  * People
+  * W3C Evangelists
+    * Directory of evangelists
+    * W3C Evangelist Program
+    * Evangelists internal procedures (requires login)
+    * Code of Ethics and Professional Conduct
   * Careers
     * Job opportunities
-    * Fellows Program
+    * Fellows program
+  * Press and media
+    * Press releases
+    * W3C in the press
   * Contact
+    * Beihang University (W3C中国)
     * ERCIM
-    * Keio
+    * Keio University
     * MIT
-    * W3C Staff
-  * Policies and Legal Information
-    * Licenses for W3C Test Suites
-    * Policies for Contribution of Test Cases to W3C
-    * Intellectual Rights FAQ
-    * W3C Privacy Statements
-    * W3C Document License
-    * W3C Trademarks and Generic Terms
-    * W3C® Trademark and Service Mark License
-    * W3C Software Notice and License
-    * W3C Invited Expert and Collaborators Agreement
-    * W3C URI Persistence Policy
-    * Mirroring the W3C Site
-    * Translations of the Copyright Notice
-    
-### Get Involved
-
-* Get Involved
-  * Business areas
-    * 
-  * Membership
-    * Instructions for Members
-    * Membership Benefits
-    * Join W3C
-    * Membership Fees
-      * History
-        * Membership Fees (July 2013)
-        * Membership Fees (February 2012)
-    * Membership FAQ
-    * Our Members
-      * Member Statistics
-    * Member Submissions
-    * Member Testimonials
-    * Membership Meetings
-  * Sponsorships and Donations
-    * Organization Sponsor
-      * Supporters Program
-      * Supporters Program Policies
-      * Supporters Program FAQ
-    * Event Sponsor
-    * Web for All Sponsor
-    * Developer Sponsor
-  * Promote Web Standards
-    * Logos and Icons
-    * Translations
-    
-    
-  * W3C Invited Experts
-    * Invited Expert Application
-    * Invited Expert and Collaborators Agreement
-    * External Contributions
-    * Code of Ethics and Professional Conduct
-    * Invited Expert Policies (Team-only)
-    * Directory of W3C Invited Experts
-    
-### News and Insights
-
-* News and Insights
-  * News
-  * W3C Blogs
-  * W3C Press Releases
-  * Weekly Newsletter
-  * Team Submissions
-  
-### Account  
-
-* Sign in
-* Register
-* How to logout
-* My account
-  * Profile
-    * Edit Profile
-    * Edit Emails
-    * Edit Phones
-    * Edit Addresses
-    * Edit Links
-    * Edit Photo
-    * Edit Password
-    * Recover Password
-    * Manage API Keys
-    * Manage Webhooks
-    * Manage Two Factor Authentication
-    * Register U2F device
-  * Connected Accounts
-  * Invited Expert Applications
-  * Generate recovery codes
+  * Policies and legal information
+    * Policies
+      * Privacy
+      * URI persistence
+      * Mail
+      * Logos
+      * Mirroring
+      * Code of ethics and professional conduct
+    * Agreements
+      * Membership
+      * Collaborators
+      * Community Contributor License Agreement (CLA)
+      * Community Final Specification Agreement
+      * Process Document
+      * Patent Policy
+    * Copyright and trademarks
+      * Intellectual Rights FAQ
+      * Document License
+      * Software and Document Notice and License
+      * Test Suites
+      * Test Case Contributions
+      * Trademarks
+      * Trademark License
+  * Help and FAQs
