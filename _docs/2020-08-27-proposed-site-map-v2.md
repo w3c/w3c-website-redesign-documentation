@@ -217,6 +217,10 @@ Content related to W3C, it's mission, history and people, contact information, a
 
 * About
   * Our mission
+    * Accessibility (we recommend high-level content to introduce this area, then link to WAI/ activity page)
+    * Internationalization
+    * Privacy
+    * Security
   * History
   * Leadership
   * People
