@@ -118,11 +118,11 @@ explored further in the design phase.
   * W3C Invited Experts (cross-link)
   * Groups FAQ 
 
-### Get Involved
+### Get involved
 
 Content related to getting involved in W3C activity, membership, sponsorship and donations.
 
-* Get Involved
+* Get involved
   * Business areas
     * Automotive
     * Media and entertainment
@@ -191,11 +191,11 @@ Content related to learning resources and events organised by and associated wit
   * Validators
   * W3C API
   
-### News and Insights
+### News and insights
 
 Content related to news, press releases, blogs and other articles from W3C.
 
-* News and Insights (listing of recent content across news, blogs, press releases, in the media)
+* News and insights (listing of recent content across news, blogs, press releases, in the media)
   * News
     * News feed
   * Blogs
