@@ -5,6 +5,9 @@ date: "2020-08-27"
 categories: ["Information Architecture"]
 description: "The second version of our proposed sitemap."
 author: "Sazia Islam, Simon R Jones"
+thumbnail: /assets/images/img-content-management.png
+thumbnail_alt: An image of a person with a rake standing on part of a wireframe,
+  using the rake to organise the content on the page.
 ---
 
 This is v2 of our proposed site map for the W3C website. You can view it as a text version below.
