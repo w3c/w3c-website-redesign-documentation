@@ -62,9 +62,9 @@ Please note the footer will also include a copyright statement. For example:
 * Home
 * Standards
 * Groups
-* Get Involved
+* Get involved
 * Resources
-* News and Insights
+* News and insights
 * About
 
 ## Detailed site map
