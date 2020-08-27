@@ -13,22 +13,37 @@
             margin: 0.4em;
             padding: 0.2em;
         }
-
-        main {
+        
+        #wireframe {
             margin: 0.2em auto;
             text-align: center;
+        }
+
+        #text {
+            width: 90%;
+            padding: 1.2em;
         }
     </style>
 </head>
 <body>
-<div>
-    <a href="/docs/content-wireframes/" class="action">View all wireframes</a>
-</div>
+
+<ul>
+    <li><a href="#text" class="action">View text version</a></li>
+    <li><a href="/docs/content-wireframes/" class="action">View all wireframes</a></li>
+</ul>
+
 <main>
-    <img src="/assets/images/wireframes/{{ page.image }}" alt="Content wireframe of {{ page.title }} page">
+    <div id="wireframe">
+        <img src="/assets/images/wireframes/{{ page.image }}" alt="Content wireframe of {{ page.title }} page">
+    </div>
+    <div id="text">
+        {{ page.content }}
+    </div>
 </main>
+
 <div>
     <a href="/docs/content-wireframes/" class="action">View all wireframes</a>
 </div>
+
 </body>
 </html>
