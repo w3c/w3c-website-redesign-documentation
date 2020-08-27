@@ -25,6 +25,15 @@ We recommend the use of sentence case for page titles: only use upper-case for t
 
 See [Sentence case v title case](https://www.sallybagshaw.com.au/articles/sentence-case-v-title-case/) and [Readability Guidelines: Capital letters](https://readabilityguidelines.co.uk/grammar-points/capital-letters/).
 
+## FAQs
+
+> If you write clear web content that is easy to navigate and answers your readers questions, you will not need to create a FAQ. FAQs often cause your readers more frustration. 
+> https://www.plainlanguage.gov/guidelines/web/avoid-faqs/ 
+
+Please note where possible we plan to merge FAQ content into pages and remove FAQs. This requires a content review of FAQ
+content before this is done, which will be reviewed with W3C in the design phase. For now, we have left FAQs in the navigation 
+and wireframes.
+
 ## User login navigation
 
 Links associated with whether a user is logged in. Please note navigation links below suffixed with the note 
@@ -33,7 +42,7 @@ _(requires login)_ mean the content can only be accessed if the user is logged i
 ### Logged out
 
 * Login
-* Help
+* Get an account (links to the How to participate page which contains links to the different type of member instruction pages on how to create an account)
 
 ### Logged in
 
@@ -100,6 +109,12 @@ explored further in the design phase.
   * Technical Architecture Group
   * Advisory Board
   * Task forces
+  * Invited Experts
+    * Directory of W3C Invited Experts
+    * Invited Expert application (requires login)
+    * Invited Expert and Collaborators Agreement (cross-link)
+    * External Contributions
+    * Invited Expert Policies (requires login)
   * Liaisons
     * Participation in W3C by EU-funded projects
   * Participant guidebook
@@ -115,7 +130,6 @@ explored further in the design phase.
       * Code of ethics and professional conduct (cross-link)
       * Subject tagging policy
       * Archive editing policy
-  * W3C Invited Experts (cross-link)
   * Groups FAQ 
 
 ### Get involved
@@ -147,12 +161,6 @@ Content related to getting involved in W3C activity, membership, sponsorship and
     * Membership testimonials
     * Membership submissions (cross-link)
     * Membership FAQ
-  * Invited Experts
-    * Directory of W3C Invited Experts
-    * Invited Expert application (requires login)
-    * Invited Expert and Collaborators Agreement (cross-link)
-    * External Contributions
-    * Invited Expert Policies (requires login)
   * Groups (cross-link)
   * How to participate
     * Members
@@ -187,7 +195,7 @@ Content related to learning resources and events organised by and associated wit
   * W3C cheatsheet (content not updated since 2017)
   * Glossary (not maintained since 2010, though useful content)
   * Weekly newsletter (cross-link)
-  * Technical Reports (cross-link)
+  * Standards (cross-link)
   * Validators
   * W3C API
   
