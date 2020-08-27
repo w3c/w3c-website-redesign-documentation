@@ -104,7 +104,7 @@ explored further in the design phase.
     * Participation in W3C by EU-funded projects
   * Participant guidebook
   * Mailing lists
-    * Public lists
+    * Archives
     * Search mailing lists
     * Manage your subscriptions
     * Email FAQs
@@ -183,7 +183,7 @@ Content related to learning resources and events organised by and associated wit
     * Conferences Endorsed by W3C
       * Endorsed conferences archive
       * Subscribe to upcoming conferences
-  * Developer resources
+  * Developers (landing page for developers, may link to existing Developers site or replace it)
   * W3C cheatsheet (content not updated since 2017)
   * Glossary (not maintained since 2010, though useful content)
   * Weekly newsletter (cross-link)
@@ -221,12 +221,12 @@ Content related to W3C, it's mission, history and people, contact information, a
     * Internationalization
     * Privacy
     * Security
-  * History
-  * Leadership
+  * History (we recommend re-using content from Facts about W3C)
+  * Leadership (we recommend re-using content from Facts about W3C)
   * People
-  * W3C Evangelists
+  * Evangelists
     * Directory of Evangelists
-    * W3C Evangelist Program
+    * Evangelist Program
     * Evangelists internal procedures (requires login)
     * Code of ethics and professional conduct (cross-link)
   * Careers
@@ -249,13 +249,13 @@ Content related to W3C, it's mission, history and people, contact information, a
       * Mirroring
       * Positive work environment
       * Code of ethics and professional conduct
+      * Process document
+      * Patent policy
     * Agreements
-      * Membership
+      * Membership agreement
       * Invited Expert and collaborator agreement
       * Community contributor license agreement (CLA)
       * Community final specification agreement
-      * Process document
-      * Patent policy
     * Copyright and trademarks
       * Intellectual rights FAQ
       * Document license
