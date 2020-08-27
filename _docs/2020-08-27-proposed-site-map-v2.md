@@ -19,16 +19,19 @@ Additional documentation to support this proposed site map includes:
 * Google sheet of [the proposed sitemap](https://docs.google.com/spreadsheets/d/1a9pm5HWzcidtLPCeFRz4F0Ir4TT3oOK54FlEEd3IXUE/view) which list all pages and their URLs.
 * The [existing site map](/docs/current-site-map), for a comparison point.
 
-## Sentence case for navigation labels
+## General content recommendations
+
+### Sentence case for navigation labels
 
 We recommend the use of sentence case for page titles: only use upper-case for the first word and proper nouns. Sentence case tends to be easier to scan for users. 
 
 See [Sentence case v title case](https://www.sallybagshaw.com.au/articles/sentence-case-v-title-case/) and [Readability Guidelines: Capital letters](https://readabilityguidelines.co.uk/grammar-points/capital-letters/).
 
-## FAQs
+### Reduce use of FAQs
 
 > If you write clear web content that is easy to navigate and answers your readers questions, you will not need to create a FAQ. FAQs often cause your readers more frustration. 
-> https://www.plainlanguage.gov/guidelines/web/avoid-faqs/ 
+
+[Plain language: Avoid FAQs](https://www.plainlanguage.gov/guidelines/web/avoid-faqs/) 
 
 Please note where possible we plan to merge FAQ content into pages and remove FAQs. This requires a content review of FAQ
 content before this is done, which will be reviewed with W3C in the design phase. For now, we have left FAQs in the navigation 
@@ -36,8 +39,7 @@ and wireframes.
 
 ## User login navigation
 
-Links associated with whether a user is logged in. Please note navigation links below suffixed with the note 
-_(requires login)_ mean the content can only be accessed if the user is logged in. 
+Links associated with whether a user is logged in. 
 
 ### Logged out
 
@@ -77,6 +79,10 @@ Please note the footer will also include a copyright statement. For example:
 * About
 
 ## Detailed site map
+
+Please note navigation links below suffixed with _(requires login)_ mean the content can only be accessed if the 
+user is logged in. Any navigation links suffixed with _(cross-link)_ mean the content primarily lives in another section 
+and is cross-linked to here.  
 
 ### Standards
 
@@ -172,7 +178,6 @@ Content related to getting involved in W3C activity, membership, sponsorship and
     * Instructions for members (requires login)
   * Promote Web Standards
     * Logos and icons
-      * Trademark policy (cross-link)
  
 ### Resources
 
@@ -240,8 +245,8 @@ Content related to W3C, it's mission, history and people, contact information, a
     * Job opportunities
     * Fellows program
   * Press and media
-    * Press releases
-    * W3C in the media
+    * Press releases (cross-link)
+    * W3C in the media (cross-link)
   * Contact
     * Beihang University (W3C中国)
     * ERCIM
@@ -251,7 +256,7 @@ Content related to W3C, it's mission, history and people, contact information, a
     * Policies
       * Privacy
       * URI persistence
-      * Mail
+      * Mail (cross-link)
       * Logos
       * Positive work environment
       * Code of ethics and professional conduct
