@@ -46,7 +46,7 @@ A small number of key links focussed around contact, help, sponsor and legal inf
 
 * Home
 * Contact
-* Help and FAQ
+* Help
 * Sponsor and donate
 * Privacy policy
 * Legal
@@ -172,7 +172,7 @@ Content related to learning resources and events organised by and associated wit
 
 * Resources
   * Tutorials and courses
-    * W3x courses
+    * W3Cx courses
   * Podcasts and video
   * Events (listing of upcoming talks, workshops, meetings, conferences)
     * Talks
@@ -209,7 +209,6 @@ Content related to news, press releases, blogs and other articles from W3C.
   * Weekly newsletter
     * Subscribe to weekly newsletter
     * Weekly newsletter archive
-  * Team submissions
 
 ### About
 
@@ -246,7 +245,6 @@ Content related to W3C, it's mission, history and people, contact information, a
       * URI persistence
       * Mail
       * Logos
-      * Mirroring
       * Positive work environment
       * Code of ethics and professional conduct
       * Process document
@@ -264,4 +262,4 @@ Content related to W3C, it's mission, history and people, contact information, a
       * Test case contributions
       * Trademarks
       * Trademark license
-  * Help and FAQs
+  * Help
