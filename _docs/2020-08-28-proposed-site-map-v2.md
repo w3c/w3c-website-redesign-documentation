@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: "Proposed site map, v2"
-date: "2020-08-27"
+date: "2020-08-28"
 categories: ["Information Architecture"]
 description: "The second version of our proposed sitemap."
 author: "Sazia Islam, Simon R Jones"
@@ -50,19 +50,20 @@ Please note where possible we plan to merge FAQ content into pages and remove FA
 content before this is done, which will be reviewed with W3C in the design phase. For now, we have left FAQs in the navigation 
 and wireframes.
 
-## User login navigation
+## User menu
 
 Links associated with whether a user is logged in. 
 
 ### Logged out
 
-* Login
-* Get an account (links to the How to participate page which contains links to the different type of member instruction pages on how to create an account)
+* Login (single link to login page)
 
 ### Logged in
 
-* [username] (links to my account page)
-* Member home
+* User menu
+  * Member home
+  * My account
+  * Logout
 
 ## Footer navigation
 
