@@ -24,12 +24,15 @@ collections:
   docs:
     output: true
     permalink: /docs/:title/
+  wireframes:
+    output: true
+    permalink: /wireframes/:title/
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 permalink: /updates/:title/
-future: false
+future: true
 
 # Sass settings
 sass:

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} - Content wireframe</title>
+    <style>
+        body {
+            font-family: sans-serif;
+        }
+
+        a.action {
+            display: block;
+            margin: 0.4em;
+            padding: 0.2em;
+        }
+
+        #wireframe {
+            margin: 0.2em auto;
+            text-align: center;
+        }
+
+        #text {
+            width: 90%;
+            padding: 1.2em;
+        }
+    </style>
+</head>
+<body>
+
+<nav>
+    <ul>
+        <li><a href="#text" class="action">View text version</a></li>
+        <li><a href="/docs/content-wireframes/" class="action">View all wireframes</a></li>
+    </ul>
+</nav>
+
+<main>
+    <div id="wireframe">
+        <img src="/assets/images/wireframes/{{ page.image }}" alt="Content wireframe of {{ page.title }} page">
+    </div>
+    <div id="text">
+        {{ page.content }}
+    </div>
+</main>
+
+<footer>
+    <ul>
+        <li><a href="/docs/content-wireframes/" class="action">View all wireframes</a></li>
+    </ul>
+</footer>
+
+</body>
+</html>
