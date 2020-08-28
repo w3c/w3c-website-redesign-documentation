@@ -32,7 +32,7 @@ For example:
 Not:
 * Updated Candidate Recommendation: WebRTC 1.0: Real-time Communication Between Browsers
 
-The W3C site currently uses title case where most words start with an upper-case letter. Sentence case is easier to scan 
+The W3C site currently uses all caps or title case (most words start with an upper-case letter). Sentence case is easier to scan 
 for most users; it improves accessibility and usability.  
 
 See [Sentence case v title case](https://www.sallybagshaw.com.au/articles/sentence-case-v-title-case/), [Readability Guidelines: Capital letters](https://readabilityguidelines.co.uk/grammar-points/capital-letters/), 
@@ -198,7 +198,6 @@ Content related to learning resources and events organised by and associated wit
 
 * Resources
   * Tutorials and courses
-    * W3Cx courses
   * Podcasts and video
   * Events (listing of upcoming talks, workshops, meetings, conferences)
     * Talks
