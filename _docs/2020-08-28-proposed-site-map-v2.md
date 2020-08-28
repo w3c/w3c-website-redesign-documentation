@@ -96,7 +96,7 @@ Please note the footer will also include a copyright statement. For example:
 
 Please note navigation links below suffixed with _(requires login)_ mean the content can only be accessed if the 
 user is logged in. Any navigation links suffixed with _(cross-link)_ mean the content primarily lives in another section 
-and is cross-linked to here.
+and is cross-linked from here.
 
 When designing the site we may only display two or three levels in the primary navigation. The folllowing sitemap illustrates 
 the main pages for the high-level W3C site.
