@@ -21,11 +21,24 @@ Additional documentation to support this proposed site map includes:
 
 ## General content recommendations
 
-### Sentence case for navigation labels
+### Sentence case for navigation labels and headings
 
-We recommend the use of sentence case for page titles: only use upper-case for the first word and proper nouns. Sentence case tends to be easier to scan for users. 
+We recommend the use of sentence case for page titles: only use upper-case for the first word and proper nouns (i.e. the 
+name of a unique thing or entity).  
 
-See [Sentence case v title case](https://www.sallybagshaw.com.au/articles/sentence-case-v-title-case/) and [Readability Guidelines: Capital letters](https://readabilityguidelines.co.uk/grammar-points/capital-letters/).
+For example:
+* Updated Candidate Recommendation: WebRTC 1.0: real-time communication between browsers
+ 
+Not:
+* Updated Candidate Recommendation: WebRTC 1.0: Real-time Communication Between Browsers
+
+The W3C site currently uses title case where most words start with an upper-case letter. Sentence case is easier to scan 
+for most users; it improves accessibility and usability.  
+
+See [Sentence case v title case](https://www.sallybagshaw.com.au/articles/sentence-case-v-title-case/), [Readability Guidelines: Capital letters](https://readabilityguidelines.co.uk/grammar-points/capital-letters/), 
+and [Accessibility Requirements for People with Low Vision](https://www.w3.org/TR/low-vision-needs/#capitalization).
+
+It may be useful to start a style guide while updating content for the W3C site, to help authors understand when it's OK to capitalise.
 
 ### Reduce use of FAQs
 
@@ -132,7 +145,6 @@ explored further in the design phase.
     * Posting guides
       * Spam policy
       * Guidelines for email attachments
-      * Positive work environment
       * Code of ethics and professional conduct (cross-link)
       * Subject tagging policy
       * Archive editing policy
@@ -225,7 +237,7 @@ Content related to news, press releases, blogs and other articles from W3C.
 
 ### About
 
-Content related to W3C, it's mission, history and people, contact information, and policies and legal information.  
+Content related to W3C, its mission, history and people, contact information, and policies and legal information.  
 
 * About
   * Our mission
@@ -254,14 +266,13 @@ Content related to W3C, it's mission, history and people, contact information, a
     * MIT
   * Policies and legal information
     * Policies
+      * Code of ethics and professional conduct
+      * Process document
+      * Patent policy
       * Privacy
       * URI persistence
       * Mail (cross-link)
       * Logos
-      * Positive work environment
-      * Code of ethics and professional conduct
-      * Process document
-      * Patent policy
     * Agreements
       * Membership agreement
       * Invited Expert and collaborator agreement
