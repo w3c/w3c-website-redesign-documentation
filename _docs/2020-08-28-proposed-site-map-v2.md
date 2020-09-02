@@ -2,6 +2,7 @@
 layout: doc
 title: "Proposed site map, v2"
 date: "2020-08-28"
+updated: "2020-09-02"
 categories: ["Information Architecture"]
 description: "The second version of our proposed sitemap."
 author: "Sazia Islam, Simon R Jones"
