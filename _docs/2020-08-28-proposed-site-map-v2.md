@@ -60,9 +60,8 @@ Links associated with whether a user is logged in.
 
 ### Logged in
 
-* User menu
+* My profile
   * Member home
-  * My account
   * Logout
 
 ## Footer navigation
@@ -132,6 +131,7 @@ explored further in the design phase.
   * Technical Architecture Group
   * Advisory Board
   * Task forces
+  * Organizations
   * Invited Experts
     * Directory of W3C Invited Experts
     * Invited Expert application (requires login)
@@ -184,14 +184,12 @@ Content related to getting involved in W3C activity, membership, sponsorship and
     * Membership submissions (cross-link)
     * Membership FAQ
   * Groups (cross-link)
-  * How to participate
+  * How to get an account (explain different ways to get involved and create accounts)
     * Members
     * Invited Experts
     * Public users (content to help individuals understand how they can get involved)
     * Code of ethics and professional conduct (cross-link)
   * Member home (requires login)
-    * Create an account on w3.org
-    * Instructions for members (requires login)
   * Promote Web Standards
     * Logos and icons
  
@@ -274,7 +272,6 @@ Content related to W3C, its mission, history and people, contact information, an
       * Patent policy
       * Privacy
       * URI persistence
-      * Mail (cross-link)
       * Logos
     * Agreements
       * Membership agreement
