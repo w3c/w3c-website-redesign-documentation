@@ -5,7 +5,7 @@ categories:
   - Design
   - CMS
   - Accessibility
-description: Progress has been made in a range of areas: design, CMS selection and sitemap technical work
+description: "Progress has been made in a range of areas: design, CMS selection and sitemap technical work"
 author: Simon R Jones
 date: 2020-09-11
 thumbnail: /assets/images/img-standards.png
