@@ -34,19 +34,16 @@ challenging, and one we expect to have to make some compromises to meet.
 However, we are glad to report both CMS suppliers we're reviewing have engaged positively with authoring tool accessibility 
 needs and have made progress in this area. 
 
-We also have a meeting with the W3C Systems Team this afternoon to go through everything we've learnt so far to see whether 
+We have a meeting with the W3C Systems Team this afternoon to go through everything we've learnt so far to see whether 
 we're in a position to make a decision. We'll report back on more detail soon.  
 
-## Sitemap technical work and URL design
+## Sitemap technical work
 
 I worked on reviewing our [recommended sitemap](https://docs.google.com/spreadsheets/d/1a9pm5HWzcidtLPCeFRz4F0Ir4TT3oOK54FlEEd3IXUE/view#gid=315005175) 
 and added a lot of essential technical details to help our work. This includes what template each page will use, whether 
 content will be managed in the new CMS, how we plan to deliver the front-end, and the proposed new URL for each page.
 
 This sparked off a lot of questions we need to discuss with W3C next week so we can firm up all these details. 
-
-URL design is an interesting area, especially for W3C with the famous [Cool URIs don't change](https://www.w3.org/Provider/Style/URI). 
-We've published our recommended [URL strategy](TODO) for W3C.
 
 ## Final thoughts
 
