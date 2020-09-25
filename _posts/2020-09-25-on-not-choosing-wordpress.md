@@ -41,7 +41,8 @@ This prompted us to prioritise accessibility above other requirements due to the
 extensively for our client work. For this project we had committed to not selecting a CMS until we'd had the chance to
 better understand client requirements.
 
-The key reason we decided against WordPress was due to Gutenberg. Many have written about the [accessibility issues](https://www.marcozehe.de/my-thoughts-on-gutenberg-accessibility/) 
+An important consideration for WordPress was accessibility concerns with the new Gutenberg editor. Many have written about 
+the [accessibility issues](https://www.marcozehe.de/my-thoughts-on-gutenberg-accessibility/)
 the project has had as well as the positive [steps to improve accessibility in Gutenberg](https://www.marcozehe.de/whats-new-for-accessibility-in-gutenberg-7-2/).
 
 Gutenberg is an exciting and really interesting development. Many CMS vendors are looking at ways to allow editors to 
@@ -70,8 +71,7 @@ who create custom websites for clients; where we have a need to create lots of b
 
 The use of React complicates front-end build. We have very talented front-end developers, however, they are not React 
 experts - nor should they need to be. I believe front-end should be built as standards-compliant HTML/CSS with JavaScript 
-used to enrich functionality where necessary and appropriate. For example, the use of React to manage Gutenberg block HTML makes this 
-difficult due to the nature of the block HTML being tightly coupled to React via the JSX templating system. 
+used to enrich functionality where necessary and appropriate. 
  
 As of yet, we have not found a satisfactory (and profitable) way to build custom Gutenberg blocks for commercial
 projects. We won't stop trying though and plan to do more R&D with Gutenberg in the future. The W3C project, however, did 
