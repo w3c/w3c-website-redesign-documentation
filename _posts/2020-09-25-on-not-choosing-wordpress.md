@@ -94,9 +94,6 @@ Charging money enables small teams to develop good software, so we're not ideolo
 Both platforms are well respected in the community and well-used by professionals, running sites such as [Netflix](https://media.netflix.com/en/),
 [Big Commerce](https://www.bigcommerce.com/), [Spiegel Plus](https://www.spiegel.de/plus/) and [FreshBooks](https://www.freshbooks.com/).
 
-While WordPress is open source its roadmap is heavily influenced by the commercial company [Automattic](https://automattic.com/), 
-this certainly appeared to be the case for the Gutenberg project.
-
 We are using open source technology in the majority of this project (HTML/CSS, JavaScript, PHP, Symfony). While Craft is a proprietary 
 CMS, this has given us the advantage of direct access to the team developing the CMS which has helped improve accessibility 
 in these CMSs. We hope this helps move accessibility forward in the CMS industry.  
@@ -108,10 +105,12 @@ to facilitate open discussion. Nothing's changing with how the W3C work in the o
 ## A note on front-end delivery
 
 One final note. We are currently considering a [Headless CMS](https://www.studio24.net/blog/what-is-a-headless-cms/) option 
-for front-end page delivery (this means using the CMS
-to manage content but not deliver front-end pages). This approach would give W3C an added flexibility and would mean 
-they could use different CMS technologies more easily in the future. The [w3.org](https://www.w3.org/) site is already 
-made up of a lot of different systems and this won't change with the redesign. The CMS is just one part of the what makes 
+for front-end page delivery. This means using the CMS in a decoupled way to manage content but use a separate system to deliver front-end 
+pages. Please note this solution would not be reliant on JavaScript (e.g. a single page app which is common with headless). 
+Under this option we'd use Symfony to deliver front-end pages as W3C already do across a lot of the site.
+ 
+This may give W3C better flexibility for the future, though comes at a cost of added complexity. 
+The [w3.org](https://www.w3.org/) site is already made up of a lot of different systems, the CMS is just one part of the what makes 
 up the varied content on w3.org
 
 I hope this helps explain the thought process behind our decision a little more and addresses some of the valid concerns 
