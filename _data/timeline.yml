@@ -4,6 +4,16 @@ entries:
     description: "Our CMS choice, first design review and planning, planning, planning"
     link: /updates/weeknotes-25-sep/
 
+  - date: 2020-09-25
+    title: CMS selection report
+    description: "Craft CMS is selected to build the re-designed W3C website. Here is a description of our selection process."
+    link: /docs/cms-selection-report/
+
+  - date: 2020-09-25
+    title: On not choosing WordPress
+    description: "Explaining the background of our choice on CMS platform and the response to a recent WordPress Tavern post"
+    link: /updates/on-not-choosing-wordpress/
+
   - date: 2020-09-11
     title: Weeknotes 11 Sept
     description: "Progress has been made in a range of areas: design, CMS selection and sitemap technical work"

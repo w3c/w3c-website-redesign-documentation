@@ -2,7 +2,6 @@
 layout: doc
 title: "CMS selection report"
 date: "2020-09-25"
-updated: "2020-09-25"
 categories: ["cms", "Accessibility"]
 description: "Craft CMS is selected to build the re-designed W3C website. Here is a description of our selection process."
 author: "Marie Manandise"
@@ -35,8 +34,9 @@ but both CMSes would allow us to build the required features of the re-designed 
 
 The issue was: neither Craft nor Statamic were following the required [Authoring Tools Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/atag/) (AA standards or at least close to it).
 
-A light touch review by our Accessibility lead, Carlos Eriksson, revealed that accessibility had not been baked into the development process of either tool, with Craft CMS doing a little better and demonstrating some awareness of accessible best practices.A "light touch" accessibility review by our accessibility lead (Carlos Eriksson) revealed accessibility was not baked in the development
-process of either tools. However, Craft seemed to was fareing a bit better on that score; their developers must have had some awareness of accessible patterns.
+A light touch review by our Accessibility lead, Carlos Eriksson, revealed that accessibility had not been baked into the 
+development process of either tool, with Craft CMS doing a little better and demonstrating some awareness of accessible 
+best practices.
 
 What ensued was a quest for an accessible CMS that also bears all the features of a modern CMS.
 
@@ -63,16 +63,16 @@ In general, whenever we came across a CMS with a better accessibility reputation
 We wanted to make sure we were not missing anything obvious so we reached out to a few experts in the field of accessibility.
 
 We got in touch with Cam Nicholl from the [Digital Accessibility Centre](http://www.digitalaccessibilitycentre.org/). She did know of one accessible
-CMS: [Jadu](https://www.jadu.net/). Unfortunately, Jadu is very much proprietary. Its code is not publicly available, and it is not possible to download a demo or access one
+CMS: [Jadu](https://www.jadu.net/). Unfortunately, Jadu is very much closed source. Its code is not publicly available, and it is not possible to download a demo or access one
 online.
 
 We reached out to Susanna Laurin, from [Funka](https://www.funka.com/en/), who has been working on an EU-funded project to review CMS accessibility. Here is her response:
 
-_"Funka is investigating, auditing and testing authoring tools, as part of our consultancy assignments and in different research projects. Since 2018, we are focusing on built-in accessibility – or ”accessibility by default” – in content management systems and editors, in three different EU-funded research projects, where we cover the most used CMS in public sector in the EU (licensed as well as open source products). Based on our experience, I would say that none of the tools are accessible by default – they all need work arounds or tweaking to comply with accessibility requirements._
-  
-_When it comes to the content creation environment; the ”back office” of the tools, the situation is even worse. We have never found a CMS that provides an accessible content creation environment at the same time as it works like a professional tool covering all the functionality I am sure W3C requires._
-  
-_Of course I can’t promise that there isn’t a tool out there that we have missed, but it would have been hiding very well for the last 20 or so years."_
+> "Funka is investigating, auditing and testing authoring tools, as part of our consultancy assignments and in different research projects. Since 2018, we are focusing on built-in accessibility – or ”accessibility by default” – in content management systems and editors, in three different EU-funded research projects, where we cover the most used CMS in public sector in the EU (licensed as well as open source products). Based on our experience, I would say that none of the tools are accessible by default – they all need work arounds or tweaking to comply with accessibility requirements.
+> 
+> "When it comes to the content creation environment; the 'back office' of the tools, the situation is even worse. We have never found a CMS that provides an accessible content creation environment at the same time as it works like a professional tool covering all the functionality I am sure W3C requires.
+> 
+> "Of course I can’t promise that there isn’t a tool out there that we have missed, but it would have been hiding very well for the last 20 or so years."
 
 We had a conversation with Hidde de Vries, from the [Web Accessibility initiative](https://www.w3.org/WAI/). 
 He also suspected there would currently not be any CMSes that fully comply with the [Authoring Tools Accessibility Guidelines (ATAG)](https://www.w3.org/WAI/standards-guidelines/atag/).
