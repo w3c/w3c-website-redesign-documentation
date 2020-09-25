@@ -25,7 +25,7 @@ We've tackled a huge variety of work so far from initial Discovery, User Researc
 Design and UX Design that has helped move the project forward.
 
 The CMS platform decision is just part of this and for the end website is one of the less visible aspects. As you can 
-read from [Marie's report on the work we did to choose the CMS](/docs/cms-selection-report/) you can see the steps we went through to help 
+read from [Marie's report on the work we did to choose Craft CMS](/docs/cms-selection-report/) you can see the steps we went through to help 
 shortlist and choose a CMS.
 
 For us, and the requirements from W3C, the delivery of accessible HTML/CSS pages that meet user needs is the most important part of this project - and 
@@ -52,9 +52,10 @@ to meet these needs.
 We [tested Gutenberg](https://medium.com/studio24/we-tried-converting-a-bespoke-website-design-in-wordpress-with-gutenberg-42e11986b05a) 
 six months before it was released in WordPress 5. Recently we worked on a project for the University of Cambridge creating 
 a site for their [Alumni magazine](https://magazine.alumni.cam.ac.uk/). 
-This launched in April 2020 and uses Gutenberg to manage content. This gave us a good idea of how Gutenberg works, though 
-we didn't test authoring tool accessibility back then. In June, we had some feedback from users with accessibility needs 
-who fed back the user interface was difficult to use for screen reader users. At that time it was felt Gutenberg was not right for this project.
+This launched in April 2020 and uses Gutenberg to manage content. This gave us a good idea of how Gutenberg works. 
+In June, we reviewed the current accessibility issue backlog ([issues](https://github.com/WordPress/gutenberg/labels/Accessibility%20%28a11y%29), [a11y project](https://github.com/WordPress/gutenberg/projects/25)) and 
+had some feedback from users with accessibility needs who had difficulties using the current user interface. 
+This was a contributing factor in our decision that WordPress was not a good fit for this project.
 
 Given the importance the WordPress project has put on Gutenberg as the future of WordPress we did not feel it was reasonable to recommend using the Classic Editor if there is 
 a good chance this will not be supported in the future. At present [Classic Editor is slated for end of life in Dec 2021](https://make.wordpress.org/core/2018/11/07/classic-editor-plugin-support-window/).
@@ -69,7 +70,7 @@ who create custom websites for clients; where we have a need to create lots of b
 
 The use of React complicates front-end build. We have very talented front-end developers, however, they are not React 
 experts - nor should they need to be. I believe front-end should be built as standards-compliant HTML/CSS with JavaScript 
-used to enrich functionality where necessary and appropriate. The use of React to manage Gutenberg block HTML makes this 
+used to enrich functionality where necessary and appropriate. For example, the use of React to manage Gutenberg block HTML makes this 
 difficult due to the nature of the block HTML being tightly coupled to React via the JSX templating system. 
  
 As of yet, we have not found a satisfactory (and profitable) way to build custom Gutenberg blocks for commercial
