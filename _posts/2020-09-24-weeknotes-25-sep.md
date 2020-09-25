@@ -15,7 +15,7 @@ thumbnail_alt: Sketch of an American Football Placekicker scoring a field goal.
 This week feels like we've made a lot of progress on the project. 
 
 ## CMS
-After a long process of review and consideration with W3C we have chosen Craft CMS to use for this project. They have shown a commitment to making ongoing improvements to the accessibility of the CMS, and ultimately we feel they are the best fit for the project. Read more about why we chose Craft. 
+After a long process of review and consideration with W3C we have chosen Craft CMS to use for this project. They have shown a commitment to making ongoing improvements to the accessibility of the CMS, and ultimately we feel they are the best fit for the project. [Read more about why we chose Craft](/docs/cms-selection-report). 
 
 ## Design
 We had our first design review with W3C. Ian, our Creative Director, shared our ideas for the global site elements such as navigation, colour and typography. He moved onto more detailed patterns such as cards, images and buttons. And also presented some initial templates to show how these patterns will come together to form pages. 
