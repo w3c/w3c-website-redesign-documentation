@@ -30,7 +30,7 @@ shortlist and choose a CMS.
 
 For us, the delivery of accessible HTML/CSS pages that meet user needs is the most important part of this project - and 
 where we are focussing our time. All in, we spent around 15 days on the CMS platform choice. Enough to help evaluate 
-a limited number of options, but not enough to do a thorough review of the state of accessibility in all major CMS. 
+a limited number of options, but not enough to do a thorough review of the state of accessibility in a wide range of CMSs. 
 
 We were surprised by the accessibility issues that cropped up in CMS platforms after our [initial CMS review](/docs/w3c-cms-selection-process-update/).
 This prompted us to prioritise accessibility above other requirements due to the [principles and values of W3C](https://www.w3.org/Consortium/mission#principles).
@@ -57,8 +57,7 @@ This launched in April 2020 and uses Gutenberg to manage content. This gave us a
 we didn't test authoring tool accessibility back then. In June, we had a review of accessibility in Gutenberg and some 
 feedback from users with accessibility needs. At that time it was felt Gutenberg was not right for this project.
 
-Given the importance the owner of WordPress, [Automattic](https://automattic.com/), 
-has put on Gutenberg as the future of WordPress we did not feel it was reasonable to recommend using the Classic Editor if there is 
+Given the importance the WordPress project has put on Gutenberg as the future of WordPress we did not feel it was reasonable to recommend using the Classic Editor if there is 
 a reasonable chance this will not be supported in the future. At present [Classic Editor is slated for end of life in Dec 2021](https://make.wordpress.org/core/2018/11/07/classic-editor-plugin-support-window/).
 
 We look forward to the continued development of Gutenberg and applaud efforts to make it more accessible. We appreciate improvements 
@@ -95,15 +94,16 @@ Charging money enables small teams to develop good software, so we're not ideolo
 Both platforms are well respected in the community and well-used by professionals, running sites such as [Netflix](https://media.netflix.com/en/),
 [Big Commerce](https://www.bigcommerce.com/), [Spiegel Plus](https://www.spiegel.de/plus/) and [FreshBooks](https://www.freshbooks.com/).
 
-While WordPress is open source its roadmap is heavily influenced by the commercial company Automattic. 
+While WordPress is open source its roadmap is heavily influenced by the commercial company [Automattic](https://automattic.com/), 
+this certainly appeared to be the case for the Gutenberg project.
 
-We are using open source technology in the majority of this project (HTML/CSS, PHP, Symfony). While Craft is a proprietary 
+We are using open source technology in the majority of this project (HTML/CSS, JavaScript, PHP, Symfony). While Craft is a proprietary 
 CMS, this has given us the advantage of direct access to the team developing the CMS which has helped improve accessibility 
-in these CMSs which can only help the industry as a whole. 
+in these CMSs. We hope this helps move accessibility forward in the CMS industry.  
 
 Open tools will continue to be used to publish the standards of the web. The [Technical Reports](https://www.w3.org/TR/)
-page is powered by Symfony and specifications will continue to be published to GitHub to facilitate open discussion. 
-Nothing's changing with how the W3C work in the open.
+page is powered by [Symfony](https://symfony.com/) and specifications will continue to be published to [GitHub](https://github.com/w3c) 
+to facilitate open discussion. Nothing's changing with how the W3C work in the open.
 
 ## A note on front-end delivery
 
