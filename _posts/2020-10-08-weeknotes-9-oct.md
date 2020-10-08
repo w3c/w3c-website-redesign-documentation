@@ -29,9 +29,9 @@ Last week we presented to W3C our proposal for site styles and how they feed int
 >
 > * ... public perception of the site... authoritative... the most reliable place for web accessibility information
 > * is seen as the definitive (re)source, authoritative, credible...\
->   ( more from 2005 at <https://www.w3.org/WAI/redesign/analysis-sum#vision>)\
->   \
->   I feel like the colors and the style of illustrations do not convey "authoritative".
+>   ( more from 2005 at <https://www.w3.org/WAI/redesign/analysis-sum#vision>)
+>   
+>  I feel like the colors and the style of illustrations do not convey "authoritative".
 >
 > Studio 24's emphasis on simplicity and functionality - at times reminiscent of the Gov.uk site - has improved the overall clarity of the site's navigation and content. The use of certain page structures and elements commonly seen on other sites will likely result in a familiar, and less intimidating, user experience for W3C newcomers.
 
