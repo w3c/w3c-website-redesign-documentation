@@ -27,6 +27,9 @@ collections:
   wireframes:
     output: true
     permalink: /wireframes/:title/
+  designs:
+    output: true
+    permalink: /designs/:title/
 
 # Build settings
 markdown: kramdown

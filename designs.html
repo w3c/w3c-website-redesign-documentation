@@ -1,0 +1,34 @@
+---
+layout: default
+title: Designs
+permalink: /designs/
+nav_exclude: true
+description: "Static designs."
+---
+<div class="articles">
+
+    <h1>Designs</h1>
+
+    <p class="fs-4 fw-300">
+        During the design phase we create "flat" designs to illustrate design elements and page layouts. Please do not
+        be concerned if imagery and text is incorrect. You may see areas of Latin text and stock imagery which is used
+        in a purely representative way.
+    </p>
+
+    <p class="fs-4 fw-300">
+        Our focus in the design phase is to agree a design direction and high-level styles. These are then built into
+        working HTML/CSS web pages, where the design is iterated to ensure it meets business and user needs.
+    </p>
+
+    <hr>
+
+    <ul class="post-list">
+        {% assign sorted = site.designs | sort: 'date' | reverse %}
+        {% for post in sorted %}
+        <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title  | markdownify | strip_html | trim }}</a> - {{ post.date | date_to_string }}
+        </li>
+        {% endfor %}
+    </ul>
+
+</div>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} - Static designs</title>
+    <style>
+        body {
+            margin: 0 auto;
+            padding: 0;
+            background-color: #EEE;
+            font-family: sans-serif;
+        }
+
+        #design {
+            margin: 0 auto;
+            padding: 0;
+            text-align: center;
+        }
+
+        footer {
+            width: 90%;
+            margin: 2px auto;
+            padding: 1.2em;
+        }
+    </style>
+</head>
+<body>
+
+<main>
+    <div id="design">
+        <img src="/assets/images/designs/{{ page.design }}" alt="">
+    </div>
+</main>
+
+<footer>
+    <ul>
+        <li><a href="/designs/" class="action">View all designs</a></li>
+    </ul>
+</footer>
+
+</body>
+</html>
