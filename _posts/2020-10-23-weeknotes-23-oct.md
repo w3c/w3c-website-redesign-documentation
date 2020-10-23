@@ -6,31 +6,34 @@ categories:
   - Design
   - Community
 description: Design presentation, design system work, editing the spec, and a community talk for Marie.
-author: Simon R Jones
+author: Simon R Jones, Nicola Saunders
 date: 2020-10-23
 thumbnail: /assets/images/img-standards.png
 thumbnail_alt: Sketch of an American Football Placekicker scoring a field goal.
   The football shows the W3C logo. 'Standards' is written in the end zone.
 ---
 
-This week notes covers the last couple of weeks work.
+This weeknote covers the last couple of weeks.
 
 ## Production phase planning
 
-Our main focus now is to pause production work while we detail all current requirements in the specification, so we are 
-in a position to discuss and prioritise these with W3C. Marie and Simon have been editing the specification. We expect 
-to discuss the spec with W3C next week and hope to have agreement on task priorities by the week after. 
+Our main focus now is to pause production work while we detail all current requirements in the specification. 
+Marie has been leading the specification work, with support from 
+Simon. Not inconsiderable work due to the volume of things we've discussed during this project.
+ 
+We expect to discuss the spec with W3C next week, with the aim to prioritise tasks for the rest of the production 
+phase of this project.
 
 ## Design
 
 Last week Ian ran a design presentation with the senior team at W3C, which went very well. This week Coralie has been 
 helping collate a range of feedback from W3C and prioritised which points our team needs to focus on.
 
-After responding to a range of valid points, we've got agreement on the global design direction. Our plan now is to move 
+After responding to a range of valid concerns, we've got agreement on the global design direction. Our plan now is to move 
 design into the browser, address the points raised by W3C there, and bring the design closer to the finished result 
 directly in HTML/CSS.
 
-We plan to publish the static designs we presented to this site next week.
+We plan to publish the static designs we presented to the working in the open site next week.
 
 ## A design system for the W3C site
 
@@ -60,12 +63,12 @@ You can
 [read Marie's slides on Google Slides](https://docs.google.com/presentation/d/1-TRYcDcBDC8JoBV7PoxzUCipyH70XjTd_nY2M4fFyH8/view) or 
 [listen to Marie's talk on YouTube](https://www.youtube.com/watch?v=coyt8ey6NRk). 
 
-We plan to publish a blog post on the Studio 24 site to accompany this soon.
+We plan to publish a blog post on this talk to the [Studio 24 site](https://www.studio24.net/blog/) next week.
 
 ## Final thoughts
 
 What was good: design presentation, getting agreement on the global design so we can iterate in the browser.
 
-What we found challenging: editing the specification and ensuring it has enough detail, we've discussed a lot so far in this project. 
+What we found challenging: editing the specification and ensuring it has enough detail. 
 
 What are we looking forward to: discussing the specification with W3C to help focus our work, half-term holiday next week to spend some time with the family!
