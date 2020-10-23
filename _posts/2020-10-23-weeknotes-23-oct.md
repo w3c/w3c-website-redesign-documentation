@@ -53,7 +53,7 @@ engine. This is similar to [Twig](https://twig.symfony.com/), which we have used
 This work is considered internal R&D work for Studio 24 (so not charged to the W3C project), but is crucial for helping 
 the team work efficiently in the production phase.
 
-### Community engagement
+## Community engagement
 
 Marie was asked to give a talk at [extendsConf](https://extendsconf.com/), an online conference focussed on the Craft CMS 
 community. She turned around the talk within a week, titled "Accessibility in CMSs... What's stopping us?" and covered 
