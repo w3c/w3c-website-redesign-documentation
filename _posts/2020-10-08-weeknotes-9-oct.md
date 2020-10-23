@@ -15,7 +15,7 @@ In the past two weeks we've been making progress in four areas: CMS planning, de
 
 ## CMS planning
 
-We had a kick-off call with the Craft team on 30th September to discuss our build approach. We confirmed that our preferred approach to site build will be using features, that by launch, will allow non-sighted users to enter CMS content. Maria started planning the site content model and is also finalising the build approach. 
+We had a kick-off call with the Craft team on 30th September to discuss our build approach. We confirmed that our preferred approach to site build will be using features, that by launch, will allow ~~non-sighted~~ users with accessibility needs to enter CMS content. Marie started planning the site content model and is also finalising the build approach. 
 
 ## Design
 
