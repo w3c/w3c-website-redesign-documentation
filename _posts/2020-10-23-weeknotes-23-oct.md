@@ -1,0 +1,71 @@
+---
+layout: post
+title: Weeknotes, 23 Oct
+categories:
+  - Planning
+  - Design
+  - Community
+description: Design presentation, design system work, editing the spec, and a community talk for Marie.
+author: Simon R Jones
+date: 2020-10-23
+thumbnail: /assets/images/img-standards.png
+thumbnail_alt: Sketch of an American Football Placekicker scoring a field goal.
+  The football shows the W3C logo. 'Standards' is written in the end zone.
+---
+
+This week notes covers the last couple of weeks work.
+
+## Production phase planning
+
+Our main focus now is to pause production work while we detail all current requirements in the specification, so we are 
+in a position to discuss and prioritise these with W3C. Marie and Simon have been editing the specification. We expect 
+to discuss the spec with W3C next week and hope to have agreement on task priorities by the week after. 
+
+## Design
+
+Last week Ian ran a design presentation with the senior team at W3C, which went very well. This week Coralie has been 
+helping collate a range of feedback from W3C and prioritised which points our team needs to focus on.
+
+After responding to a range of valid points, we've got agreement on the global design direction. Our plan now is to move 
+design into the browser, address the points raised by W3C there, and bring the design closer to the finished result 
+directly in HTML/CSS.
+
+We plan to publish the static designs we presented to this site next week.
+
+## A design system for the W3C site
+
+One of the project deliverables is a design system to accompany the re-designed website. This will document how 
+[Apollo](https://apollo.studio24.net/) is used to build the re-designed W3C site, and provide guidance to the W3C on 
+how best to carry on using it.
+
+After some initial research on design system tools such as [Cupper from the Paciello Group](https://thepaciellogroup.github.io/cupper/) 
+we have chosen to roll out a design system using [Metalsmith](https://metalsmith.io/).
+
+Metalsmith is a static site generator based on [Node.JS](https://nodejs.org/en/) and is used by the Government Digital 
+Service to deliver the [GOV.UK Design System](https://design-system.service.gov.uk/).
+
+We have opted to use it with the [Nunjucks](https://mozilla.github.io/nunjucks/templating.html) JavaScript templating 
+engine. This is similar to [Twig](https://twig.symfony.com/), which we have used on other projects.
+
+This work is considered internal R&D work for Studio 24 (so not charged to the W3C project), but is crucial for helping 
+the team work efficiently in the production phase.
+
+### Community engagement
+
+Marie was asked to give a talk at [extendsConf](https://extendsconf.com/), an online conference focussed on the Craft CMS 
+community. She turned around the talk within a week, titled "Accessibility in CMSs... What's stopping us?" and covered 
+lots of interesting points.
+ 
+You can 
+[read Marie's slides on Google Slides](https://docs.google.com/presentation/d/1-TRYcDcBDC8JoBV7PoxzUCipyH70XjTd_nY2M4fFyH8/view) or 
+[listen to Marie's talk on YouTube](https://www.youtube.com/watch?v=coyt8ey6NRk). 
+
+We plan to publish a blog post on the Studio 24 site to accompany this soon.
+
+## Final thoughts
+
+What was good: design presentation, getting agreement on the global design so we can iterate in the browser.
+
+What we found challenging: editing the specification and ensuring it has enough detail, we've discussed a lot so far in this project. 
+
+What are we looking forward to: discussing the specification with W3C to help focus our work, half-term holiday next week to spend some time with the family!

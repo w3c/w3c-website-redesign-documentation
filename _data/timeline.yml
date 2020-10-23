@@ -1,4 +1,9 @@
 entries:
+  - date: 2020-10-23
+    title: Weeknotes, 23 Oct
+    description: "Design presentation, design system work, editing the spec, and a community talk for Marie"
+    link: /updates/weeknotes-23-oct/
+
   - date: 2020-10-09
     title: Weeknotes 9 Oct
     description: "Progress on design, prototyping and planning"
