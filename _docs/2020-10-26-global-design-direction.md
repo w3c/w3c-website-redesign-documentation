@@ -11,8 +11,6 @@ updated: 2020-10-27T10:17:25.051Z
 ---
 This week, W3C approved the global design direction. Here we explain the design process so far, share some design work, and look at next steps in the design process.
 
-
-
 ## Defining  design objectives
 
 Back at the start of the project, we [talked to W3C](https://w3c.studio24.net/updates/design-survey/) about what they are looking for in their design solution. 
@@ -49,7 +47,7 @@ To illustrate the site design and what W3C have approved, here is a selection of
 * Selection of site components 2
 * Business ecosystem template - small screen
 * Business ecosystem template - medium screen
-* Business ecosystem template - large screen
+* Business ecosystem template - wide screen
 
 ## What next
 
