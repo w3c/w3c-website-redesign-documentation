@@ -41,13 +41,13 @@ We talked to W3C several times during the process, and shared the design work at
 
 ## The designs
 
-To illustrate the site design and what W3C have approved, here is a selection of screens. 
+To illustrate the site design and what W3C have approved, here is a selection of screens. Please do not be concerned if imagery and text is incorrect. You may see areas of Latin text and stock imagery which is used in a purely representative way. Images are displayed fulled size, you will need to scroll right / down in your browser to see the full design.
 
-* Selection of site components 1
-* Selection of site components 2
-* Business ecosystem template - small screen
-* Business ecosystem template - medium screen
-* Business ecosystem template - wide screen
+* [Selection of site components 1](/designs/components-group1/)
+* [Selection of site components 2](/designs/component-group2/)
+* [Business ecosystem template - small screen](/designs/screen-small/)
+* [Business ecosystem template - medium screen](/designs/screen-medium/)
+* [Business ecosystem template - wide screen](/designs/screen-wide/)
 
 ## What next
 
