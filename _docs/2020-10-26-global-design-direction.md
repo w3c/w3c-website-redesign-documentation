@@ -17,7 +17,7 @@ Back at the start of the project, we [talked to W3C](https://w3c.studio24.net/up
 
 We defined the needs of the design solution - based on both W3C's organisational needs and user needs. These were to:
 
-* Display dense content in an way that makes it easy for users to scan and find relevant information
+* Display dense content in a way that makes it easy for users to scan and find relevant information
 * Set a base-style for the site to house content for many years - while allowing the site style to evolve over time through the use of photography and illustrations
 * Create a scalable system, where each component designed can be used in different places across the site
 * Be able to build the design to meet WCAG 2.1 accessibility standards
