@@ -1,12 +1,12 @@
 ---
-layout: blog
+layout: doc
 title: Global design direction
 categories:
   - Design
 description: Take a look at the site designs so far, find out about the process
   we took to get here and our next steps.
 author: Ian Axton, Julia Sang
-date: 2020-10-27T10:17:25.037Z
+date: 2020-10-26T10:17:25.037Z
 updated: 2020-10-27T10:17:25.051Z
 ---
 This week, W3C approved the global design direction. Here we explain the design process so far, share some design work, and look at next steps in the design process.
