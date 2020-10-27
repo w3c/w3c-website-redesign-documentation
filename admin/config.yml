@@ -21,7 +21,7 @@ collections:
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "About W3C"
         name: "about-w3c"
-        file: "example.md"
+        file: "about-w3c.md"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
           - {label: "Title", name: "title", widget: "string"}
