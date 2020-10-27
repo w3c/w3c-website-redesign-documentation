@@ -29,7 +29,7 @@ Ian started the design process by defining styles for the site to make the conte
 If you have been following this blog, you'll know that we spent a lot of time reviewing existing site content, creating wireframes for key pages of content and iterating the site map to confirm what template types would be needed. From this work we created the following list of items to be designed: 
 
 * Components, which are reusable parts of the user interface that will support a variety of different use cases. Individual components are assembled to build the page layouts or templates. 
-* Templates, which are complete page layouts which are made up of a combination of different components.
+* Templates, which are complete page layouts made up of a combination of different components.
 
 Ian used the styles to design components, and built them up into page templates with example content. This way we could check the design solution worked both from the 'big picture' view as well as the reusable component view. 
 
