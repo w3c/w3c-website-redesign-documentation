@@ -7,7 +7,6 @@ description: > # this means to ignore newlines until "baseurl:"
   We are working in the open, sharing our progress, key documents and learnings.
 baseurl: ""
 url: "https://w3c.studio24.net"
-theme: just-the-docs
 color_scheme: nil
 
 # Footer content appears at the bottom of every page's main content
