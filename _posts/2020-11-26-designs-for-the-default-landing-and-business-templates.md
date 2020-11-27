@@ -31,22 +31,23 @@ Because of the amount of different actions / items already in this space, we rec
 Note: other related content can be populated on the page in separate components.
 
 View the designs:
-* Default template small screen (PNG)
-* Default template mid screen (PNG)
-* Default template wide screen (PNG)
+
+* [Default template small screen](/designs/2-default-navigation-s/) (PNG)
+* [Default template mid screen](/designs/2-default-navigation-m/) (PNG)
+* [Default template wide screen](/designs/2-default-navigation-w/) (PNG)
 
 ## Landing page template
 
 Template to create high-level pages that link through to more specific entries. For example, we suggest using the landing page template for the ‘Get Involved’ page that links through to various pages describing ways to participate in the work of the W3C. 
 
-* Landing template small screen (PNG)
-* Landing template mid screen (PNG)
-* Landing template wide screen (PNG)
+* [Landing template small screen](/designs/2-landing-s/) (PNG)
+* [Landing template mid screen](/designs/2-landing-m/) (PNG)
+* [Landing template wide screen](/designs/2-landing-w/) (PNG)
 
 ## Business ecosystem page template
 
 Template to tell a story including content about specific industries, who the W3C are, why W3C are trustworthy, and the benefits of being a member. 
 
-* Business ecosystem template small screen (PNG)
-* Business ecosystem template mid screen (PNG)
-* Business ecosystem template wide screen (PNG)
+* [Business ecosystem template small screen](/designs/2-business-s/) (PNG)
+* [Business ecosystem template mid screen](/designs/2-business-m/) (PNG)
+* [Business ecosystem template wide screen](/designs/2-business-w/) (PNG)
