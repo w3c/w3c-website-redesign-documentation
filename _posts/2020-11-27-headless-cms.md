@@ -4,19 +4,23 @@ title: Headless CMS approach
 categories:
   - Development
   - CMS
+  - Front-end
 description: "Find out about our Headless CMS approach to building the front-end"
 author: Simon R Jones
 date: 2020-11-27
+thumbnail: /assets/images/img-content-management.png
+thumbnail_alt: An image of a person with a rake standing on part of a wireframe,
+  using the rake to organise the content on the page.
 ---
 
 We have decided to separate the Content Management System (CMS) and front-end web pages into two layers: using [Craft CMS](https://craftcms.com/)
-as a Headless CMS which is only used to manage content and [Symfony](https://symfony.com/) as an application to deliver 
+as a Headless CMS which is only used to manage content and a [Symfony](https://symfony.com/) application to deliver 
 front-end pages. We believe this will be more efficient for the long-term development of w3.org. 
 
 Benefits include:
 
 * Symfony is already used to deliver web pages for W3C so is a familiar technology (it's also a well established and powerful PHP framework)
-* Craft CMS has good support for GraphQL API to help expose content managed in the CMS
+* Craft CMS has good support for [GraphQL](https://graphql.org/) API to help expose content managed in the CMS
 * Many pages are created by a variety of different data sources, both from the CMS and other sources
 * There is a desire to have an efficient single platform on the front-end to help with future maintenance
 * The Headless CMS approach gives a nice separation of concerns, simplifying the CMS side and helping us focus on delivering only what matters on the front-end
