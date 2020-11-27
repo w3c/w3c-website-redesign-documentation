@@ -1,10 +1,15 @@
 entries:
   - date: 2020-11-27
+    title: Headless CMS approach
+    description: "Find out about our Headless CMS approach to building the front-end"
+    link: /updates/headless-cms/
+
+  - date: 2020-11-26
     title: Designs for the default, landing and business templates
     description: "A look at the designs for key site pages"
     link: /updates/designs-for-the-default-landing-and-business-templates/
 
-  - date: 2020-11-27
+  - date: 2020-11-26
     title: Prototyping the main navigation
     description: "Find out how we have been prototyping the main navigation and give us your feedback on how it works."
     link: /updates/prototyping-the-main-navigation/
