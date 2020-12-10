@@ -59,7 +59,7 @@ Each of these main types of listing pages have variations depending on the conte
 
 ## Build planning and estimating
 
-This week we have been planning the detailed tasks required for building the site. [Jean-Guilhem Rouel](/about-w3c/#jean-guilhem-rouel-systems-team) from the W3C Systems team will be working with us to build the symfony application so we are now planning and estimating tasks for:
+This week we have been planning the detailed tasks required for building the site. [Jean-Guilhem Rouel](/about-w3c/#jean-guilhem-rouel-systems-team) from the W3C Systems team will be working with us to build the Symfony application so we are now planning and estimating tasks for:
 
 * front-end build
 * CMS build
