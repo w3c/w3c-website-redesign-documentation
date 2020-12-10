@@ -16,7 +16,7 @@ We are now getting into the fine detail of the project, from detailing the use o
 
 ## The header area and language selection
 
-Last week we started planning the approach managing translations and internationalisation of the site.  We reviewed all the comments we have received regarding the header area and best practice guidance on language indication and switching. In turn, this lead us to make a number of user interaction improvements to the header area of the site. 
+Last week we started planning the approach managing translations and internationalisation of the site.  We reviewed all the comments we have received regarding the header area and best practice guidance on language indication and switching. In turn, this led us to make a number of user interaction improvements to the header area of the site. We will publish an update on what we changes and why early next week. 
 
 ## Feedback on the default, landing and business templates
 
