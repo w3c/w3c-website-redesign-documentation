@@ -5,7 +5,7 @@ categories:
   - Design
   - Content
   - Planning
-description: Feedback on key templates and the site header and build planning
+description: Feedback on key templates and the site header, and build planning
 author: Julia Sang
 date: 2020-12-11T14:23:25.690Z
 thumbnail: /assets/images/img-standards.png
