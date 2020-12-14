@@ -1,4 +1,9 @@
 entries:
+  - date: 2020-12-14
+    title: Header design update
+    description: "Header design reviewed for internationalisation, among other things"
+    link: /updates/header-design-update/
+
   - date: 2020-12-11
     title: Weeknotes 11 Dec
     description: "Feedback on key templates and the site header, and build planning"
