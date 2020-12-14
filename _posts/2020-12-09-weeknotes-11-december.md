@@ -7,7 +7,7 @@ categories:
   - Planning
 description: Feedback on key templates and the site header and build planning
 author: Julia Sang
-date: 2020-11-26T14:23:25.690Z
+date: 2020-12-11T14:23:25.690Z
 thumbnail: /assets/images/img-standards.png
 thumbnail_alt: Sketch of an American Football Placekicker scoring a field goal.
   The football shows the W3C logo. 'Standards' is written in the end zone.
