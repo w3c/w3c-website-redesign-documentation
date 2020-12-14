@@ -1,4 +1,9 @@
 entries:
+  - date: 2020-12-11
+    title: Weeknotes 11 Dec
+    description: "Feedback on key templates and the site header and build planning"
+    link: /updates/weeknotes-11-dec/
+
   - date: 2020-11-27
     title: Headless CMS approach
     description: "Find out about our Headless CMS approach to building the front-end"

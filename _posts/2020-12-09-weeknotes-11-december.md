@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weeknotes, 11 December
+title: Weeknotes, 11 Dec
 categories:
   - Design
   - Content
