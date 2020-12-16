@@ -20,7 +20,7 @@ Last week we started planning the approach managing translations and internation
 
 ## Feedback on the default, landing and business templates
 
-We received [feedback](https://docs.google.com/document/d/1vtydrH1oOTB_cXVVNrhAvWdeM1kf9U0pWiyMP8qe4iY/edit?pli=1#heading=h.v560jtxujt35) from the W3C team on the [default, landing and business templates](updates/designs-for-the-default-landing-and-business-templates/). We are working through the feedback - here is a summary of the main points. \
+We received [feedback](https://docs.google.com/document/d/1vtydrH1oOTB_cXVVNrhAvWdeM1kf9U0pWiyMP8qe4iY/edit?pli=1#heading=h.v560jtxujt35) from the W3C team on the [default, landing and business templates](/updates/designs-for-the-default-landing-and-business-templates/). We are working through the feedback - here is a summary of the main points. \
 \
 General impressions: 
 
@@ -69,7 +69,7 @@ Once complete we will to update our project timeline and delivery approach.
 
 ## Navigation prototype
 
-The W3C team continue to gather feedback on the [navigation prototype](updates/prototyping-the-main-navigation/) we have built, so for the moment that work remains paused until a full review is complete.
+The W3C team continue to gather feedback on the [navigation prototype](/updates/prototyping-the-main-navigation/) we have built, so for the moment that work remains paused until a full review is complete.
 
 ## Final thoughts
 
