@@ -31,7 +31,7 @@ Finally, apologies for inaccurate translations! We’ll be working on that!
 
 This is a page in French. It is available in English, Simplified Chinese, and French. We are viewing it on a medium screen.
 
-**Link to design**
+[View the design to illustrate scenario 1](/designs/medium-french/)
 
 ### The main language selector
 
@@ -55,13 +55,13 @@ If I am using a screen reader and jumped to the content using a ‘Skip to conte
 
 A page available in English only, viewed on desktop, with the beta banner added to it.
 
-**Link to design**
+[View the design to illustrate scenario 2](/designs/header-wide/)
 
 ## **Scenario 3**
 
 This is a page in English. It is available in English only. We are viewing it in a small screen. The language of the browser is set to French.
 
-**Link to design**
+[View the design to illustrate scenario 3](/designs/header-mobile/)
 
 ### The main language selector
 
@@ -87,9 +87,9 @@ This message only appears once.
 
 ## The account menu
 
-**Link to design**
+[View the design to illustrate the account menu on a medium screen ](/designs/medium-account-menu/)
 
-As a user logged in to my W3C account, I can click on the ‘My account’ link and see a drop down menu with:
+[](/designs/medium-account-menu/)As a user logged in to my W3C account, I can click on the ‘My account’ link and see a drop down menu with:
 
 * My name
 * My email address
@@ -102,7 +102,7 @@ If the user had uploaded an avatar, it would appear instead.
 
 If the user is not logged in, a ‘default’ avatar is displayed. Clicking ‘My Account’ redirects the user to the W3C account page (<https://www.w3.org/users/myprofile>) which will prompt the user to log in.
 
-## What did not do, and why 
+## What did not do, and why
 
 ### Remove text next to icons (icons are self-explanatory)
 
@@ -110,7 +110,7 @@ This goes against accessibility guidelines which state that icons alone can be t
 
 In the case of the language dropdown label on small screens, we do understand it is only readable by users who understand the currently displayed language. We are therefore making a compromise with accessibility considerations by keeping the label. We assume that most non-English native users are likely to have English as a second language, are most likely to land on the English website first and therefore will be able to understand the 'Language' label.
 
-### Display language in the current language between brackets. 
+### Display language in the current language between brackets.
 
 E.g. if I am viewing a page in French the menu should read: 
 
