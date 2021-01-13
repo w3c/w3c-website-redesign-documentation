@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Header Design finalisation
+title: Header design finalisation
 categories:
   - Design
   - Accessibility
