@@ -14,7 +14,7 @@ thumbnail_alt: A person standing on a giant piece of paper with an illustration
 ---
 In mid-December we [revised the header area layout](/updates/header-design-update/) to take into account all the feedback we had received. 
 
-Last week we received feedback from the W3C team on this version of the layout. On Tuesday 12th January we had a team meeting to review the feedback together, with the aim of making final decisions about the last required changes to the header area, so it can be signed-off by the W3C team. 
+Last week we received [feedback](https://docs.google.com/document/d/1f94iNee43vkFR6K2PN3hTshPnmAxRQYPie5_pti7_dM/edit?pli=1#heading=h.hz0jwnbpsvew) from the W3C team on this version of the layout. On Tuesday 12th January we had a team meeting to review the feedback together, with the aim of making final decisions about the last required changes to the header area, so it can be signed-off by the W3C team. 
 
 The meeting was attended by:
 
