@@ -17,21 +17,22 @@ Back in [early December](/updates/weeknotes-11-dec/) we identified the listing a
 
 The templates designed are:
 
-A blog listing page\
+[A blog listing page](/designs/blog-listing/)
 To illustrate the news-type listing template, used for the blog, news, in-the-media and press release listing pages.
 
-A blog post page\
+[A blog post page](/designs/blog-post/)
 To illustrate the news-type post template, used for the blog, news and press release pages.
 
-An event listing page\
+[An event listing page](/designs/event-listing/)
 To illustrate the event-type listing pages, used for the talks, workshops, meetings and conferences listing pages.
 
-An event entry page\
+[An event entry page](/designs/event-details/)
 To illustrate the event-type entry pages, used for the talk, workshop and meeting event entry pages.
 
-A people listing page\
+[A people listing page](/designs/people-listing/)
 To illustrate the people-type listing template, used for the people, evangelists, invited experts and alumni listing pages
 
-A members listing page
+[A members listing page](/designs/members-listing/)
+To illustrate the members listing template
 
 Next steps? Feedback from the W3C team on any changes required to the content or functionality of these pages.
