@@ -1,16 +1,12 @@
 ---
-layout: blog
-title: High level timeline and approach (Update)
-categories:
-  - Planning
-  - ""
+layout: post
+title: "High level timeline and approach (Update)"
+date: 2021-01-15
+categories: ["Planning"]
 description: Find out what has changed in the delivery timeline and approach
 author: Julia Sang
-date: 2021-01-15T14:14:14.245Z
-updated: 
-thumbnail: /assets/images/img-standards.png
-thumbnail_alt: Sketch of an American Football Placekicker scoring a field goal.
-  The football shows the W3C logo. 'Standards' is written in the end zone.
+thumbnail: "/assets/images/img-standards.png"
+thumbnail_alt: "Sketch of an American Football Placekicker scoring a field goal. The football shows the W3C logo. 'Standards' is written in the end zone."
 ---
 The high-level timeline was last updated in [July 2020](https://w3c.studio24.net/docs/high-level-timeline/), and as the project has progressed our approach and timeline has adapted in response. Here are some of the driving reasons behind this:
 
@@ -35,7 +31,7 @@ January - February 2021
 * Account pages and sign-in/register flow and wireframes
 * Group pages (user interaction improvement recommendations)
 
-## Build and test site 
+## Build and test site
 
 January - April 2021
 
