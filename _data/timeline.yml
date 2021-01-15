@@ -1,4 +1,9 @@
-entries:
+entries:  
+  - date: 2021-01-18
+    title: Prototyping the main navigation - version 3
+    description: "An update on version 3 of our navigation prototype"
+    link: /updates/prototyping-the-main-navigation-version/
+    
   - date: 2020-01-13
     title: Listing and post pages designs
     description: "View our designs for the listing and post pages"
