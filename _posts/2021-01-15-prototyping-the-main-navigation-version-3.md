@@ -6,7 +6,7 @@ categories:
   - Accessibility
 description: An update on version 3 of our navigation prototype
 author: Julia Sang
-date: 2021-01-15T17:43:12.894Z
+date: 2021-01-18T17:43:12.894Z
 ---
 In November, we shared the [second version](https://w3c.studio24.net/updates/prototyping-the-main-navigation/) of the navigation prototype we have been working on. \
 \
