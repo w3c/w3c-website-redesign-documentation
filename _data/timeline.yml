@@ -1,4 +1,9 @@
 entries:
+  - date: 2020-12-15
+    title: High level timeline and approach (Update)
+    description: "Find out what has changed in the delivery timeline and approach"
+    link: /updates/high-level-timeline-and-approach-update/
+    
   - date: 2020-12-14
     title: Header design update
     description: "Header design reviewed for internationalisation, among other things"
