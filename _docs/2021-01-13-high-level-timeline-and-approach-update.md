@@ -6,8 +6,8 @@ categories:
   - ""
 description: Find out what has changed in the delivery timeline and approach
 author: Julia Sang
-date: 2021-01-13T14:14:14.245Z
-updated: 2021-01-13T14:14:14.258Z
+date: 2021-01-15T14:14:14.245Z
+updated: 
 thumbnail: /assets/images/img-standards.png
 thumbnail_alt: Sketch of an American Football Placekicker scoring a field goal.
   The football shows the W3C logo. 'Standards' is written in the end zone.
