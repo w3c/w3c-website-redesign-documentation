@@ -12,7 +12,7 @@ In November, we shared the [second version](https://w3c.studio24.net/updates/pro
 \
 We received a lot of [feedback](https://docs.google.com/document/d/1pBbRi91p1Zr81Ct8ZsRuA8A0rkR-BfGayt4gRPeCZJM/edit#heading=h.hz0jwnbpsvew) from the W3C team, some which was directly relevant to the prototype, and some which was focussed on the site map. As this prototype is using example content, we agreed with the W3C team to only address feedback specific to its function and styling. Therefore, all other header content and navigation has been temporarily hidden (with the exception of the button to trigger the mobile off-canvas navigation). Furthermore, the content shown in the sub-navigation is not fixed and should be considered as indicative.\
 \
-The Version 3 (V3) prototype of the main site navigation is now available for review at <https://w3c-dev.studio24.dev/navigation-v3.html>
+The Version 3 (V3) prototype of the main site navigation is now available for review at <https://w3c-dev.studio24.dev/navigation-v3/index.html>
 
 \
 **V3 sees the following changes:**
