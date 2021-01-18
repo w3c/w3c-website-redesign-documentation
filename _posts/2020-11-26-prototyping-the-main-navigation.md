@@ -11,11 +11,11 @@ date: 2020-11-26T10:42:01.013Z
 ---
 Over the past few weeks we have been prototyping the main navigation. 
 
-On our first version, which can be found at <https://w3c-dev.studio24.dev/navigation.html>, we got some excellent feedback 
+On our first version, which can be found at <https://w3c-dev.studio24.dev/navigation-v1/index.html>, we got some excellent feedback 
 from the [W3C team](https://w3c.studio24.net/about-w3c/) and [Léonie Watson](https://twitter.com/LeonieWatson) on visual, 
 functional and technical areas.
 
-We have prepared a second version of prototype of the main navigation, which can be found at <https://w3c-dev.studio24.dev/navigation-v2.html>. 
+We have prepared a second version of prototype of the main navigation, which can be found at <https://w3c-dev.studio24.dev/navigation-v2/index.html>. 
 
 W3C is reviewing this second version and we would also be pleased to hear from other people if you would like to  [share your feedback](https://w3c.studio24.net/feedback/). Some notes:
 
