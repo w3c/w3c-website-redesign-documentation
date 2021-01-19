@@ -3,8 +3,23 @@ entries:
     title: Header design finalisation
     description: "The final changes agreed with W3C to the header area design"
     link: /updates/header-design-finalisation/
-    
-- date: 2020-12-14
+
+  - date: 2021-01-18
+    title: Prototyping the main navigation - version 3
+    description: "An update on version 3 of our navigation prototype"
+    link: /updates/prototyping-the-main-navigation-version-3/
+
+  - date: 2021-01-15
+    title: High level timeline and approach (Update)
+    description: "Find out what has changed in the delivery timeline and approach"
+    link: /updates/high-level-timeline-and-approach/
+
+  - date: 2021-01-13
+    title: Listing and post pages designs
+    description: "View our designs for the listing and post pages"
+    link: /updates/listing-and-post-pages-design/
+
+  - date: 2020-12-14
     title: Header design update
     description: "Header design reviewed for internationalisation, among other things"
     link: /updates/header-design-update/
