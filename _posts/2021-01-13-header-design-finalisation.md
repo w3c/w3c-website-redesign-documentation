@@ -6,7 +6,7 @@ categories:
   - Accessibility
 description: The final changes agreed with W3C to the header area design
 author: Julia Sang
-date: 2021-01-13T11:36:35.943Z
+date: 2021-01-19T11:36:35.943Z
 thumbnail: /assets/images/img-content-management.png
 thumbnail_alt: A person standing on a giant piece of paper with an illustration
   of part of a web page. The person has a rake, and is using it to rake the
@@ -14,7 +14,7 @@ thumbnail_alt: A person standing on a giant piece of paper with an illustration
 ---
 In mid-December we [revised the header area layout](/updates/header-design-update/) to take into account all the feedback we had received. 
 
-Last week we received [feedback](https://docs.google.com/document/d/1f94iNee43vkFR6K2PN3hTshPnmAxRQYPie5_pti7_dM/edit?pli=1#heading=h.hz0jwnbpsvew) from the W3C team on this version of the layout. On Tuesday 12th January we had a team meeting to review the feedback together, with the aim of making final decisions about the last required changes to the header area, so it can be signed-off by the W3C team. 
+Teo weeks ago we received [feedback](https://docs.google.com/document/d/1f94iNee43vkFR6K2PN3hTshPnmAxRQYPie5_pti7_dM/edit?pli=1#heading=h.hz0jwnbpsvew) from the W3C team on this version of the layout. On Tuesday 12th January we had a team meeting to review the feedback together, with the aim of making final decisions about the last required changes to the header area, so it can be signed-off by the W3C team. We then continued the discussion offline, to agree the last points.
 
 The meeting was attended by:
 
@@ -23,7 +23,7 @@ The meeting was attended by:
 
 ## Discussion points
 
-We have a very interesting discussion over several points, which are summarised below.
+We have a very interesting discussion, summarised below.
 
 There was an agreed need to save space in the header and to try to reduce its height. The points discussed are summarise below
 
@@ -48,7 +48,7 @@ This relates to previous work we have done about the role of accounts and the [o
 
 ## Decision points
 
-The outcome of the meeting was an agreement on the following final changes to be made to the header area:
+The outcome of the meeting and subsequent offline discussion was an agreement on the following final changes to be made to the header area:
 
 **Search**\
 We have added a search icon which will link to a search tool managed by W3C (outside the scope of this project). The search icon is recognised universally enough that it does not need to have the text label 'search' next to it.
@@ -58,8 +58,11 @@ We have added a search icon which will link to a search tool managed by W3C (out
 
 **Language menu**
 
-* The language selector will stay in it's current position, but there will be design tweaks to reduce it's height
-* We recommended that it is not built as a drop-down, because that would require a select button for accessibility reasons. Therefore it will be built using the `<details>` element. This means the whole language bar area will expand down to reveal the links to the other language sites that a user can select from. We discussed and didn't think this would be a problem, as it would generally only need to be done by a user once. 
+* The language selector will stay in it's current position, but there will be design tweaks to reduce it's height, and it will align right.
+* The site will always link to the home page of localised sites from the language selector at the top, not translated content.
+* We will omit current language from the language selector at the top.
+* Remove Français from the language selector at the top (now that we have clarified there are no plans for a French site).
+* Replace dropdown with simple links on mobile, now there are less languages to link to
 
 **Account / profile menu:**\
 In an attempt to save space on mobile, we agreed that the log-in / register button will move to the fly-out menu, still visible on the first level navigation. 
