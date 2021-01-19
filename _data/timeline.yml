@@ -1,5 +1,10 @@
 entries:
-  - date: 2020-12-14
+  - date: 2021-01-19
+    title: Header design finalisation
+    description: "The final changes agreed with W3C to the header area design"
+    link: /updates/header-design-finalisation/
+    
+- date: 2020-12-14
     title: Header design update
     description: "Header design reviewed for internationalisation, among other things"
     link: /updates/header-design-update/
