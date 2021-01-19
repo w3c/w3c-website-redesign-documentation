@@ -33,7 +33,7 @@ There was an agreed need to save space in the header and to try to reduce its he
 2. There will be some space saved when the beta banner is no-longer in use
 
 **Do icons need text labels (could we save space by removing them)?**
-Usability best-practice recommends that most icons are not universally recognised and do still need text labels to help users identify them. These includes icons such as the hamburger menu (3 lines vertically stacked, used to indicate navigation options are available on click) and a silhouette of a person's head (used to indicate options related to a website user account). An exception to this is the search icon which is almost universally recognised at this time. At the end of the discussion we agreed to keep text labels against all icons, except for search - and to look for other ways to save space. 
+Usability best-practice recommends that most icons are not universally recognised and do still need text labels to help users identify them. This includes icons such as the hamburger menu (3 lines vertically stacked, used to indicate navigation options are available on click) and a silhouette of a person's head (used to indicate options related to a website user account). An exception to this is the search icon which is almost universally recognised at this time. At the end of the discussion we agreed to keep text labels against all icons, except for search - and to look for other ways to save space. 
 
 **Could we save space by moving the language selection menu to the footer?**\
 This really asks the question: 
@@ -51,7 +51,7 @@ This relates to previous work we have done about the role of accounts and the [o
 The outcome of the meeting and subsequent offline discussion was an agreement on the following final changes to be made to the header area:
 
 **Search**\
-We have added a search icon which will link to a search tool managed by W3C (outside the scope of this project). The search icon is recognised universally enough that it does not need to have the text label 'search' next to it.
+We have added a search icon which will link to a search tool managed by W3C (outside the scope of this project). The search icon is recognised universally enough that it does not need to have the text label 'search' next to it.
 
 * On mobile it will appear in the fly-out menu, to save space in the header. 
 * On desktop it will be visible on the top menu as an icon.
@@ -67,11 +67,11 @@ We have added a search icon which will link to a search tool managed by W3C (out
 **Account / profile menu:**\
 In an attempt to save space on mobile, we agreed that the log-in / register button will move to the fly-out menu, still visible on the first level navigation. 
 
-* On mobile 
+* On mobile:
 
-  * logged out state - login icon and label will be in the fly-out menu. 
+  * logged out state - login icon and label will be in the fly-out menu.
   * logged in state - avatar will appear in the header (with the dropdown menu available). This is so that logged-in users can easily see that they are logged in and can access their account menu quickly.
-* On desktop 
+* On desktop:
 
   * logged out state - login icon and label will be visible on the main header
   * logged in state - avatar will appear in the header (with the dropdown menu available).
@@ -79,7 +79,7 @@ In an attempt to save space on mobile, we agreed that the log-in / register butt
 
 ## Updated header design
 
-See the updated header design.
+[See the updated header design](/designs/final-header-design/).
 
 It includes: 
 
