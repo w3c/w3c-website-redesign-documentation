@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Internationalisation approach
+title: Internationalization approach
 categories:
   - Internationalization
 description: Read about the agreed approach for internationalization on the new W3C website.

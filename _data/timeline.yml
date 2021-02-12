@@ -5,9 +5,9 @@ entries:
     link: /docs/front-end-delivery-approach/
     
   - date: 2021-02-12
-    title: Internationalisation approach agreed
+    title: Internationalization approach
     description: "Read about the agreed approach for internationalization on the new W3C website."
-    link: /docs/internationalisation-approach-agreed/
+    link: /docs/internationalization-approach-agreed/
 
   - date: 2021-01-19
     title: Header design finalisation
