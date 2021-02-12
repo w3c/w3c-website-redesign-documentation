@@ -1,12 +1,11 @@
 ---
-layout: blog
+layout: doc
 title: Front-end delivery approach
 categories:
   - HeadlessCMS
 description: A Symfony application to deliver web pages
-author: Simon Jones
-date: 2021-02-12T09:24:50.652Z
-updated: 2021-02-12T09:24:50.661Z
+author: Simon R Jones, Marie Manandise
+date: 2021-02-12
 thumbnail: /assets/images/img-standards.png
 thumbnail_alt: Sketch of an American Football Placekicker scoring a field goal.
   The football shows the W3C logo. 'Standards' is written in the end zone.
