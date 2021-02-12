@@ -1,4 +1,14 @@
 entries:
+  - date: 2021-02-12
+    title: Front-end delivery approach
+    description: "A Symfony application to deliver web pages"
+    link: /docs/front-end-delivery-approach/
+    
+  - date: 2021-02-12
+    title: Internationalization approach
+    description: "Read about the agreed approach for internationalization on the new W3C website."
+    link: /docs/internationalization-approach-agreed/
+
   - date: 2021-01-19
     title: Header design finalisation
     description: "The final changes agreed with W3C to the header area design"

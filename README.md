@@ -1,5 +1,7 @@
 # W3C website redesign project docs site
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c4f39f7c-4abe-4e66-b8e0-f0c4acef80f6/deploy-status)](https://app.netlify.com/sites/ecstatic-mccarthy-0be5bd/deploys)
+
 Project documention for the 2020 W3C website redesign project hosted on https://w3c.studio24.net/
 
 The default branch is `production`
