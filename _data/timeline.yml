@@ -1,4 +1,9 @@
 entries:
+  - date: 2021-02-24
+    title: The first three static templates in build
+    description: "Take a look at the default, landing and business ecosystem static templates"
+    link: /updates/first3-templates/
+  
   - date: 2021-02-12
     title: Front-end delivery approach
     description: "A Symfony application to deliver web pages"
