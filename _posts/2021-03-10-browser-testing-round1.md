@@ -13,13 +13,14 @@ thumbnail_alt: Sketch of an American Football Placekicker scoring a field goal. 
 ---
 This week [Zoonou](https://zoonou.com/) completed browser and device testing for our [first three static templates](/updates/first3-templates/).  Zoonou tested against the browser list defined in the [Front-end Standards](/docs/front-end-standards) project documentation and on a range of devices.
 
-Zoonou found only four issues with the templates which I have summarised below (the full issues are recorded in the Studio 24 private instance of JIRA, as for this phase of the project we are using JIRA for all task and issue management). The issue report can be read at https://docs.google.com/document/d/1ejUkBnW6cObAj8W2mpRWxpddoxWxkMlb/
+Zoonou found only four issues with the templates which I have summarised below (the full issues are recorded in the Studio 24 private instance of JIRA, as for this phase of the project we are using JIRA for all task and issue management). You can [read the full issue report on Google Drive] (https://docs.google.com/document/d/1ejUkBnW6cObAj8W2mpRWxpddoxWxkMlb/)
 
 The issues will be worked on in April when we start back on HTML/CSS work. 
 
 - - -
 
 ##W3C-406 - Business – Carousel Navigation Dots Do Not Follow Carousel Screens
+
 It has been observed that navigation dots on the carousel on the Business page do not move when the user navigates to different screens using the arrow buttons. It is expected that the carousel screen indicator dots would follow the current screen that is present on page.
 
 Steps to recreate: 
@@ -33,6 +34,7 @@ Reproduction rate: 100% - Consistently reproducible.
 Severity: 4. Cosmetic Issue/ Typo
 
 ##W3C-407 - Business – Breadcrumbs Arrow Is Cut Off
+
 It has been observed that the last breadcrumb arrow on the Business page is partly cut off. It is expected that the breadcrumb graphics would be present on screen in full.
 
 Note: this issue has been observed across the three page templates tested.
@@ -48,6 +50,7 @@ Reproduction rate: 100% - Consistently reproducible.
 Severity: 4. Cosmetic Issue/ Typo
 
 ##W3C-408 - Business – W3C Member Logos Render Longer Than Expected
+
 It has been observed that W3C member company logos on the Business page render longer than expected, causing the user to need to scroll a long way to view and move past them. It is expected that the logos would render in a square shape, as seen on other environments, including Windows 10 – Chrome.
 
 Steps to recreate: 
@@ -60,6 +63,7 @@ Reproduction rate: 100% - Consistently reproducible.
 Severity: 4. Cosmetic Issue/ Typo
 
 ##W3C-409 - [Suggestion] Business – Ways to Get Involved Button Location
+
 It has been observed that the ‘Ways to get involved’ buttons render on two lines on mobile devices. It could be suggested that instead of two lines, these buttons would be located on the same line underneath the copy ‘Ways to get involved’, when they cannot fit on the same line with the copy. This way the placement of the buttons would not leave an empty space after the second button. Please see attached screenshot for current placement of buttons.
 
 Steps to recreate: 
