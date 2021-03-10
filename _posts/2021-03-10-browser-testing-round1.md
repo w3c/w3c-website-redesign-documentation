@@ -24,7 +24,7 @@ The issues will be worked on in April when we start back on HTML/CSS work.
 It has been observed that navigation dots on the carousel on the Business page do not move when the user navigates to different screens using the arrow buttons. It is expected that the carousel screen indicator dots would follow the current screen that is present on page.
 
 Steps to recreate: 
-1.	Go to URL: https://w3c-dev.studio24.dev/business/index.html 
+1.	Go to URL: [https://w3c-dev.studio24.dev/business/index.html](https://w3c-dev.studio24.dev/business/index.html) 
 2.	Scroll down to the ‘What organisation think about us’ carousel
 3.	Select the carousel navigation arrows
 4.	Observe that the screen indicator does not follow the shown content
@@ -40,7 +40,7 @@ It has been observed that the last breadcrumb arrow on the Business page is part
 Note: this issue has been observed across the three page templates tested.
 
 Steps to recreate: 
-1.	Go to URL: https://w3c-dev.studio24.dev/business/index.html 
+1.	Go to URL: [https://w3c-dev.studio24.dev/business/index.html](https://w3c-dev.studio24.dev/business/index.html) 
 2.	Observe that the breadcrumbs arrow is partly cut off
 
 Environment:
@@ -54,7 +54,7 @@ Severity: 4. Cosmetic Issue/ Typo
 It has been observed that W3C member company logos on the Business page render longer than expected, causing the user to need to scroll a long way to view and move past them. It is expected that the logos would render in a square shape, as seen on other environments, including Windows 10 – Chrome.
 
 Steps to recreate: 
-1.	Go to URL: https://w3c-dev.studio24.dev/business/index.html 
+1.	Go to URL: [https://w3c-dev.studio24.dev/business/index.html](https://w3c-dev.studio24.dev/business/index.html) 
 2.	Scroll down to the ‘Over 20 companies are W3C members’ section
 3.	Observe that the logo tiles are longer than expected
 
@@ -67,7 +67,7 @@ Severity: 4. Cosmetic Issue/ Typo
 It has been observed that the ‘Ways to get involved’ buttons render on two lines on mobile devices. It could be suggested that instead of two lines, these buttons would be located on the same line underneath the copy ‘Ways to get involved’, when they cannot fit on the same line with the copy. This way the placement of the buttons would not leave an empty space after the second button. Please see attached screenshot for current placement of buttons.
 
 Steps to recreate: 
-1.	Go to URL: https://w3c-dev.studio24.dev/business/index.html 
+1.	Go to URL: [https://w3c-dev.studio24.dev/business/index.html](https://w3c-dev.studio24.dev/business/index.html) 
 2.	Scroll down to the ‘Ways to get involved’ copy
 3.	Observe that the placement of the buttons
 
