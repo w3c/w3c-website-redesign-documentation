@@ -1,4 +1,9 @@
 entries:
+  - date: 2021-03-10
+    title: Browser and device testing round 1 results
+    description: "The first three static templates have been tested, read about the outcome"
+    link: /updates/browser-testing-round1/
+    
   - date: 2021-02-23
     title: The first three static templates in build
     description: "Take a look at the default, landing and business ecosystem static templates"
