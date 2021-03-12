@@ -5,7 +5,7 @@ categories:
   - Design
   - Content
   - Planning
-description: Feedback on key templates and the site header, and build planning
+description: It has been a busy week of activity, and it feels great. 
 author: Julia Sang
 date: 2021-03-12
 thumbnail: /assets/images/img-standards.png
