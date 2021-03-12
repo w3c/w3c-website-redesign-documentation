@@ -1,4 +1,14 @@
 entries:
+  - date: 2021-03-12
+    title: Weeknotes, 12 Mar
+    description: "It has been a busy week of activity, and it feels great"
+    link: /updates/weeknotes-12-March/
+    
+  - date: 2021-03-12
+    title: High level timeline and approach (March Update)
+    description: "Latest updates to the delivery timeline and approach"
+    link: /updates/March-timeline-update/
+    
   - date: 2021-03-10
     title: Browser and device testing round 1 results
     description: "The first three static templates have been tested, read about the outcome"
