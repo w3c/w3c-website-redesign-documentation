@@ -8,11 +8,11 @@ author: Julia Sang
 thumbnail: "/assets/images/img-standards.png"
 thumbnail_alt: "Sketch of an American Football Placekicker scoring a field goal. The football shows the W3C logo. 'Standards' is written in the end zone."
 ---
-The high-level timeline was last updated in [January 2021](/updates/high-level-timeline-and-approach/). We have had a few challenges which has pushed back the timeline again. 
+The high-level timeline was last updated in [January 2021](/updates/high-level-timeline-and-approach/). Since then a few challenges have pushed back the timeline. 
 
-1. The decision making process takes time to make sure we get it right and everyone who needs to be is consulted. 
-2. The initial build of static templates took longer than expected.
-3. Covid-19 has had an impact, the UK-wide lockdown which started on 26 December meant we needed to furlough some team members for childcare and another team member caught Covid and needed time off to recover. 
+1. The decision making process takes time, to make sure we get an agreed consensus from all project stakeholders.
+2. The build of the first static templates took longer than expected.
+3. Covid-19 has had an impact. The UK-wide lockdown, which started on 26 December, meant we needed to furlough some team members for childcare and another team member caught Covid and needed time off to recover. 
 
 Happily, everyone is now healthy and back in the office full time. It is wonderful to be together as a team again and things have started moving at pace.
 
