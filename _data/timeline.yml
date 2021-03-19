@@ -1,4 +1,9 @@
 entries:
+  - date: 2021-03-19
+    title: Weeknotes, 19 Mar
+    description: "It is one year on since the project and the pandemic started!"
+    link: /updates/weeknotes-19-march/
+
   - date: 2021-03-17
     title: URL strategy
     description: "Our URL and redirect strategy for the w3.org website"
