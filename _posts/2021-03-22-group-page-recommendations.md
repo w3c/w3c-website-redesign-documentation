@@ -12,12 +12,20 @@ thumbnail_alt: "A person standing on a giant piece of paper with an illustration
 
 ---
 
+{: .no_toc }
+
 When the W3C website project was awarded to Studio 24, one of the areas that we were asked to review and improve was the Group pages. However, we did not have enough time within the budget to do a full template redesign of the key group pages:
 * Main Group landing page ([https://www.w3.org/groups/](https://www.w3.org/groups/))
 * Sub-group landing page (for example [https://www.w3.org/groups/wg/](https://www.w3.org/groups/wg/))
 * Group detail pages (for example [https://www.w3.org/groups/wg/eowg](https://www.w3.org/groups/wg/eowg))
 
 So we compromised with W3C and agreed to do a content review. Our output is solutions to improve usability and the design of any missing components needed to implement the solutions. This post summarises our recommendations. 
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## User problems on Group pages and proposed solutions
 
@@ -141,7 +149,7 @@ Sub navigation:
 * Tools
 * Publications
 * Task Forces
-* IPR<br>
+* IPR
 
 #### Group detail - summary
 Example: [https://www.w3.org/groups/wg/css](https://www.w3.org/groups/wg/css)
@@ -162,13 +170,13 @@ Example: [https://www.w3.org/groups/wg/css](https://www.w3.org/groups/wg/css)
    * How to join link for full instructions
    * Move “Patent Policy status” to How to join page
    * Buttons to join / leave group should be intelligent (e.g. only display join button if you work for a W3C member)
-* Summary of latest activity (e.g. 5 latest items).<br>
+* Summary of latest activity (e.g. 5 latest items).
 
 #### Group detail - news
 * New page aimed at new users and existing members
 * Display list of recent News articles and Blog posts (e.g. 5 latest of each)
 * Use same layout as used for News listing page
-* Offer RSS feed links to news and blog content for this group<br>
+* Offer RSS feed links to news and blog content for this group
 
 #### Group detail - Activity
 New page aimed at existing group members
@@ -193,7 +201,7 @@ New page aimed at existing group members
 Example: [https://www.w3.org/groups/wg/css/participants](https://www.w3.org/groups/wg/css/participants)
 
 * Keep layout as it currently is - it works well (use the new people listing template)
-* View former participants link could be moved to bottom of page to make this less prominent<br>
+* View former participants link could be moved to bottom of page to make this less prominent
 
 
 #### Group detail - Calendar
@@ -211,7 +219,7 @@ Example mockup: [https://gor.w3.org/groups/wg/dx/calendar?tz=America%2FNew_York&
 * Examples:
    * 28 January 2021, 14:00 - 15:30 Eastern Daylight Time (18:00 - 19:30 UTC)
 * Display event description on page, there does not seem to be a need to hide this content.
-* Event title can link to event details page.<br>
+* Event title can link to event details page.
 
 #### Group detail - Tools
 Example: [https://www.w3.org/groups/wg/css/tools](https://www.w3.org/groups/wg/css/tools)
@@ -223,7 +231,7 @@ Example: [https://www.w3.org/groups/wg/css/tools](https://www.w3.org/groups/wg/c
 * Remove “Version Control” and replace with new section beneath other tools content
 * New sub-heading: Version control
 * Display list of GitHub/GitLab/etc repos that exist for this group directly on this page
-* See data example: [https://www.w3.org/PM/Groups/repositories.html?gid=32061](https://www.w3.org/PM/Groups/repositories.html?gid=32061)<br>
+* See data example: [https://www.w3.org/PM/Groups/repositories.html?gid=32061](https://www.w3.org/PM/Groups/repositories.html?gid=32061)
 
 
 #### Group detail - Publications
@@ -231,12 +239,12 @@ Example: [https://www.w3.org/groups/wg/css/publications](https://www.w3.org/grou
 
 * Current layout is OK
 * We recommend displaying all Technical Reports & Group Notes using the same card layout as the TR page
-* Review filters and sort order after TR listing page design work is complete<br>
+* Review filters and sort order after TR listing page design work is complete
 
 #### Group details - Task forces
 Example: [https://www.w3.org/groups/wg/css/task-forces](https://www.w3.org/groups/wg/css/task-forces)
 * Current layout is OK
-* This page lists related Task Force groups so should use the same layout as the Group listing page<br>
+* This page lists related Task Force groups so should use the same layout as the Group listing page
 
 #### Group detail - IPR
 Mockup: [https://w3c.github.io/redesign-mockups/groups/wg/css/ipr/](https://w3c.github.io/redesign-mockups/groups/wg/css/ipr/) 
