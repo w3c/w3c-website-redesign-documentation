@@ -5,7 +5,7 @@ categories:
   - Design
   - Content
 description: Improving the usability of W3C Group pages
-author: Julia Sang
+author: Simon Jones, Julia Sang
 date: 2021-03-22
 thumbnail: /assets/images/img-content-management.png
 thumbnail_alt: "A person standing on a giant piece of paper with an illustration of part of a web page. The person has a rake, and is using it to rake the content to make it look neater."
