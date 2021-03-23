@@ -1,4 +1,14 @@
 entries:
+  - date: 2021-03-22
+    title: Group page usability recommendations
+    description: "Improving the usability of W3C Group pages"
+    link: /updates/group-page-recommendations/
+
+  - date: 2021-03-22
+    title: Accessibility testing - round 1
+    description: "Read the accessibility test report on the first three static templates to be tested"
+    link: /updates/accessibility-testing-round1/
+
   - date: 2021-03-19
     title: Weeknotes, 19 Mar
     description: "It is one year on since the project and the pandemic started!"
