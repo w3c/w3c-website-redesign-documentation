@@ -5,7 +5,7 @@ categories:
   - Design
   - Content
   - Build
-description: One year on since the project and the pandemic started.  
+description: Design and content work is coming to an end.  
 author: Julia Sang
 date: 2021-03-26
 thumbnail: /assets/images/img-standards.png
