@@ -30,7 +30,9 @@ Steps to recreate:
 4.	Observe that the screen indicator does not follow the shown content
 
 Environment: believed to be global 
+
 Reproduction rate: 100% - Consistently reproducible. 
+
 Severity: 4. Cosmetic Issue/ Typo
 
 ## W3C-407 - Business – Breadcrumbs Arrow Is Cut Off
@@ -44,9 +46,11 @@ Steps to recreate:
 2.	Observe that the breadcrumbs arrow is partly cut off
 
 Environment:
-iPhone 8 - iOS 14.4 - Safari 14
-iPhone XS - iOS 13.2.3 - Safari 13
+* iPhone 8 - iOS 14.4 - Safari 14
+* iPhone XS - iOS 13.2.3 - Safari 13
+
 Reproduction rate: 100% - Consistently reproducible.
+
 Severity: 4. Cosmetic Issue/ Typo
 
 ## W3C-408 - Business – W3C Member Logos Render Longer Than Expected
@@ -59,7 +63,9 @@ Steps to recreate:
 3.	Observe that the logo tiles are longer than expected
 
 Environment: Believed to be a Safari specific issue
+
 Reproduction rate: 100% - Consistently reproducible. 
+
 Severity: 4. Cosmetic Issue/ Typo
 
 ## W3C-409 - [Suggestion] Business – Ways to Get Involved Button Location
@@ -72,9 +78,9 @@ Steps to recreate:
 3.	Observe that the placement of the buttons
 
 Environment:
-iPhone 8 - iOS 14.4 - Safari 14
-Google Pixel 2XL – Android 11 – Chrome 88
+* iPhone 8 - iOS 14.4 - Safari 14
+* Google Pixel 2XL – Android 11 – Chrome 88
+
 Reproduction rate: 100% - Consistently reproducible.
+
 Severity: 5. Feature Enhancement/ Suggestion/ Query
-
-
