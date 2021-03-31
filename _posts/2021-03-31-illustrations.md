@@ -43,8 +43,8 @@ Take a look at some of our work:
 
 <img src="/assets/images/illu-opening-door.png" alt="An illustration of a mobile web browser in the style of an open door. Two people, a woman with brown skin and a hijab and a man with peach skin using a wheelchair, are welcoming a third person with black skin in through the door, into the mobile web browser." />
 
-<img src="/assets/images/illu-talking-phones.png" alt="An illustration depicting two women having a mobile phone conversation. On the left is a phone; inside it is a woman with brown skin and a hijab, who is reaching towards the other phone and woman. In the phone on the right, a woman with peach skin is facing the other person, with one arm bent as if in explaination." />
+<img src="/assets/images/illu-talking-phones.png" alt="An illustration depicting two women having a mobile phone conversation. On the left is a phone; inside it is a woman with brown skin wearing a hijab, reaching towards the other phone and woman. In the phone on the right, a woman with peach skin is gesturing back, with one arm bent as if in explanation." />
 
 <img src="/assets/images/illu-laptop-projection.png" alt="An illustration of a man with black skin sitting on a chair with a laptop on his lap. He is looking at a projection beaming from the laptop: a video of a woman with peach skin and orange hair. Her arm is out as if waving towards the man." />
 
-<img src="/assets/images/illu-car.png" alt=" An illustration of a map-pin overlaid with a woman with peach skin and glasses looking at her mobile phone. There is a dotted line linking the map-pin to a spot below. On the right is a web browser overlaid with a car which is facing the map-pin and woman." />
+<img src="/assets/images/illu-car.png" alt="An illustration of a map-pin overlaid with a woman with peach skin and glasses looking at her mobile phone. There is a dotted line linking the map-pin to a spot below. On the right is a web browser overlaid with a car which is facing the map-pin and woman." />
