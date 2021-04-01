@@ -37,11 +37,11 @@ We're currently creating the core illustrations with the help of [Kenzo Ishida](
 
 Take a look at some of our work:
 
-<img src="/assets/images/illu-web-w3c.png" alt="An illustration of a large W3C logo in the background with three people. A man with black skin is sitting on a chair with his laptop, looking up at the logo. A woman with brown skin is wearing a hijab is holding the '3' from the W3C logo in place. A woman with peach skin using a wheelchair is holding the 'C' from the W3C logo in place." />
+<img src="/assets/images/illu-web-w3c.png" alt="An illustration of a large W3C logo in the background with three people. A man with black skin is sitting on a chair with his laptop, looking up at the logo. A woman with brown skin is wearing a hijab and is holding the '3' from the W3C logo in place. A woman with peach skin using a wheelchair is holding the 'C' from the W3C logo in place." />
 
-<img src="/assets/images/illu-web-payment.png" alt="An illustration showing a representation of online shopping. On the left, a web browser is overlayed with a person with peach skin holding a shopping bag with a tick. On the right, a phone is overlayed with a person with olive skin, reaching out of the phone, towards the web browser. Between the two people is a credit card." />
+<img src="/assets/images/illu-web-payment.png" alt="An illustration showing a representation of online shopping via a mobile phone. On the left, a web browser is overlayed with a person with peach skin holding a shopping bag with a tick. On the right, a mobile phone is overlayed with a person with olive skin, reaching out of the phone, towards the web browser. Between the two people is a credit card." />
 
-<img src="/assets/images/illu-opening-door.png" alt="An illustration of a mobile web browser in the style of an open door. Two people, a woman with brown skin and a hijab and a man with peach skin using a wheelchair, are welcoming a third person with black skin in through the door, into the mobile web browser." />
+<img src="/assets/images/illu-opening-door.png" alt="An illustration of a web browser in the style of an open door. Two people, a woman with brown skin and a hijab and a man with peach skin using a wheelchair, are welcoming a third person with black skin in through the door, into the web browser." />
 
 <img src="/assets/images/illu-talking-phones.png" alt="An illustration depicting two women having a mobile phone conversation. On the left is a phone; inside it is a woman with brown skin wearing a hijab, reaching towards the other phone and woman. In the phone on the right, a woman with peach skin is gesturing back, with one arm bent as if in explanation." />
 
