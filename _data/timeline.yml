@@ -1,4 +1,9 @@
 entries:
+  - date: 2021-04-06
+    title: How we are using illustrations to represent the W3C
+    description: "Creating a visual style for the website that conveys W3Cs unique community and work"
+    link: /updates/illustrations/
+ 
   - date: 2021-03-26
     title: Weeknotes, 26 Mar
     description: "Design and content work is coming to an end"
@@ -102,7 +107,7 @@ entries:
 
   - date: 2020-10-27
     title: Global design direction
-    description: "Take a look at the site designs so far, find out about the processwe took to get here and our next steps."
+    description: "Take a look at the site designs so far, find out about the process we took to get here and our next steps."
     link: /docs/global-design-direction
 
   - date: 2020-10-23
