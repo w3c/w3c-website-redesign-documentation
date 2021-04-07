@@ -62,6 +62,12 @@ She is a big believer in coding best practices and often thinks that, when it co
 
 Nicola entered the world of web development from self-taught beginnings. She joined Studio 24 as a Front-End Developer in 2017 after acquiring W3C recognised qualifications in responsive web design and JavaScript. With keen awareness and knowledge of accessibility and inclusive design, Nicola has contributed to multiple client sites including: [Cambridge Film Festival](https://www.cambridgefilmfestival.org.uk/), [Cambridge University Botanic Gardens](https://www.botanic.cam.ac.uk/), [Fauna and Flora International](https://www.fauna-flora.org/), and [UK Parliament](https://learning.parliament.uk/).
 
+### Sean Dunwoody, Senior Web Developer
+
+#### Role: CMS developer
+
+Sean first got into web development, at age 13, after playing online text-based strategy games. He was inspired to teach himself HTML, CSS, and JavaScript. He knew from then that he wanted a career in digital as there would always be fresh challenges, new things to learn, and new objectives to meet. Sean joined Studio 24 in October 2014 and has expanded his knowledge, and honed his skills, to excel as both a front-end developer working in HTML/CSS/JavaScript and a back-end developer working in PHP. Sean’s work as a developer has been integral to the success of large projects including (Crossrail)[https://www.crossrail.co.uk/], [Internet Watch Foundation](https://www.iwf.org.uk/), and [HS2](https://www.hs2.org.uk/).
+
 ### Claire McDermott, Senior Project Manager
 
 #### Role: User research
