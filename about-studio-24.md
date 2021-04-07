@@ -66,7 +66,7 @@ Nicola entered the world of web development from self-taught beginnings. She joi
 
 #### Role: CMS developer
 
-Sean first got into web development, at age 13, after playing online text-based strategy games. He was inspired to teach himself HTML, CSS, and JavaScript. He knew from then that he wanted a career in digital as there would always be fresh challenges, new things to learn, and new objectives to meet. Sean joined Studio 24 in October 2014 and has expanded his knowledge, and honed his skills, to excel as both a front-end developer working in HTML/CSS/JavaScript and a back-end developer working in PHP. Sean’s work as a developer has been integral to the success of large projects including (Crossrail)[https://www.crossrail.co.uk/], [Internet Watch Foundation](https://www.iwf.org.uk/), and [HS2](https://www.hs2.org.uk/).
+Sean first got into web development, at age 13, after playing online text-based strategy games. He was inspired to teach himself HTML, CSS, and JavaScript. He knew from then that he wanted a career in digital as there would always be fresh challenges, new things to learn, and new objectives to meet. Sean joined Studio 24 in October 2014 and has expanded his knowledge, and honed his skills, to excel as both a front-end developer working in HTML/CSS/JavaScript and a back-end developer working in PHP. Sean’s work as a developer has been integral to the success of large projects including [Crossrail](https://www.crossrail.co.uk/), [Internet Watch Foundation](https://www.iwf.org.uk/), and [HS2](https://www.hs2.org.uk/).
 
 ### Claire McDermott, Senior Project Manager
 
