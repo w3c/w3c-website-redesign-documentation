@@ -221,7 +221,7 @@ W3C have suggested using one status field and use sub-groups to make it clear to
 
 
 
-> <optgroup>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/optgroup) displays the data in a select box as above but it wouldn't allow the user to select 'Complete' or 'In Progress'.
+> [<optgroup>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/optgroup) displays the data in a select box as above but it wouldn't allow the user to select 'Complete' or 'In Progress'.
 
 
 Using optgroup would stop users being able to select Complete or In Progress, which feels useful. However, it does not make sense to select Complete/In Progress and a maturity status. Or Complete/In Progress and an invalid maturity level. 
