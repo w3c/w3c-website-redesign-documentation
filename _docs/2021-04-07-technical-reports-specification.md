@@ -13,7 +13,11 @@ thumbnail_alt: A person standing on a giant piece of paper with an illustration 
 
 {: .no_toc }
 
-The Technical Report (TR) page is a very important part of the W3C website. It allows people, interested in the work being done to move web standards forward, to find all related specifications and guidelines. Following a content review, interviews with key W3C team members in this area including Denis Ah-Kang and Dominique Hazaël-Massieux, a set of improvements were identified and worked on. Here you can read the final specification for the new page, and see the new designs. 
+The Technical Report (TR) page is a very important part of the W3C website. It allows people, interested in the work being done to move web standards forward, to find all related specifications and guidelines. Following a content review, interviews with key W3C team members in this area including Denis Ah-Kang and Dominique Hazaël-Massieux, a set of improvements were identified and worked on. On this page you can:
+* Read below the final specification for the new page
+* [View the page design as it will appear on initial load with content organised by 'family'](/designs/TR-listing-family-view/)  
+
+
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -217,7 +221,7 @@ W3C have suggested using one status field and use sub-groups to make it clear to
 
 
 
-> [<optgroup>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/optgroup) displays the data in a select box as above but it wouldn't allow the user to select 'Complete' or 'In Progress'.
+> <optgroup>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/optgroup) displays the data in a select box as above but it wouldn't allow the user to select 'Complete' or 'In Progress'.
 
 
 Using optgroup would stop users being able to select Complete or In Progress, which feels useful. However, it does not make sense to select Complete/In Progress and a maturity status. Or Complete/In Progress and an invalid maturity level. 
