@@ -1,4 +1,14 @@
 entries:
+  - date: 2021-04-09
+    title: Weeknotes, 09 Apr
+    description: "Preparing for the next round of development"
+    link: /updates/weeknotes-09Apr/
+
+  - date: 2021-04-09
+    title: Technical Reports Specification
+    description: "Recommended improvements to the Techincal Reports page"
+    link: /updates/technical-reports-specification/
+
   - date: 2021-04-06
     title: How we are using illustrations to represent the W3C
     description: "Creating a visual style for the website that conveys W3Cs unique community and work"
