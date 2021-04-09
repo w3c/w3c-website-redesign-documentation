@@ -13,7 +13,7 @@ thumbnail_alt: Sketch of an American Football Placekicker scoring a field goal. 
 ---
 
 The last two weeks have been about finishing off the outstanding areas of design and preparing for our next phase of development, which starts Monday 12th April. 
-We have shared the work we have been doing on [illustrations](/illustrations/) and the [Techincal Reports](/docs/technical-reports-specification/) page. 
+We have shared the work we have been doing on [illustrations](/updates/illustrations/) and the [Techincal Reports](/docs/technical-reports-specification/) page. 
 
 This week has been quiet, with some team members on holiday and others moving onto new projects. Next week we are ramping back-up for a few weeks of development work. 
 Nicki will start with bug-fixes for the templates that have been tested, before moving onto building the other templates. We are also welcoming [Sean Dunwoody](/about-studio24/) onto the project, to build the CMS. He has been at Studio 24 since 2014 and is looking forward to getting stuck into Craft.
