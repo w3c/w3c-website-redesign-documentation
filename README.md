@@ -4,8 +4,6 @@
 
 Project documentation for the 2020 W3C website redesign project hosted on https://w3c.studio24.net/
 
-The default branch is `production`
-
 ## Getting started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project to staging and prod environments.

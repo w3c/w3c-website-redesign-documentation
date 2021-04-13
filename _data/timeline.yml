@@ -1,4 +1,65 @@
 entries:
+  - date: 2021-04-09
+    title: Weeknotes, 09 Apr
+    description: "Preparing for the next round of development"
+    link: /updates/weeknotes-09Apr/
+
+  - date: 2021-04-09
+    title: Technical Reports Specification
+    description: "Recommended improvements to the Techincal Reports page"
+    link: /docs/technical-reports-specification/
+
+  - date: 2021-04-06
+    title: How we are using illustrations to represent the W3C
+    description: "Creating a visual style for the website that conveys W3Cs unique community and work"
+    link: /updates/illustrations/
+ 
+  - date: 2021-03-26
+    title: Weeknotes, 26 Mar
+    description: "Design and content work is coming to an end"
+    link: /updates/weeknotes-26March/
+
+
+  - date: 2021-03-22
+    title: Group page usability recommendations
+    description: "Improving the usability of W3C Group pages"
+    link: /updates/group-page-recommendations/
+
+  - date: 2021-03-22
+    title: Accessibility testing - round 1
+    description: "Read the accessibility test report on the first three static templates to be tested"
+    link: /updates/accessibility-testing-round1/
+
+  - date: 2021-03-19
+    title: Weeknotes, 19 Mar
+    description: "It is one year on since the project and the pandemic started!"
+    link: /updates/weeknotes-19-march/
+
+  - date: 2021-03-17
+    title: URL strategy
+    description: "Our URL and redirect strategy for the w3.org website"
+    link: /docs/url-strategy
+
+  - date: 2021-03-12
+    title: Weeknotes, 12 Mar
+    description: "It has been a busy week of activity, and it feels great"
+    link: /updates/weeknotes-12-March/
+    
+  - date: 2021-03-12
+    title: High level timeline and approach (March Update)
+    description: "Latest updates to the delivery timeline and approach"
+    link: /updates/March-timeline-update/
+    
+  - date: 2021-03-10
+    title: Browser and device testing round 1 results
+    description: "The first three static templates have been tested, read about the outcome"
+    link: /updates/browser-testing-round1/
+    
+  - date: 2021-02-23
+    title: The first three static templates in build
+    description: "Take a look at the default, landing and business ecosystem static templates"
+    link: /updates/first3-templates/
+  
   - date: 2021-02-12
     title: Front-end delivery approach
     description: "A Symfony application to deliver web pages"
@@ -56,7 +117,7 @@ entries:
 
   - date: 2020-10-27
     title: Global design direction
-    description: "Take a look at the site designs so far, find out about the processwe took to get here and our next steps."
+    description: "Take a look at the site designs so far, find out about the process we took to get here and our next steps."
     link: /docs/global-design-direction
 
   - date: 2020-10-23
