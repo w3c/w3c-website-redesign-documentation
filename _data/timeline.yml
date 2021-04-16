@@ -1,4 +1,14 @@
 entries:
+  - date: 2021-04-16
+    title: Weeknotes, 16 Apr
+    description: "Home page is agreed and our next development sprint has commenced"
+    link: /updates/weeknotes-16Apr/
+
+  - date: 2021-04-16
+    title: Home page
+    description: "How we defined and designed the new W3C website homepage"
+    link: /updates/homepage/
+ 
   - date: 2021-04-09
     title: Weeknotes, 09 Apr
     description: "Preparing for the next round of development"
