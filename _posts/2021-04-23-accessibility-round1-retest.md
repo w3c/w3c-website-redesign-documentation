@@ -38,7 +38,7 @@ To confirm, the image is being used purely as an example for the prototype. It w
 
 **Changes in text presentation**
 
-The <em> and <strong> elements are not commonly announced unless one very specific settings are enabled on screen readers. They are semantic HTML elements and do not require further treatment with e.g. hidden text as suggested. However, we will flag this to the W3C site editors and ask them to bear it in mind and consider alternative means for flagging important content by making use of e.g. headings.
+The `<em>` and `<strong>` elements are not commonly announced unless one very specific settings are enabled on screen readers. They are semantic HTML elements and do not require further treatment with e.g. hidden text as suggested. However, we will flag this to the W3C site editors and ask them to bear it in mind and consider alternative means for flagging important content by making use of e.g. headings.
 
 
 
