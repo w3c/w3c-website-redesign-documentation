@@ -29,6 +29,7 @@ There were four issues flagged in the report:
 ### Studio 24 comments: 
 
 **Non-descriptive links 1**
+
 We don't think it is necessary to add the dir attribute to the language option links. This is already defined on the <html> element and does not need to change direction for Simplified Chinese or Japanese.
 
 **Decorative images**
@@ -53,7 +54,7 @@ The <em> and <strong> elements are not commonly announced unless one very specif
 
 ### Studio 24 comments:
 
- **Incorrect use of ARIA**
+**Incorrect use of ARIA**
 
 As per Adrian Roselli’s advice on responsive tables (https://adrianroselli.com/2020/11/under-engineered-responsive-tables.html), I am not removing the role, aria-labelledby or tab index attributes. These are required in the event that the table needs to scroll horizontally if the table is wider than its parent container. However, I am updating the JavaScript to completely remove all of these attributes if there is no overflow detected.
 
@@ -70,7 +71,6 @@ As per the same article from Adrian Roselli mentioned under “Incorrect use of 
 > * The role is semantically incorrect, could you use role of region?
 > * The label of the region should be more descriptive I feel, explaining to screen reader users what it is for.
 
- 
 
 ### **Studio 24 response:** 
 
