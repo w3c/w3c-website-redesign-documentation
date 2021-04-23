@@ -44,7 +44,7 @@ The `<em>` and `<strong>` elements are not commonly announced unless one very sp
 
 ### DAC response: 
 
->  I agree with the feedback below hence why a lot of my issues were under usability.
+>  I agree with the feedback hence why a lot of my issues were under usability.
 
  
 
@@ -56,7 +56,7 @@ The `<em>` and `<strong>` elements are not commonly announced unless one very sp
 
 **Incorrect use of ARIA**
 
-As per Adrian Roselli’s advice on responsive tables (https://adrianroselli.com/2020/11/under-engineered-responsive-tables.html), I am not removing the role, aria-labelledby or tab index attributes. These are required in the event that the table needs to scroll horizontally if the table is wider than its parent container. However, I am updating the JavaScript to completely remove all of these attributes if there is no overflow detected.
+As per [Adrian Roselli’s advice on responsive tables] (https://adrianroselli.com/2020/11/under-engineered-responsive-tables.html), I am not removing the role, aria-labelledby or tab index attributes. These are required in the event that the table needs to scroll horizontally if the table is wider than its parent container. However, I am updating the JavaScript to completely remove all of these attributes if there is no overflow detected.
 
 **Reflow**
 
@@ -73,4 +73,4 @@ As per the same article from Adrian Roselli mentioned under “Incorrect use of 
 
 ### **Studio 24 response:** 
 
-> The role has been changed to “region" instead of “group" for the re-test and we will have a further think about the aria labelling.
+> The role has been changed to “region” instead of “group” for the re-test and we will have a further think about the aria labelling.
