@@ -4,7 +4,7 @@ title: Accessibility testing - round 1 retest
 categories:
   - Accessibility
   - Test
-description: Results from the round 1 restes and some notes on what we didn't do and why
+description: Results from the retest and notes on what we didn't do, and why
 author: Julia Sang
 date: 2021-04-23
 thumbnail: /assets/images/img_accessibilty.png
