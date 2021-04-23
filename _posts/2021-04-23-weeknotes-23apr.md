@@ -15,10 +15,12 @@ thumbnail_alt: Sketch of an American Football Placekicker scoring a field goal. 
 
 ## An industrious week
 
-Sean dived into content modelling this week, making sure we have a full list of content that needs to sit in the CMS. 
+Sean dived into content modelling this week, making sure we have a full list of content that needs to sit in the CMS. He's set up the CMS and worked on taxonomies, setting up content sections and started looking at component fields. 
+
 Alan has been working on deployments with the W3C team, as there are still some teething issues which means we haven't been able to get our CMS work onto the development site yet. 
-He's set up the CMS and worked on taxonomies, setting up content sections and started looking at component fields. 
+
 Nicki has been working on some design and browser amends for the first three templates, and has now moved onto building the form elements. DAC completed the [accessibility retest](/updates/accessibility-round1-retest/) on the first three templates and all but one issue is resolved.  
+
 Simon is continuing to work on the headless CMS Symfony application. 
 
 We also want to give a special mention this week to the team at [Craft](https://craftcms.com/), who have been incredibly responsive and helpful.
