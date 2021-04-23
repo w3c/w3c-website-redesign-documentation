@@ -1,4 +1,14 @@
 entries:
+  - date: 2021-04-23
+    title: Weeknotes, 23 Apr
+    description: "Home page is agreed and our next development sprint has commenced"
+    link: /updates/weeknotes-23Apr/
+    
+  - date: 2021-04-23
+    title: Accessibility testing - round 1 retest
+    description: "Results from the retest and notes on what we didn't do, and why"
+    link: /updates/accessibility-round1-retest/
+    
   - date: 2021-04-16
     title: Weeknotes, 16 Apr
     description: "Home page is agreed and our next development sprint has commenced"
