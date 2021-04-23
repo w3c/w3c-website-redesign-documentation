@@ -71,7 +71,6 @@ As per the same article from Adrian Roselli mentioned under “Incorrect use of 
 > * The role is semantically incorrect, could you use role of region?
 > * The label of the region should be more descriptive I feel, explaining to screen reader users what it is for.
 
-
 ### **Studio 24 response:** 
 
 > The role has been changed to “region" instead of “group" for the re-test and we will have a further think about the aria labelling.
