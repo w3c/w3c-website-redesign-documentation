@@ -56,7 +56,7 @@ The `<em>` and `<strong>` elements are not commonly announced unless one very sp
 
 **Incorrect use of ARIA**
 
-As per [Adrian Roselli’s advice on responsive tables] (https://adrianroselli.com/2020/11/under-engineered-responsive-tables.html), I am not removing the role, aria-labelledby or tab index attributes. These are required in the event that the table needs to scroll horizontally if the table is wider than its parent container. However, I am updating the JavaScript to completely remove all of these attributes if there is no overflow detected.
+As per [Adrian Roselli’s advice on responsive tables](https://adrianroselli.com/2020/11/under-engineered-responsive-tables.html), I am not removing the role, aria-labelledby or tab index attributes. These are required in the event that the table needs to scroll horizontally if the table is wider than its parent container. However, I am updating the JavaScript to completely remove all of these attributes if there is no overflow detected.
 
 **Reflow**
 
