@@ -16,7 +16,7 @@ This week, the [Disability Accessibility Centre](https://digitalaccessibilitycen
 
 Nicki worked through the report and updated areas of code to address the issues (a few notes on this can be read below).
 
-[Read the retest report](/assets/pdfs/W3C Prototype Accessibility Retest Report by DAC for Studio24 April 2021.pdf)
+[Read the retest report](/assets/pdfs/W3C-Prototype-Accessibility-Retest-Report-DAC-Studio24-April-2021.pdf)
 
 There were four issues flagged in the report:
 
