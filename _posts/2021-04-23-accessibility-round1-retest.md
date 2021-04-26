@@ -12,7 +12,7 @@ thumbnail_alt: Sketch of a dog with wheels and a harness to aid mobility. The do
 
 ---
 
-This week, the [Disability Accessibility Centre](https://digitalaccessibilitycentre.org/) (DAC) completed a retest on the first three static templates, following their [initial testing.](/updates/accessibility-testing-round1/)
+This week, the [Digital Accessibility Centre](https://digitalaccessibilitycentre.org/) (DAC) completed a retest on the first three static templates, following their [initial testing.](/updates/accessibility-testing-round1/)
 
 Nicki worked through the report and updated areas of code to address the issues (a few notes on this can be read below).
 
