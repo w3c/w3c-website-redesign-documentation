@@ -22,7 +22,7 @@ There were four issues flagged in the report:
 
 * 1 needs to be addressed regarding the carousel 
 * 2 are content-related and will be resolved when there is real, content in the site
-* 1 is related to the navigation, which is not actually ready for testing yet (although it’s great to know the rest of the navigation doesn’t have issues!) 
+* 1 is related to the navigation, which is not fully ready for testing yet, so we will revisit this with DAC later on when the navigation is fully complete. 
 
 ## Areas noted in discussions on best-practice with DAC
 
