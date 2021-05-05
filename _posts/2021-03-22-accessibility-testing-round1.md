@@ -29,4 +29,4 @@ In total 17 issues have been raised for us to review. It is an excellent report 
 
 Many of the issues we can resolve in coding, some are content issues we can address now, and some are content issues that have arisen because we are using example copy on the pages.
 
-For more details on the issues, [read DAC's full accessibility report (a word document hosted on Google drive)](https://drive.google.com/file/d/1AX8qwCFjhyl8AhhhHsoJivc3TMkoz42s/view?usp=sharing). 
+For more details on the issues, [read DAC's full accessibility report (DOCX, 4.9 MB)](/assets/downloads/W3C-Prototype-Accessibility-Report-by-DAC-15-03-202161-Final.docx). 
