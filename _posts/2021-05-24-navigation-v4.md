@@ -32,7 +32,7 @@ After the meeting we proposed an iterated layout which included space for a sent
 
 ## Navigation version 4
 
-The Version 4 (V4) prototype of the main site navigation is now available for review at https://w3c-dev.studio24.dev/navigation-v4/index.html (in fact, it can be seen on any of the static templates on our [Prototype Index](https://w3c-dev.studio24.dev/index.html))
+The Version 4 (V4) prototype of the main site navigation is now available for review at [https://w3c-dev.studio24.dev/navigation-v4/index.html](https://w3c-dev.studio24.dev/navigation-v4/index.html) (in fact, it can be seen on any of the static templates on our [Prototype Index](https://w3c-dev.studio24.dev/index.html))
 
 
 ### What we changed in version 4
