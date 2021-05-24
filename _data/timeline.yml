@@ -6,7 +6,7 @@ entries:
     
   - date: 2021-05-24
     title: Round 2 testing
-    description: "The next set of static templates ready for browser and device compatibility testing and accessibility testing"
+    description: "The next set of static templates ready for browser, device and accessibility testing"
     link: /updates/testing-round2/
     
   - date: 2021-04-23
