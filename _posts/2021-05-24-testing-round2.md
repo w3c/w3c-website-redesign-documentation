@@ -13,7 +13,7 @@ thumbnail_alt: Sketch of an American Football Placekicker scoring a field goal. 
 ---
 
 
-Wow. How times flies! I knew we hadn't written an update in a while, but I didn't realise it had been a whole month until I checked back on my last update. 
+Wow. How time flies! I knew we hadn't written an update in a while, but I didn't realise it had been a whole month until I checked back on my last update. 
 
 We haven't been resting on our laurels though and have now finished nearly all of the static HTML/CSS templates for the project. Tomorrow kicks-off the next round of testing with [Zoonou](https://zoonou.com/) (for browser and device testing) and the [Digital Accessibility Centre (DAC)](https://digitalaccessibilitycentre.org/) (for accessibility testing). As testing time is limited, we have prioritised templates for testing, to ensure all unique patterns are tested in at least one template. Templates which use repeated patters are a lower priority. Any fixes required will be carried out across all the templates. You may also notice the pages use the [navigation prototype version 4](/updates/navigation-v4/), which is very close to the final version, but is not yet ready for testing. 
 
