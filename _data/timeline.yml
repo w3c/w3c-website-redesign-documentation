@@ -1,4 +1,14 @@
 entries:
+  - date: 2021-05-24
+    title: Prototyping the main navigation - version 4
+    description: "An update on version 4 of our navigation prototype"
+    link: /updates/navigation-v4/
+    
+  - date: 2021-05-24
+    title: Round 2 testing
+    description: "The next set of static templates ready for browser, device and accessibility testing"
+    link: /updates/testing-round2/
+    
   - date: 2021-04-23
     title: Weeknotes, 23 Apr
     description: "Content modelling and front-end iteration"
