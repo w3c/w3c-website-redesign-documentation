@@ -21,7 +21,7 @@ We want to make it easy for people to give their input, while considering what h
 
 We need find the balance between asking people to review our work when we are happy with the quality, but not too late in the process that making change has a big impact.
 
-So we have come up with this guide! Any feedback you have on it, [let us know](/feedback/)! 
+So we have come up with this guide! Any feedback you have on it, [let us know](https://w3c.studio24.net/feedback/)! 
 
 ## When are we looking for feedback? 
 
