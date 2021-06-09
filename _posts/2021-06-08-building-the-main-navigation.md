@@ -17,7 +17,7 @@ The draft sitemap at the time had three levels of items, and this formed the bas
 
 The designs for small (read 'mobile and tablet') screens showed an off-canvas navigation with a button to toggle the display of the parent items. Further toggles were available to provide access to child and grandchild items. On large (read 'desktop') screens, the designs showed the parent items in a single horizontal line and the initial toggle button hidden. The parent items acted as toggles for a single dropdown containing a link to the parent item plus a mixture of child and grandchild items, arranged in three columns.
 
-A hamburger icon was used for the initial state of the off-canvas navigation toggle button. As there is still some discussion around [the affordance of the hamburger icon](https://www.bbc.co.uk/news/magazine-31602745), a text label was included for clarity.
+A hamburger icon was used for the initial state of the off-canvas navigation toggle button. As there is still some discussion around [the affordance of the hamburger icon](https://www.bbc.co.uk/news/magazine-31602745), a text label was included to [improve information scent](https://www.nngroup.com/articles/find-navigation-mobile-even-hamburger/).
 
 ### Markup decisions
 
@@ -68,25 +68,33 @@ Furthermore, Léonie commented on the lack of consistency in navigation behaviou
 
 The W3C team felt there was a lack of clarity as to what were links, what were headings (there were no headings!), and which links were children/grandchildren on large screens. Where I had duplicated links when the original was being used to toggle a level of navigation, there was concern about the amount of vertical space that was being used. The close button for the dropdown on large screens was not popular, and they echoed Léonie's point about being able to use the <kbd>Esc</kbd> key.
 
-This gave us a lot of food for thought for the next prototype.
+This gave us a plenty of food for thought for the next prototype.
 
 ## Version 2
 
-Removed close button from desktop dropdown. Moved back buttons in mobile menu from top to bottom.
+### HTML and JavaScript improvements
 
-Added Esc key menu close functionality.
+From Léonie's feedback on the (lack of) consistency of the navigation and making it more efficient for sighted keyboard users, we decided to leave the grandchild level collapsed on both small and large screens. This meant that I could consolidate the two versions of the navigation markup (one for small screens, the other for large screens) into a single `<nav>` and cut out a lot of repetitive HTML (and fix an error with my list nesting!)
 
-Collapsed the grandchild level links in the desktop dropdown to make it easy for keyboard users to skip over them to get to next child link. Was able to use same markup for both mobile and desktop now that behaviour was consistent. But the requirement to collapse links within the desktop dropdown necessitated dropping CSS multi-column technique. Went with CSS grid instead to maintain 3-column presentation.
+I also refactored the JavaScript to replace any link that would need to toggle a navigation level with a button, and repeat the link within the dropdown to allow users to reach that destination. Support for closing the navigation levels with the <kbd>Esc</kbd> key was added, and the dropdown close button for large screens was removed.
 
-Didn't like that this resulted in order of links going horizontally rather than in vertical columns. Concern expressed over repeating of child link since the original link was now converted to a toggle button. Also concern regarding extra click needed to toggle grandchild menus on desktop now no longer expanded by default. Visually could no longer see at a glance what sprt of content was within grandchild sections.
+### Switching from multi-column to grid layout
 
-Feedback that dropdown should also close if a click event happens outside of it (in addition to using the Esc key).
+Unfortnately, collapsing the grandchild items on large screens did not work with CSS multi-column layout. Using flexbox wasn't an option; I wanted the list of content to flow naturally across columns, and adding `<div>` elements to try and split things out felt bloated and would have invalidated the markup. So I used CSS grid to arrange items in the large screen dropdown.
 
-Request for expanded desktop navigation to standout more from the rest of the website. Also to add a highlight to the appropriate parent item when the dropdown is open (on desktop).
+Although this created the visual appearance of columns, items were no longer arranged vertically in columns. Now, they were arranged horizontally in rows, with one item added to each column until a row is complete, at which point a new implicit row is added. Additionally, when grandchild items were toggled open in one column, areas of whitespace would appear within the neighbouring columns.
 
-Feedback from some W3C team members suggested exposing the parent items by default on mobile and dropping the off-canvas approach. However, this contradicted other feedback asking for the depth of the header region to be reduced as much as possible.
+### Feedback on the second prototype
 
-Request to address styling of basic navigation (non-JS version).
+While they felt the navigation worked well on small screens, the W3C team disliked the changes resulting from collapsing the grandchild items and using CSS grid. The visual grouping of related items no longer felt right, and there was concern about the additional step needed to reveal grandchild items. On the previous prototype, it was easy to scan all of the available options in a given dropdown. This was a trade-off against the improvements for keyboard users.
+
+There was some concern about the apparent duplication of items in the menus. A question was raised as to whether this was problematic from an accessibility point of view; this was not the case, as duplicate links were not used (a link was replaced with a button and then re-inserted into the subsequent dropdown).
+
+It was flagged that, in addition to closing the navigation levels with the <kbd>Esc</kbd> key, users should also be able to close the navigation by clicking/tapping outside of the navigation region.
+
+A suggestion to drop the off-canvas navigation and expose the parent items from the outset created some discussion within the W3C team. This contradicted with other feedback to reduce the vertical height of the header region, and was not pursued.
+
+The consensus was that the changes still had not suitably distinguished between child and grandchild items. Additionally, more work was needed to make the large screen dropdown stand out from the rest of the page content, and to highlight the selected `<li>`. The non-JS version of the navigation was also in need of stylistic attention; something that I was aware of but had moved towards the back of my list of priorities.
 
 ## Version 3
 
