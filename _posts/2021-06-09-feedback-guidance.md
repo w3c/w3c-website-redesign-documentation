@@ -3,7 +3,7 @@ layout: post
 title: Feedback guide
 categories:
   - User Acceptance Testing
-description: A plan on how to give feedback on the site build: what kind of feedback to give and when to give it.
+description: Read the test reports following the second round of compatibility testing by Zoonou.
 author: Julia Sang
 date: 2021-06-09
 thumbnail: /assets/images/img-standards.png
