@@ -33,7 +33,9 @@ We haven't been resting on our laurels though and have now finished nearly all o
 
 * [Listing page: members](https://w3c-dev.studio24.dev/listing-members/index.html)
 
-* Additional components for group pages, not yet listed on the prototype page.
+* [Cards for group listing pages](https://w3c-dev.studio24.dev/groups/index.html)
+
+* [Group detail page illustrating secondary navigation](https://w3c-dev.studio24.dev/groups/group-details.html)
 
   
 
@@ -68,3 +70,5 @@ Test results from Zoonou will be in later this week and from DAC on 4th June. Ou
 * Bug fixing
 * Prototype iteration
 
+
+*Edit: This page was edited on 09 June 2021 to add the links to the additional components for group pages, cards and navigation, which were not available at the original time of posting.*
