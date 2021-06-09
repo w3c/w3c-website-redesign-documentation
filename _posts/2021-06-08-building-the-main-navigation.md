@@ -41,7 +41,7 @@ Using unordered lists for the markup, it was necessary to adjust the CSS to remo
 
 I opted to use [CSS multi-column layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns) as a simple and robust way of creating the three columns needed for the desktop dropdown. I was keen to keep the CSS as light as possible given the amount of HTML.
 
-I won't go into details here, as it is probably worthy of a separate post, but in our [front end standards document](https://w3c.studio24.net/docs/front-end-standards) we agreed to consider internationalization (i18n) in the front-end build. So I needed to use [CSS logical properties](https://rtlstyling.com/posts/rtl-styling#css-logical-properties) where possible and tread carefully when using directional declarations such as `margin-left` etc.
+I won't go into details here, as it is probably worthy of a separate post, but in our [front end standards document](https://w3c.studio24.net/docs/front-end-standards) we agreed to consider internationalization (i18n) in the front-end build. So I needed to use [CSS logical properties](https://rtlstyling.com/posts/rtl-styling#css-logical-properties) where possible and tread carefully when using directional declarations such as `margin-left` by providing equivalent declarations for right-to-left languages.
 
 ### Adding JavaScript for interactions
 
