@@ -15,13 +15,29 @@ In autumn 2020 I started the front-end build of the main navigation prototype fo
 
 The proposed sitemap at the time had three levels of items, and this formed the basis of the [first version](https://w3c-dev.studio24.dev/navigation-v1/index.html) of the navigation.
 
-The designs for smaller screens showed an off-canvas navigation with a button to toggle the display of the parent items. Further toggles were available to provide access to child and grandchild items. On larger screens, the designs showed the parent items in a single horizontal line and the initial toggle button hidden. The parent items acted as toggles for a single dropdown containing a link to the parent item plus a mixture of child and grandchild items, arranged in three columns.
+The designs for smaller (read mobile and tablet) screens showed an off-canvas navigation with a button to toggle the display of the parent items. Further toggles were available to provide access to child and grandchild items. On larger (read desktop) screens, the designs showed the parent items in a single horizontal line and the initial toggle button hidden. The parent items acted as toggles for a single dropdown containing a link to the parent item plus a mixture of child and grandchild items, arranged in three columns.
 
-My first decision was an easy one - to use an unordered list for the navigation markup. It's a tried and tested solution for site navigation, and lets users of assistive technology know how many items are present. Nested, unordered lists have formed the core of the navigation markup across all four prototypes.
+A hamburger icon was used for the initial state of the off-canvas navigation toggle button. As there is still some discussion around the affordance of the hamburger icon, a text label was included for clarity.
 
-Because of differences in mobile and desktop menu designs, had two versions of the markup (only the appropriate one shown via CSS at one time according to viewport breakpoint).
+### Markup decisions
 
-A hamburger icon was chosen for the off-canvas navigation toggle button. As there is still some discussion around the affordance of the hamburger icon, a text label was included for clarity.
+Before worrying about any styles or interaction behaviour, I needed to nail the underlying HTML markup. Using semantic elements makes those next steps less troublesome, and is the foundation to providing an accessible user experience.
+
+My first decision was an easy one - to use unordered lists. It's a tried and tested solution for website navigation, and lets users of assistive technology know how many items are present. Nested, unordered lists have formed the core of the navigation markup across all four prototypes.
+
+The design showed the navigation behaving in different ways across small and large screens, beyond the off-canvas approach outlined above:
+
+- Grandchild items were collapsed on mobile, yet expanded on desktop
+- The desktop dropdown had a button to close it that wasn't required on mobile
+- The mobile version needed extra buttons to allow users to move between the three collapsed levels of navigation.
+
+So I decided upon having two copies of the navigation markup, one for small screens and one for large screens, and hiding the unused version with the CSS `display: none;` property at the desired viewport breakpoint. This was adding a lot to the HTML markup, but I felt this would be better than the additional CSS and JavaScript that would be needed to manipulate a single set of navigation markup.
+
+### Thinking about styles
+
+The basis for choosing the viewport breakpoint at which the switch from 
+
+Clean list styles removing list semantics, so adding role = list to restore them (Scott O' Hara).
 
 Chose to use CSS multi-column technique for desktop dropdown.
 
