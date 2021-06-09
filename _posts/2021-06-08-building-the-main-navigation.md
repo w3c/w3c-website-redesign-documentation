@@ -15,9 +15,9 @@ In autumn 2020 I started the front-end build of the main navigation prototype fo
 
 The draft sitemap at the time had three levels of items, and this formed the basis of the [first version](https://w3c-dev.studio24.dev/navigation-v1/index.html) of the navigation.
 
-The designs for smaller (read 'mobile and tablet') screens showed an off-canvas navigation with a button to toggle the display of the parent items. Further toggles were available to provide access to child and grandchild items. On larger (read 'desktop') screens, the designs showed the parent items in a single horizontal line and the initial toggle button hidden. The parent items acted as toggles for a single dropdown containing a link to the parent item plus a mixture of child and grandchild items, arranged in three columns.
+The designs for small (read 'mobile and tablet') screens showed an off-canvas navigation with a button to toggle the display of the parent items. Further toggles were available to provide access to child and grandchild items. On large (read 'desktop') screens, the designs showed the parent items in a single horizontal line and the initial toggle button hidden. The parent items acted as toggles for a single dropdown containing a link to the parent item plus a mixture of child and grandchild items, arranged in three columns.
 
-A hamburger icon was used for the initial state of the off-canvas navigation toggle button. As there is still some discussion around the affordance of the hamburger icon, a text label was included for clarity.
+A hamburger icon was used for the initial state of the off-canvas navigation toggle button. As there is still some discussion around [the affordance of the hamburger icon](https://www.bbc.co.uk/news/magazine-31602745), a text label was included for clarity.
 
 ### Markup decisions
 
@@ -27,9 +27,9 @@ My first decision was an easy one - to use unordered lists. It's a tried and tes
 
 The design showed the navigation behaving in different ways across small and large screens, beyond the off-canvas approach outlined above:
 
-- Grandchild items were collapsed on mobile, yet expanded on desktop
-- The desktop dropdown had a button to close it that wasn't required on mobile
-- The mobile version needed extra buttons to allow users to move between the three collapsed levels of navigation.
+- Grandchild items were collapsed on small screens, yet expanded on large screens
+- On large screens, the dropdown had a button to close it that wasn't required on small screens
+- The small screen version needed extra buttons to allow users to move between the three collapsed levels of navigation.
 
 So I decided upon having two copies of the navigation markup, one for small screens and one for large screens, and hiding the unused version with the CSS `display: none;` property at the desired viewport breakpoint. This was adding a lot to the HTML, but I felt this would be better than the additional CSS and JavaScript that would be needed to manipulate a single set of navigation markup.
 
@@ -41,7 +41,7 @@ Using unordered lists for the markup, it was necessary to adjust the CSS to remo
 
 I opted to use [CSS multi-column layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns) as a simple and robust way of creating the three columns needed for the desktop dropdown. I was keen to keep the CSS as light as possible given the amount of HTML.
 
-I won't go into details here, as it is probably worthy of a separate post, but in our [front end standards document](https://w3c.studio24.net/docs/front-end-standards) we agreed to consider internationalization (i18n) in the front-end build, paying special attention to typography, bidirectionality and sizing. So I needed to use [CSS logical properties](https://rtlstyling.com/posts/rtl-styling#css-logical-properties) where possible and tread carefully when using directional declarations such as `margin-left` etc.
+I won't go into details here, as it is probably worthy of a separate post, but in our [front end standards document](https://w3c.studio24.net/docs/front-end-standards) we agreed to consider internationalization (i18n) in the front-end build. So I needed to use [CSS logical properties](https://rtlstyling.com/posts/rtl-styling#css-logical-properties) where possible and tread carefully when using directional declarations such as `margin-left` etc.
 
 ### Adding JavaScript for interactions
 
@@ -62,17 +62,13 @@ I had used a combination of `aria-labelledby` and visually-hidden text to label 
 
 Her recommendation was to use `aria-label` instead. Knowing that the site will be translated in the future, I thought it would be better to [avoid using `aria-label`](https://adrianroselli.com/2019/11/aria-label-does-not-translate.html). After mulling things over for a while, in the final navigation prototype I decided to follow Léonie's advice. We will be providing a list of all strings that will need to be translations, so this should not be overlooked.
 
-Léonie also called out my use of the `event.preventDefault()` JavaScript technique mentioned above, saying that the [links should be buttons as they do not navigate anywhere](https://christianheilmann.com/2019/02/05/links-that-dont-go-anywhere-should-be-buttons/). Full disclosure here: I should not have used this approach. I did it without thinking, having seen other developers do it and knowing that it worked. But that's not respectful to end users - and I hope that by making this point here, it will dissuade others from repeating my error.
+Léonie also called out my use of the `event.preventDefault()` JavaScript technique mentioned above, noting that the [links should be buttons as they do not navigate anywhere](https://christianheilmann.com/2019/02/05/links-that-dont-go-anywhere-should-be-buttons/). Full disclosure here: I should not have used this approach. I did it without thinking, having seen other developers do it and knowing that it worked. But that's not respectful to end users - and I hope that by making this point here, it will dissuade others from repeating my error.
 
-Also: "Where there are further layers of the navigation they need to behave in the same way as the parent/child layer. At the moment grandchild layers of the navigation are automatically expanded (on desktop), breaking the earlier convention (on mobile). This makes the experience for sighted keyboard users very laborious if the part of the nav they want is on the other side of the expanded grandchild layers.
+Furthermore, Léonie commented on the lack of consistency in navigation behaviour. The decision to have grandchild items expanded on the large screen layout was not in keeping with the earlier convention (on small screens) and made the experience for sighted keyboard users very laborious to navigate between child items. It must be possible to close each layer of navigation using <kbd>Esc</kbd> for the same reason.
 
-It must be possible to close each layer of the navigation using the escape key for the same reason."
+The W3C team felt there was a lack of clarity as to what were links, what were headings (there were no headings!), and which links were children/grandchildren on large screens. Where I had duplicated links when the original was being used to toggle a level of navigation, there was concern about the amount of vertical space that was being used. The close button for the dropdown on large screens was not popular, and they echoed Léonie's point about being able to use the <kbd>Esc</kbd> key.
 
-Not clear that the child links were links and not just headings.
-
-Didn't like the addition of the close button in the desktop dropdown. And menu should be closable using the Esc key.
-
-Suggestion to move the back button in the mobile child/grandchild menus to sit below the list of links (where did this come from again?)
+This gave us a lot of food for thought for the next prototype.
 
 ## Version 2
 
