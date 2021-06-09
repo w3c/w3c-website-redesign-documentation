@@ -56,7 +56,7 @@ When giving feedback, and prioritising work, we ask W3C to consider:
 
 * If there are code issues raised we will review and consider if they should be addressed. If not we will give an explanation as to why. As a rule of thumb, we are happy to correct code that is going against official coding standards. Things are more nuanced when it comes to best practices as, if standards are 'set in stone', best practices aren't. They are up to debate.
 
-  We have been following best practices to the best of our collective knowledge. Where best practices were conflicting, we have prioritised them in this order:
+ We have been following best practices to the best of our collective knowledge. Where best practices were conflicting, we have prioritised them in this order:
 
   * accessibility/semantics
   * usability
