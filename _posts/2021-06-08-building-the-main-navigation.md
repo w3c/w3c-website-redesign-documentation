@@ -122,7 +122,7 @@ While puzzling over how to present a mixture of child and grandchild links in a 
 
 We pushed back on this. Having previously built sites that only display navigation dropdowns on hover, we have since re-considered our approach because of the usability [problems posed by hover menus](https://medium.com/simple-human/why-hover-menus-are-problematic-b21d6c7de91c). Additionally, just because something does not use JavaScript does not make it a better solution. I don't like using JavaScript where it's not needed, but to fully meet WCAG 2.1 - particularly [Success Criteria 1.4.13](https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html) a CSS-only dropdown menu needs JavaScript to make sure it is dismissable.
 
-#### Font icons or SVGs?
+#### Icon fonts or SVGs?
 
 On top of accessibility and performance, the W3C team want to optimise the readability of markup. Concerns were raised about my use of inline SVGs for icons, and they pointed to an [example of the icon font technique](https://www.w3.org/groups/ig/chinese-web/participants) on their website.
 
@@ -132,13 +132,24 @@ One of the things I really like about using SVGs is the ability to combine multi
 
 ## Version 4
 
-Cut down number of items listed. Only two levels of links provided rather than three.
+The biggest change for the [fourth prototype](https://w3c-dev.studio24.dev/navigation-v4/index.html) was a reduction in the number of items included in the navigation. There are now just two levels of navigation, and the second level will contain a curated selection of links to different regions. This makes the dropdown far easier to scan on large screens.
 
-Focus on improving visual styling of desktop dropdown. Make link to landing page clearer. Addition of intro text snippet (hidden on mobile to save space) explaining the sort of content linked to from the dropdown.
+Some design tweaks were made, to help make the link to the landing page clearer, and a snippet of text has been added to the large version of the dropdown to explain the nature of the linked content it contains. This is hidden on small screens to save space. Where the landing page link is repeated after this text, I have used the approach outlined by Sara Soueidan to [optimize the keyboard navigation](https://www.sarasoueidan.com/blog/keyboard-friendlier-article-listings/).
 
-Improved navigation toggle functionality thanks to Adrian Roselli's article about [disclosure widgets](https://adrianroselli.com/2020/05/disclosure-widgets.html). Was able to trim CSS and JS by dropping aria-hidden.
+### Revisiting SVGs
 
-Changed technique for SVGs to make use of `<use>` element to make the markup less verbose. Results in an additional http request for the file, but the file is cached.
+I reviewed my use of inline SVGs in the prototypes and made a couple of different choices:
+
+1. In some places it made more sense replace an inline SVG with an image using an SVG `src`, so that the files are cached - the W3C logo, for example.
+2. In the navigation (and some other areas) I have made use of the `<use>` element to [link to a `<symbol>` within an external SVG file](https://css-tricks.com/svg-use-with-external-reference-take-2/). This does make the markup a bit less verbose, and that SVG file will again be cached.
+
+### Cutting out some ARIA
+
+In the earlier prototypes I was using `aria-expanded` on the triggers for the off-canvas navigation and dropdowns, and `aria-hidden` on the target of those triggers. I then learned from Adrian Roselli's article about [disclosure widgets](https://adrianroselli.com/2020/05/disclosure-widgets.html) that just using `aria-expanded` was enough. This meant that I could trim back both the CSS and the JavaScript! It was also a good reminder of the [first rule of ARIA](https://www.deque.com/blog/top-5-rules-of-aria/) 
+
+## Summary
+
+
 
 ## References
 
