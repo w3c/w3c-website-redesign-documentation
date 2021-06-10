@@ -2,8 +2,10 @@
 layout: post
 title: Weeknotes, 11 June
 categories:
-  - Design
+  - Design system
   - Build
+  - CMS
+  - Symfony
 description: Good progress across HTML testing, navigation, TR layout review and Symfony app development   
 author: Simon Jones
 date: 2021-06-11
@@ -16,8 +18,8 @@ It's been busy recently on the W3C project and this post covers the last couple 
 
 ## Navigation signed off
 
-After a lot of iteration the W3C approved the [navigation](https://w3c-dev.studio24.dev/navigation-v4/index.html). This 
-underwent a large number of variations until we've settled on what we hope is a simple, usable and accessible navigation.
+After a lot of iteration W3C approved version 4 of the [navigation](https://w3c-dev.studio24.dev/navigation-v4/index.html). 
+This underwent a large number of variations until we've settled on what we hope is a simple, usable and accessible navigation.
 
 You can read about how the navigation evolved and some of the accessibility and usability considerations in Nicola's 
 post on [building the navigation](/posts/building-the-main-navigation/).
@@ -33,6 +35,20 @@ Nicola's current work is reviewing the test results and making fixes across the 
 
 We have also been working on [feedback guidelines](/updates/feedback-guide/) with the W3C team, to help the next stage of the project run smoothly and effectively. 
 
+## Design system
+
+Part of the project deliverables is to create a design system which includes the templates and components in HTML/CSS and 
+documentation on how to use them. This will help the W3C team create and maintain the website in the future.
+
+Originally we planned to use JavaScript build tools to create this (we created a prototype using [Metalsmith](https://metalsmith.io/)), 
+however, since W3C recommended the use of a [Symfony bundle](https://symfony.com/doc/current/bundles.html) to store Twig templates (to help re-use)
+we realised it would make more sense to store the design system docs alongside this.
+
+Simon wrote some test code (a year ago now!) to use PHP to generate design system docs from Twig templates, so he is looking 
+at whether this can be used to generate design system docs alongside the template bundle. If successful, this would mean 
+we could manage both the templates and documentation in the same place (which would be far more efficient and remove 
+some duplication). 
+
 ## TR page layout
 
 Last week we had a good discussion with W3C on the [TR page](https://www.w3.org/TR/). We initially reviewed this but once 
@@ -43,7 +59,7 @@ accessibility issues. Carlos and Simon have been reviewing this.
 
 Marie and Sean have worked to set up and configure CraftCMS, we've had to move people around a little to accommodate other 
 project work but this week Marie is finishing off CMS configuration so we have access to all content 
-types and components in the CMS. This will also enable W3C to start testing the CMS by adding content!
+types and components in the CMS. This will also enable W3C to start testing the CMS by adding content.
 
 ## Symfony application
 
