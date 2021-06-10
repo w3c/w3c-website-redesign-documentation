@@ -22,16 +22,16 @@ underwent a large number of variations until we've settled on what we hope is a 
 You can read about how the navigation evolved and some of the accessibility and usability considerations in Nicola's 
 post on [building the navigation](/posts/building-the-main-navigation/).
 
-## Static HTML template QA
+## Static HTML template QA and feedback guide
 
 Our process is to build web page layouts and components into static HTML before integration into the website. This keeps 
-the front-end clean and simple, and enables faster testing. Currently the [static HTML 
-templates](https://w3c-dev.studio24.dev/) have gone through two rounds of browser and device testing (courtesy of 
-testing company [Zoonou](https://zoonou.com/)) and are and accessibility testing (courtesy of testing copmpany [DAC](digitalaccessibilitycentre.org/)).
+the front-end clean and simple, and enables faster testing. The [static HTML 
+templates](https://w3c-dev.studio24.dev/) have now all gone through browser and device testing (courtesy of 
+testing company [Zoonou](https://zoonou.com/)), and you can [read their latest test reports](/updates/compatibility-round2-test-results/). The accessibility testing (courtesy of testing company [DAC](digitalaccessibilitycentre.org/)) is also nearly complete, we will publish this report when we receive it.
 
-Nicola's current work is reviewing the [round two testing results](https://w3c.studio24.net/updates/compatibility-round2-test-results/) 
-and making fixes across a range of templates. We are currently awaiting the round two accessibility testing report, which we hope to 
-get next week.
+Nicola's current work is reviewing the test results and making fixes across the templates. 
+
+We have also been working on [feedback guidelines](/updates/feedback-guide/) with the W3C team, to help the next stage of the project run smoothly and effectively. 
 
 ## TR page layout
 
@@ -59,8 +59,8 @@ with the content from CraftCMS and other sources).
 
 ## And the rest...
 
-What was good: navigation approval
+What was good: navigation approval. This is an essential bit of the site and has been through four rounds of iteration. So it's fantastic to come to a consensus of approval on this version!
 
-What we found challenging: 
+What we found challenging: the timeline to finish the project can't be confirmed until the CMS work and Symfony application work is complete. As soon as this is done, we will need to take a look at the remaining project time with W3C and sense-check if the current dates are still achievable, or if they need to move. 
 
-What are we looking forward to: finishing the static HTML template QA phase
+What are we looking forward to: finishing the static HTML template QA phase, getting the default page integrated into the Symfony app! 
