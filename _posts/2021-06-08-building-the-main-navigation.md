@@ -145,11 +145,13 @@ I reviewed my use of inline SVGs in the prototypes and made a couple of differen
 
 ### Cutting out some ARIA
 
-In the earlier prototypes I was using `aria-expanded` on the triggers for the off-canvas navigation and dropdowns, and `aria-hidden` on the target of those triggers. I then learned from Adrian Roselli's article about [disclosure widgets](https://adrianroselli.com/2020/05/disclosure-widgets.html) that just using `aria-expanded` was enough. This meant that I could trim back both the CSS and the JavaScript! It was also a good reminder of the [first rule of ARIA](https://www.deque.com/blog/top-5-rules-of-aria/) 
+In the earlier prototypes I was using `aria-expanded` on the triggers for the off-canvas navigation and dropdowns, and `aria-hidden` on the targets of those triggers. I then learned from Adrian Roselli's article about [disclosure widgets](https://adrianroselli.com/2020/05/disclosure-widgets.html) that just using `aria-expanded` was enough. This meant that I could trim back both the CSS and the JavaScript! It was also a good reminder of the [first rule of ARIA](https://www.deque.com/blog/top-5-rules-of-aria/) 
 
 ## Summary
 
+The navigation has gone through several rounds of design and prototyping, and is yet to be accessibility and compatibility tested by our partners at the [Digital Accessibility Centre](https://digitalaccessibilitycentre.org/) (DAC) and [Zoonou](https://zoonou.com/), so there may well be more changes to come. But getting this far feels like a milestone achievement in the project. 
 
+Navigation is an important part of any website, and I fully expect my code to receive close scrutiny. While I'm sure there will be differences of opinion, and the navigation will continue to develop, I have tried my best to make informed decisions and provide a solid user experience.
 
 ## References
 
