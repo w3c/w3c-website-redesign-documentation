@@ -141,11 +141,11 @@ Some design tweaks were made, to help make the link to the landing page clearer,
 I reviewed my use of inline SVGs in the prototypes and made a couple of different choices:
 
 1. In some places it made more sense replace an inline SVG with an image using an SVG `src`, so that the files are cached - the W3C logo, for example.
-2. In the navigation (and some other areas) I have made use of the `<use>` element to [link to a `<symbol>` within an external SVG file](https://css-tricks.com/svg-use-with-external-reference-take-2/). This does make the markup a bit less verbose, and that SVG file will again be cached.
+2. In the navigation (and some other areas) I have made use of the `<use>` element to [link to a `<symbol>` within an external SVG file](https://css-tricks.com/svg-use-with-external-reference-take-2/). This makes the markup a bit less verbose, and that SVG file will again be cached.
 
 ### Cutting out some ARIA
 
-In the earlier prototypes I was using `aria-expanded` on the triggers for the off-canvas navigation and dropdowns, and `aria-hidden` on the targets of those triggers. I then learned from Adrian Roselli's article about [disclosure widgets](https://adrianroselli.com/2020/05/disclosure-widgets.html) that just using `aria-expanded` was enough. This meant that I could trim back both the CSS and the JavaScript! It was also a good reminder of the [first rule of ARIA](https://www.deque.com/blog/top-5-rules-of-aria/) 
+In the earlier prototypes I was using `aria-expanded` on the triggers for the off-canvas navigation and dropdowns, and `aria-hidden` on the targets of those triggers. I then learned from Adrian Roselli's article about [disclosure widgets](https://adrianroselli.com/2020/05/disclosure-widgets.html) that just using `aria-expanded` was enough. This meant that I could trim back both the CSS and the JavaScript! It was also a good reminder of the [first rule of ARIA](https://www.deque.com/blog/top-5-rules-of-aria/).
 
 ## Summary
 
