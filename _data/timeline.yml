@@ -1,4 +1,14 @@
 entries:
+  - date: 2021-06-09
+    title: Feedback guide
+    description: "A plan on how to give feedback: what kind of feedback, and when to give it"
+    link: /updates/feedback-guide/
+    
+  - date: 2021-06-09
+    title: Round 2 testing - browser and device results
+    description: "Read the test reports following the second round of compatibility testing by Zoonou"
+    link: /updates/compatibility-round2-test-results/    
+
   - date: 2021-05-24
     title: Prototyping the main navigation - version 4
     description: "An update on version 4 of our navigation prototype"
