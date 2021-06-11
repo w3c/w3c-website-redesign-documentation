@@ -22,7 +22,7 @@ After a lot of iteration W3C approved version 4 of the [navigation](https://w3c-
 This underwent a large number of variations until we've settled on what we hope is a simple, usable and accessible navigation.
 
 You can read about how the navigation evolved and some of the accessibility and usability considerations in Nicola's 
-post on [building the navigation](/posts/building-the-main-navigation/).
+detailed post on [building the navigation](/posts/building-the-main-navigation/).
 
 ## Static HTML template QA and feedback guide
 
@@ -53,7 +53,7 @@ some duplication).
 
 Last week we had a good discussion with W3C on the [TR page](https://www.w3.org/TR/). We initially reviewed this but once 
 we started build a few issues arose so we decided to revisit one more time to ensure we iron out some usability and 
-accessibility issues. Carlos and Simon have been reviewing this.
+accessibility issues. Carlos and Simon have been reviewing this, we aim to feedback to W3C on our findings next week.
 
 ## Craft CMS setup
 
@@ -68,6 +68,8 @@ The front-end website is a Symfony web application, which ties together content 
 
 Jean-Gui (W3C) has been helping set up the structure and common functionality of the Symfony app, including 
 translations and template integration via a bundle. 
+
+Marie has been helping setup the asset build process for templates this week. 
 
 Matt and Simon have been working on testing the data connection layer and getting this working in Symfony to help enable 
 others to start contributing to integrating complete web pages in the Symfony app (tying together the build templates 
