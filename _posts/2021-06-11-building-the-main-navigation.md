@@ -9,7 +9,7 @@ author: Nicola Saunders
 date: 2021-06-11
 ---
 
-In autumn 2020 I started the front-end build of the main navigation prototype for the W3C website redesign. Nine months and four versions later, an approved prototype is ready for CMS integration. Here I document the decisions and processes made along the way.
+In autumn 2020 I started the front-end build of the main navigation prototype for the W3C website redesign. Nine months and four versions later, an approved prototype is ready for integration into the main website. Here I document the decisions and processes made along the way.
 
 ## Version one
 
@@ -80,7 +80,7 @@ I also refactored the JavaScript to replace any link that would toggle a navigat
 
 ### Switching from multi-column to grid layout
 
-Unfortnately, collapsing the grandchild items on large screens did not work with CSS multi-column layout. Using flexbox wasn't an option; I wanted the list of content to flow naturally across columns, and adding `<div>` elements to try and split things out felt bloated and would have invalidated the list markup. So I used CSS grid to arrange items in the large screen dropdown.
+Unfortunately, collapsing the grandchild items on large screens did not work with CSS multi-column layout. Using flexbox wasn't an option; I wanted the list of content to flow naturally across columns, and adding `<div>` elements to try and split things out felt bloated and would have invalidated the list markup. So I used CSS grid to arrange items in the large screen dropdown.
 
 Although this created the visual appearance of columns, the arrangement of items had changed. Now they were arranged horizontally in rows, with one item added to each column until a row was complete, at which point a new implicit grid track was created. Additionally, when grandchild items were toggled open in one column, areas of whitespace would appear within the neighbouring columns.
 
@@ -140,7 +140,7 @@ Some design tweaks were made, to help make the link to the landing page clearer,
 
 I reviewed my use of inline SVGs in the prototypes and made a couple of different choices:
 
-1. In some places it made more sense replace an inline SVG with an image using an SVG `src`, so that the files are cached - the W3C logo, for example.
+1. In some places it made more sense to replace an inline SVG with an image using an SVG `src`, so that the files are cached - the W3C logo, for example.
 2. In the navigation (and some other areas) I have made use of the `<use>` element to [link to a `<symbol>` within an external SVG file](https://css-tricks.com/svg-use-with-external-reference-take-2/). This makes the markup a bit less verbose, and that SVG file will again be cached.
 
 ### Cutting out some ARIA
