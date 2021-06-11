@@ -6,7 +6,7 @@ categories:
   - Accessibility
 description: A review of the main navigation front-end build, from first prototype to client sign off.
 author: Nicola Saunders
-date: 2021-06-08
+date: 2021-06-11
 ---
 
 In autumn 2020 I started the front-end build of the main navigation prototype for the W3C website redesign. Nine months and four versions later, an approved prototype is ready for CMS integration. Here I document the decisions and processes made along the way.

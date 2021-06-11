@@ -1,4 +1,14 @@
 entries:
+  - date: 2021-06-11
+    title: Weeknotes, 11 June
+    description: "Good progress across HTML testing, navigation, TR layout review and Symfony app development"
+    link: /updates/weeknotes-11-june/
+
+  - date: 2021-06-11
+    title: Building the main navigation
+    description: "A review of the main navigation front-end build, from first prototype to client sign off"
+    link: /updates/building-the-main-navigation/
+
   - date: 2021-06-09
     title: Feedback guide
     description: "A plan on how to give feedback: what kind of feedback, and when to give it"

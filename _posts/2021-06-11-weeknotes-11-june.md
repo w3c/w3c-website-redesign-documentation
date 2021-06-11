@@ -22,7 +22,7 @@ After a lot of iteration W3C approved version 4 of the [navigation](https://w3c-
 This underwent a large number of variations until we've settled on what we hope is a simple, usable and accessible navigation.
 
 You can read about how the navigation evolved and some of the accessibility and usability considerations in Nicola's 
-detailed post on [building the navigation](/posts/building-the-main-navigation/).
+detailed post on [building the navigation](/updates/building-the-main-navigation/).
 
 ## Static HTML template QA and feedback guide
 
