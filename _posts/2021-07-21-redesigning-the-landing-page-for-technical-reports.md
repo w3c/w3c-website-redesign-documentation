@@ -205,7 +205,7 @@ Review superseded reports that are still Recommendations.
 
 After reviewing v1 we decided I would research and think about some new solutions.
 
-The result of this process were [a sketch for the default page][default-sketch] and [a partial sketch for the searched state][searched-sketch]. Partial because we're introducing quite a few changes and decided it would be easier to stress test these in [build v2][v2-build].
+The result of this process were [a sketch for the default page][default-sketch] and [a partial sketch for the searched state][searched-sketch]. Partial because we're introducing quite a few changes and decided it would be easier to stress test these in [build v2][v2-all].
 
 ### Embracing standard web elements
 
@@ -256,10 +256,9 @@ This creates a more coherent cause and effect because you are now in charge of t
 
 For new users, we're suggesting giving people some quick links to useful content. Meanwhile, for all users, we're suggesting consistent URL patterns that reflect the state of the page, which in turn can be shared and bookmarked.
 
-Default state content:
+[Default state page and its content][v2-default]:
 
 > Search for: Standards only, any reports in progress, everything tagged with Accessibility, or all reports.
-
 
 ### Layout consistency
 
@@ -341,7 +340,9 @@ Does this make it easier to find what you're looking for?
 
 [feedback]: /feedback
 [v1-build]: v1link
-[v2-build]: v2link
+[v2-default]: https://w3c-dev.studio24.dev/technical-reports-v2/index.html
+[v2-all]: https://w3c-dev.studio24.dev/technical-reports-v2/search-results-all.html
+[v2-a11y]: https://w3c-dev.studio24.dev/technical-reports-v2/search-results-a11y.html
 [tr]: https://www.w3.org/TR/
 [htmlelements]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 [process]: https://www.w3.org/2020/Process-20200915/
