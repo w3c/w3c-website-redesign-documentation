@@ -31,7 +31,7 @@ Non-normative reports document pretty much everything else, and often include us
 Normative reports go through a structured process:
 
 1. Working draft
-2. Candidate Recommendation (which may Candidate Recommendation Snapshot, Candidate Recommendation Draft)
+2. Candidate Recommendation (Candidate Recommendation Snapshot, Candidate Recommendation Draft)
 3. Proposed Recommendation (Proposed Edited Recommendation)
 4. Recommendation
 
@@ -52,11 +52,13 @@ The Technical Reports themselves serve a myriad of people in different positions
 
 
 
-## Finding the problems in version 1
+## The problems in version 1
 
-I had quite a few concerns at this point already but we decided to build [version 1][v1-build] and populate it with real content so that it would be easier to review it internally.
+Back in April, we published our [first draft of a specification][/docs/technical-reports-specification/] for the Techincal Reports page.
 
-In our review, we're looking at these kinds of problems: architectural, structural, content, interactions, and presentational.
+I had quite a few concerns at this point already but we decided to build [version 1][/designs/TR-listing-family-view/] and populate it with real content so that it would be easier to review it internally.
+
+In our review, we're looking at these kinds of problems: architectural, structural, content, interactions and presentational.
 
 On we go.
 
@@ -84,7 +86,7 @@ We're staying with the statuses and we're going to think about how we're groupin
 
 There are currently 298 Recommendations and 369 Group notes that are completed.
 
-The problem is that we're mixing normative reports and non-normative reports based on their maturity, adding further confusion to an already confusing collection of words. If you don't know which is which, knowing if it's Complete or In progress won't help much.
+The problem is, we are mixing normative reports and non-normative reports based on their maturity, adding further confusion to an already confusing collection of words. If you don't know which is which, knowing if it's Complete or In progress won't help much.
 
 
 ### Mismatched cause and effect
@@ -95,20 +97,20 @@ In its default state, whilst none of the form options is activated we show you a
 
 In the searched state, after you've activated options in the form, we now show you reports which match your options.
 
-The problem here is that whilst the searched state makes sense, the default state does not: If you have done nothing, we ought to show you nothing.
+The problem here, is that whilst the searched state makes sense, the default state does not: if you have done nothing, we ought to show you nothing.
 
 
 ### Layout changes
 
 We're introducing a new word here: Families. A broad group. They're currently \~280 Families.
 
-Once we have searched the layout changes significantly between the default state and the searched state.
+Once we have searched, the layout changes significantly between the default state and the searched state.
 
 In the default state, we show all 1017 reports and group them by 280 Families. Then within each of these Families, we group reports by their statuses (In progress and Complete). Reports are ordered by recency. Let's call this the Family layout.
 
 In the searched state, we show the result reports without Families or statuses. Reports are ordered by recency. We'll call this the List layout.
 
-The problem here is that the layout changing when the state changes is confusing.
+The problem here is that the layout changing, when the state changes, is confusing.
 
 
 
@@ -205,7 +207,7 @@ Review superseded reports that are still Recommendations.
 
 After reviewing v1 we decided I would research and think about some new solutions.
 
-The result of this process were [a sketch for the default page][default-sketch] and [a partial sketch for the searched state][searched-sketch]. Partial because we're introducing quite a few changes and decided it would be easier to stress test these in [build v2][v2-all].
+The result of this process were [a sketch for the default page][/designs/TR-IA-initial-state] and [a partial sketch for the searched state][/designs/TR-IA-with-results]. Partial because we're introducing quite a few changes and decided it would be easier to stress test these in [build v2][v2-all].
 
 ### Embracing standard web elements
 
@@ -337,6 +339,8 @@ Does this make it easier to understand which reports are normative and what norm
 
 Does this make it easier to find what you're looking for?
 
+(Please note, this work still needs a final styling review and to be accessibility, browser and device tested). 
+
 
 [feedback]: /feedback
 [v1-build]: v1link
@@ -349,5 +353,5 @@ Does this make it easier to find what you're looking for?
 [newprocess]: https://www.w3.org/Consortium/Process/Drafts/#note-track
 [hidde]: https://hiddedevries.nl/en/blog/2021-04-27-whats-normative-in-wcag
 [rian]: https://level-level.com/blog/we-need-to-talk-about-wcag/
-[default-sketch]: jpglink?
-[searched-sketch]: jpglinkagain?
+[default-sketch]: /designs/TR-IA-initial-state
+[searched-sketch]: /designs/TR-IA-with-results
