@@ -207,7 +207,7 @@ Review superseded reports that are still Recommendations.
 
 After reviewing v1 we decided I would research and think about some new solutions.
 
-The result of this process were [a sketch for the default page](/designs/TR-IA-initial-state) and [a partial sketch for the searched state](/designs/TR-IA-with-results). Partial because we're introducing quite a few changes and decided it would be easier to stress test these in [build v2][v2-all].
+The result of this process were [a sketch for the default page](/wireframes/TR-IA-initial-state) and [a partial sketch for the searched state](/wireframes/TR-IA-with-results). Partial because we're introducing quite a few changes and decided it would be easier to stress test these in [build v2][v2-all].
 
 ### Embracing standard web elements
 
@@ -345,7 +345,7 @@ Does this make it easier to understand which reports are normative and what norm
 
 Does this make it easier to find what you're looking for?
 
-(Please note, this work still needs a final styling review and to be accessibility, browser and device tested). 
+(Please note, this work still needs a review of how we link to translated content, a final styling review and to be accessibility, browser and device tested). 
 
 
 [feedback]: /feedback
