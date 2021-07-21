@@ -29,7 +29,7 @@ We use [Basecamp](https://basecamp.com/) for project comms, though when we gathe
 we are trying to use GitHub issues so this is done in the open.  
     
 If you have any comments on documents published to this site, or the project process in general, you are welcome to 
-submit a [GitHub issue](https://github.com/w3c/w3c-website-redesign-documentation/issues) to the project repo.
+submit a [GitHub issue](https://github.com/w3c/w3c-website/issues) to the project repo.
 
 ### Social media
 You are also welcome to engage with us on social media via [Twitter](https://twitter.com/studio24) or 
