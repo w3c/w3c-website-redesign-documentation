@@ -10,9 +10,16 @@ categories:
 description: A review of the design and front-end build of the landing page for Technical Reports.
 author: Carlos Eriksson
 date: 2021-07-21
+
 ---
 
-{: .no_toc }
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+## Introduction
 
 From March to July this year, we worked on the redesigning the landing page for Technical Reports.
 
