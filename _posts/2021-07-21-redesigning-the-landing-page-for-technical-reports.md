@@ -54,9 +54,9 @@ The Technical Reports themselves serve a myriad of people in different positions
 
 ## The problems in version 1
 
-Back in April, we published our [first draft of a specification][/docs/technical-reports-specification/] for the Techincal Reports page.
+Back in April, we published our [first draft of a specification](/docs/technical-reports-specification/) for the Techincal Reports page.
 
-I had quite a few concerns at this point already but we decided to build [version 1][/designs/TR-listing-family-view/] and populate it with real content so that it would be easier to review it internally.
+I had quite a few concerns at this point already but we decided to build [version 1](/designs/TR-listing-family-view/) and populate it with real content so that it would be easier to review it internally.
 
 In our review, we're looking at these kinds of problems: architectural, structural, content, interactions and presentational.
 
@@ -207,7 +207,7 @@ Review superseded reports that are still Recommendations.
 
 After reviewing v1 we decided I would research and think about some new solutions.
 
-The result of this process were [a sketch for the default page][/designs/TR-IA-initial-state] and [a partial sketch for the searched state][/designs/TR-IA-with-results]. Partial because we're introducing quite a few changes and decided it would be easier to stress test these in [build v2][v2-all].
+The result of this process were [a sketch for the default page](/designs/TR-IA-initial-state) and [a partial sketch for the searched state](/designs/TR-IA-with-results). Partial because we're introducing quite a few changes and decided it would be easier to stress test these in [build v2][v2-all].
 
 ### Embracing standard web elements
 
@@ -333,7 +333,13 @@ With this article, the W3C are sharing this work with their users and we're shar
 
 Technical Reports serve a myriad of people in different positions and roles, and that includes you.
 
-[We want your feedback][feedback].
+We have created three prototypes for your review.
+
+* [Techincal Reports Default State](https://w3c-dev.studio24.dev/technical-reports-v2/index.html)
+* [Techincal Reports Searched State (all reports)](https://w3c-dev.studio24.dev/technical-reports-v2/search-results-all.html)
+* [Techincal Reports Searched State (any report tagged with accessibility)](https://w3c-dev.studio24.dev/technical-reports-v2/search-results-a11y.html)
+
+[Now we want your feedback][feedback].
 
 Does this make it easier to understand which reports are normative and what normative even means?
 
