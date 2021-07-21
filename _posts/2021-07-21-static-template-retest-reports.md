@@ -18,7 +18,7 @@ Recently the [Digital Accessibility Centre](https://digitalaccessibilitycentre.o
 
 DAC raised 4 issues:
 * Carousel - recent changes need to be rolled back (this has been done)
-* Search for posts - copy updated needed to be more descriptive 
+* Search for posts - copy updated needed to be more descriptive (this has been done)
 * Autocomplete form field - this is something we have decided we will not resolve for the following reasons: 
   * It is a usability issue, not an accessibility issue (i.e. it works, just not as well as it should do in Edge) 
   * It is only occurring on the Microsoft Edge browser
