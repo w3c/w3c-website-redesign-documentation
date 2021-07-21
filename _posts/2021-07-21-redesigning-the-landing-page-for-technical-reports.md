@@ -206,7 +206,6 @@ Additionally. for visitors who use keyboards to navigate, you'll need to navigat
 
 Review which sorting order is most useful.
 
-Review superseded reports that are still Recommendations.
 
 
 
