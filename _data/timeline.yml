@@ -1,5 +1,10 @@
 entries:
   - date: 2021-07-21
+    title: Retest reports (accessibility, browser and device)
+    description: "Issues noted in the static template retests for accessibility, browser and device testing"
+    link: /updates/static-template-retest-reports/
+    
+  - date: 2021-07-21
     title: Redesigning the landing page for Technical Reports
     description: "A review of the design and front-end build of the landing page for Technical Reports."
     link: /updates/redesigning-the-landing-page-for-technical-reports/
