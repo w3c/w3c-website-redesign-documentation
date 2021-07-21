@@ -1,4 +1,9 @@
 entries:
+  - date: 2021-07-21
+    title: Redesigning the landing page for Technical Reports
+    description: "A review of the design and front-end build of the landing page for Technical Reports."
+    link: /updates/redesigning-the-landing-page-for-technical-reports/
+
   - date: 2021-06-17
     title: Accessibility testing - round 2
     description: "The static prototypes have been tested, read the report"
@@ -61,7 +66,7 @@ entries:
 
   - date: 2021-04-09
     title: Technical Reports Specification
-    description: "Recommended improvements to the Techincal Reports page"
+    description: "Recommended improvements to the Technical Reports page"
     link: /docs/technical-reports-specification/
 
   - date: 2021-04-06
