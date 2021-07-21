@@ -12,11 +12,13 @@ author: Carlos Eriksson
 date: 2021-07-21
 ---
 
+{: .no_toc }
+
 From March to July this year, we worked on the redesigning the landing page for Technical Reports.
 
 In this article, I document the problems, processes and decisions made along the way.
 
-To help you understand the work and this article, I'll explain some words we'll be using here. Later, as we introduce new words I'll also explain those.
+To help you understand the work and this article, I'll explain some words we'll be using here. Later, as we introduce new words, I'll also explain those.
 
 Let's begin.
 
@@ -54,7 +56,7 @@ The Technical Reports themselves serve a myriad of people in different positions
 
 ## The problems in version 1
 
-Back in April, we published our [first draft of a specification](/docs/technical-reports-specification/) for the Techincal Reports page.
+Back in April, we published our [first draft of a specification](/docs/technical-reports-specification/) for the Technical Reports page.
 
 I had quite a few concerns at this point already but we decided to build [version 1](/designs/TR-listing-family-view/) and populate it with real content so that it would be easier to review it internally.
 
@@ -335,9 +337,9 @@ Technical Reports serve a myriad of people in different positions and roles, and
 
 We have created three prototypes for your review.
 
-* [Techincal Reports Default State](https://w3c-dev.studio24.dev/technical-reports-v2/index.html)
-* [Techincal Reports Searched State (all reports)](https://w3c-dev.studio24.dev/technical-reports-v2/search-results-all.html)
-* [Techincal Reports Searched State (any report tagged with accessibility)](https://w3c-dev.studio24.dev/technical-reports-v2/search-results-a11y.html)
+* [Technical Reports Default State](https://w3c-dev.studio24.dev/technical-reports-v2/index.html)
+* [Technical Reports Searched State (all reports)](https://w3c-dev.studio24.dev/technical-reports-v2/search-results-all.html)
+* [Technical Reports Searched State (any report tagged with accessibility)](https://w3c-dev.studio24.dev/technical-reports-v2/search-results-a11y.html)
 
 [Now we want your feedback][feedback].
 
