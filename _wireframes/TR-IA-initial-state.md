@@ -1,7 +1,7 @@
 ---
 layout: wireframes
 title: TR Wireframe Initial State
-design: W3C-TR-IA-initial-state.png
+image: W3C-TR-IA-initial-state.png
 date: "2021-07-21"
 
 ---

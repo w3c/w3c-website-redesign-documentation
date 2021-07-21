@@ -1,7 +1,7 @@
 ---
 layout: wireframes
 title: TR Wireframe Search Results
-design: W3C-TR-IA-with-results.png
+image: W3C-TR-IA-with-results.png
 date: "2021-07-21"
 ---
 
