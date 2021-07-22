@@ -71,13 +71,13 @@ In our review, we're looking at these kinds of problems: architectural, structur
 
 On we go.
 
-### Material dishonesty
+### Material honesty
 
 To explain where reports are in their process of maturity, we're introducing two new words here: In progress and Complete, we call these Statuses.
 
 In the form, we present a select element for these Statuses, which when activated reveal two groups of checkboxes. Some of these checkboxes change the state of multiple other checkboxes.
 
-The problem here is that we have elements that look like something they're not---it isn't a select element---, and when interacted with, behave in unexpected ways---activating the first checkbox in group 1 also changes the rest in that group. I call this material dishonesty.
+The problem here is that we have elements that look like something they're not---it isn't a select element---, and when interacted with, behave in unexpected ways---activating the first checkbox in group 1 also changes the rest in that group. I call this material dishonesty, and want to solve it by making sure the page elements act as a user would expect.
 
 ### Mixing report types and their statuses
 
@@ -206,7 +206,6 @@ Additionally. for visitors who use keyboards to navigate, you'll need to navigat
 
 Review which sorting order is most useful.
 
-Review superseded reports that are still Recommendations.
 
 
 
