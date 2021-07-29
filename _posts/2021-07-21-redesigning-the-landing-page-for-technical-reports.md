@@ -10,6 +10,7 @@ categories:
 description: A review of the design and front-end build of the landing page for Technical Reports.
 author: Carlos Eriksson
 date: 2021-07-21
+updated: 2021-07-29
 
 ---
 
@@ -63,9 +64,9 @@ The Technical Reports themselves serve a myriad of people in different positions
 
 ## The problems in version 1
 
-Back in April, we published our [first draft of a specification](/docs/technical-reports-specification/) for the Technical Reports page.
+Back in April, after confirming requirements with W3C, we published our [first draft of a specification](/docs/technical-reports-specification/) for the Technical Reports page. 
 
-I had quite a few concerns at this point already but we decided to build [version 1](/designs/TR-listing-family-view/) and populate it with real content so that it would be easier to review it internally.
+However, given the large amount of data on the TR page, after this initial design work the team had concerns on how well the page would perform in the real world. We decided to build [version 1](/designs/TR-listing-family-view/) and populate it with real data so that it would be easier to review how well this page works. 
 
 In our review, we're looking at these kinds of problems: architectural, structural, content, interactions and presentational.
 
@@ -77,7 +78,7 @@ To explain where reports are in their process of maturity, we're introducing two
 
 In the form, we present a select element for these Statuses, which when activated reveal two groups of checkboxes. Some of these checkboxes change the state of multiple other checkboxes.
 
-The problem here is that we have elements that look like something they're not---it isn't a select element---, and when interacted with, behave in unexpected ways---activating the first checkbox in group 1 also changes the rest in that group. I call this material dishonesty, and want to solve it by making sure the page elements act as a user would expect.
+The problem here is that we have elements that look like something they're not---it isn't a select element---, and when interacted with, behave in unexpected ways---activating the first checkbox in group 1 also changes the rest in that group. This element was an attempt to combine a set of complex filters in one place, but it doesn't work and I believe using form elements that act as the user would expect will be simpler and more effective. I call this material honesty.
 
 ### Mixing report types and their statuses
 
@@ -168,12 +169,13 @@ We're only showing the Family layout if you haven't searched. Once you search, w
 - Report ↓
 
 
-The problem here is inconsistency and compounded material dishonesty. Two collapsible groups of content with different presentations and interactions which depend on what state the page is in. Three, if we count the default collapsible found on other pages.
+The original design thinking was to display a short summary of information to help users scan the page, and allow users to expand this to see more detail. 
+
+However, the problem here is inconsistency and complexity. Two collapsible groups of content with different presentations and interactions which depend on what state the page is in.
 
 Sometimes the title of the collapsible is also the element that toggles the collapsible, sometimes it isn't. Sometimes this element is to the far right, forcing your eyes to move across the page in a criss-cross pattern, some times it isn't.
 
 *Fun fact: during development, JavaScript struggled to cope with progressively enhancing 1017 reports into nested collapsible.*
-
 
 
 ### Overwhelming amount of information
@@ -213,15 +215,13 @@ Review which sorting order is most useful.
 
 ## Fixing the problems for version 2
 
-After reviewing v1 we decided I would research and think about some new solutions.
+After reviewing v1 the team decided I would research and think about some new solutions.
 
 The result of this process were [a sketch for the default page](/wireframes/TR-IA-initial-state) and [a partial sketch for the searched state](/wireframes/TR-IA-with-results). Partial because we're introducing quite a few changes and decided it would be easier to stress test these in [build v2][v2-all].
 
 ### Embracing standard web elements
 
-Addressing the problem of material dishonesty can be summarised as follows: Use standard web elements, MDN Web Docs provide a great resource for all of these called [HTML elements reference][htmlelements].
-
-Additionally, we're suggesting to make these elements present in a predictable way---so for example, checkboxes should look like checkboxes and work like checkboxes.
+We're suggesting to make these elements present in a predictable way---so for example, checkboxes should look like checkboxes and work like checkboxes.
 
 
 ### Changing the words we use to describe things
@@ -284,7 +284,7 @@ Because of this, we're suggesting keeping the Family list but using it for both 
 
 ### Predictable interactions
 
-To address the inconsistency and compounded material dishonesty of different collapsible groups of content, we're suggesting removing all the collapsibles for Technical Reports.
+To address the inconsistency and complexity of different collapsible groups of content, we're suggesting removing all the collapsibles for Technical Reports.
 
 
 
