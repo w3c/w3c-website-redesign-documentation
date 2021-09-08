@@ -17,7 +17,7 @@ The high-level timeline was last updated in [March 2021](/updates/March-timeline
 
 The revised timeline and approach starts in August 2021 for ease of readability. The previous version can be accessed on the link above, any changes to this version will be kept via a change log.
 
-There is a [visual version that can be seen on whimsical](https://whimsical.com/project-approach-v1-6-8kd9jVtEaso6e3Cy8Q8Ju5) and a textual version below.
+There is a [visual version that can be seen on whimsical](https://whimsical.com/project-approach-v1-8-WtzC4847WWWAoNju1dPZ8a) and a textual version below.
 
 ## Build and test site
 
