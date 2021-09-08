@@ -15,6 +15,6 @@ The W3C Design System website is now live at [https://design-system.w3.org](http
 
 Design Systems can be complex, so the focus has been on writing high-quality documentation with code examples. It contains all the documentation on how to use the different templates and components we have delivered for the W3C website design.
 
-It will be iterated over the next few weeks. As the W3C team start to use it to impelement pages on the website, no doubt there will be feedback given to improve elements of the site. In addition, once the TR page is completed it will be added. 
+It will be iterated over the next few weeks. As the W3C team start to use it to implement pages on the website, no doubt there will be feedback given to improve elements of the site. In addition, once the TR page is completed it will be added. 
 
 If you have any feedback, you are welcome to submit a [GitHub issue](https://github.com/w3c/w3c-website/issues) to the project repo.
