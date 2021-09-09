@@ -1,4 +1,19 @@
 entries:
+  - date: 2021-09-08
+    title: High level timeline and approach (August Update)
+    description: "Latest updates to the delivery timeline and approach"
+    link: /updates/August-Timeline-Update/
+    
+  - date: 2021-09-08
+    title: Technical Reports page - version 4
+    description: "Find out what has changed in version 4"
+    link: /updates/tr-v4/
+
+  - date: 2021-09-08
+    title: The W3C Design System is live
+    description: "View the documentation on how to use the different templates and components in the W3C website design"
+    link: /updates/design-system-live/
+
   - date: 2021-07-21
     title: Retest reports (accessibility, browser and device)
     description: "Issues noted in the static template retests for accessibility, browser and device testing"
