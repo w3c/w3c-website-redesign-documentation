@@ -26,17 +26,17 @@ and templating. We're also helped by W3C developer [Jean-Guilhem Rouel](https://
 working alongside our team helping with Symfony and data integration work. 
 
 Project manager Julia is co-ordinating the work, with assistance from Marie as tech lead. With work across three different 
-GitHub repos it's useful to have both a PM and a tech team member to co-ordinate and prioritise things!
+GitHub repos it's useful to have both a PM and a tech lead to co-ordinate and prioritise things!
 
 ## Templating
 
-The team have finished the default template, are working on the business ecosystem pages, landing pages, and blog listing pages.
+The team have finished the default template, are working on the business ecosystem pages, landing pages, news and blog pages.
 Various issues have been solved on the way, including breadcrumb generation, social sharing metadata, and adding 
 HTML attributes to SVG icons to make them more accessible.
 
 ## Data
 
-Most of our data integration is pulling content from CraftCMS. This uses GraphQL, a flexible but sometimes complex API 
+Most of our data integration is pulling content from CraftCMS. This uses [GraphQL](https://graphql.org/), a flexible but sometimes complex API 
 format (especially so with custom content fields in a CMS). Jean-Guilhem has been writing and optimising our GraphQL 
 queries, as well as integrating with the [W3C API](https://www.w3.org/api/) 
 (a REST API) to retrieve member data.
@@ -52,7 +52,7 @@ CMS they are taken to the separate frontend app to view the site in the correct 
 
 Instead of building a dedicated preview controller on the frontend
 we've taken the approach to send preview requests to the live URL. This is more helpful since pages are often built from 
-a combination of different data and unique page templates. CraftCMS sends a unique one-time preview token which 
+a combination of different data and unique page templates. CraftCMS sends a unique one-time token which 
 can be used when retrieving draft page content. Simon is adding a [custom panel to the Symfony web debug toolbar](https://symfony.com/doc/current/profiler/data_collector.html)
 to help debugging API queries that are used to build the page.
 
@@ -60,9 +60,9 @@ to help debugging API queries that are used to build the page.
 
 We've also had to rethink some approaches as we build pages. One example is localization, which in practise is often complex. 
 
-The W3C site currently has translated content in 9 languages. Most of these are translations of Press Releases and there 
+The W3C site currently has translated content in 9 languages. Most of these are translations of [Press Releases](https://www.w3.org/Press/) and there 
 isn't enough content to have a completely separate site in most languages (so these are just standalone translated pages). 
-Officially W3C has a separate site for the US English, Chinese, and Japanese language sites. 
+For this project, W3C has a separate site for the American English, Chinese, and Japanese language sites. 
 
 For languages with standalone translated pages we had originally considered displaying those pages
 within the English page layout (with the English language primary navigation) and then embed the translated content in the main article location. 
@@ -79,6 +79,6 @@ any primary navigation - but it's better for users so feels like the right decis
 
 What was good: working together collaboratively on this sprint!
 
-What we found challenging: working on multiple git repos can be confusing and requires care over our workflow 
+What we found challenging: working on multiple git repos can be confusing and requires care over our workflow. 
 
-What are we looking forward to: getting as many templates built as possible so W3C can start writing content 
+What are we looking forward to: getting as many templates built as possible so W3C can start writing content.
