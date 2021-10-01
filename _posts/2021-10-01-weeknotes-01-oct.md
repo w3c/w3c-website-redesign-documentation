@@ -52,7 +52,7 @@ CMS they are taken to the separate frontend app to view the site in the correct 
 
 Instead of building a dedicated preview controller on the frontend
 we've taken the approach to send preview requests to the live URL. This is more helpful since pages are often built from 
-a combination of different data and unique page templates. CraftCMS sends a unique one-time token which 
+a combination of different data and unique page templates. CraftCMS sends a unique preview token which 
 can be used when retrieving draft page content. Simon is adding a [custom panel to the Symfony web debug toolbar](https://symfony.com/doc/current/profiler/data_collector.html)
 to help debugging API queries that are used to build the page.
 
