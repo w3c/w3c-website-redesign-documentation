@@ -28,9 +28,6 @@ working alongside our team helping with Symfony and data integration work.
 Project manager Julia is co-ordinating the work, with assistance from Marie as tech lead. With work across three different 
 GitHub repos it's useful to have both a PM and a tech team member to co-ordinate and prioritise things!
 
-We're having daily standups with the team to help solve issues and prioritise tasks, and weekly status calls with the W3C
-team (which we've had throughout the project).
-
 ## Templating
 
 The team have finished the default template, are working on the business ecosystem pages, landing pages, and blog listing pages.
@@ -76,3 +73,12 @@ display in English on these pages (since the locale is set to English).
 This isn't good UX so at present we're looking at using a basic template for these pages and ensure all page content is 
 translated for consistency (and to allow the whole page to be set to the correct locale). This does mean we have to hardcode 
 any primary navigation - but it's better for users so feels like the right decision.
+
+
+## Final thoughts
+
+What was good: working together collaboratively on this sprint!
+
+What we found challenging: working on multiple git repos can be confusing and requires care over our workflow 
+
+What are we looking forward to: getting as many templates built as possible so W3C can start writing content 
