@@ -30,8 +30,8 @@ GitHub repos it's useful to have both a PM and a tech lead to co-ordinate and pr
 
 ## Templating
 
-The team have finished the default template, are working on the business ecosystem pages, landing pages, news and blog pages.
-Various issues have been solved on the way, including breadcrumb generation, social sharing metadata, and adding 
+The team have finished the default template, are working on the business ecosystem pages, landing pages, news, blog and
+press release pages. Various issues have been solved on the way, including breadcrumb generation, social sharing metadata, and adding 
 HTML attributes to SVG icons to make them more accessible.
 
 ## Data
