@@ -1,4 +1,9 @@
 entries:
+  - date: 2021-10-04
+    title: URL strategy
+    description: "Updated the URL strategy doc based on usage for the news & blog section"
+    link: /docs/url-strategy
+
   - date: 2021-09-08
     title: High level timeline and approach (August Update)
     description: "Latest updates to the delivery timeline and approach"
