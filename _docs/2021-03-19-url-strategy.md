@@ -19,8 +19,10 @@ written in August, 2020, and updated in early 2021 after decisions were made on 
 build (e.g. [internationalization](/docs/internationalization-approach-agreed/)).
 
 Updated:
-* Oct 21: [Use URL paths for pages, query params for search forms](#use-url-paths-for-pages-query-params-for-search-forms)
-* Oct 21: [Redirect parent URLs that have no content](#redirect-parent-urls-that-have-no-content)
+* Oct 21
+    * [Use URL paths for pages, query params for search forms](#use-url-paths-for-pages-query-params-for-search-forms)
+    * [Redirect parent URLs that have no content](#redirect-parent-urls-that-have-no-content)
+    * [Use trailing slashes on section pages](#use-trailing-slashes-on-section-pages)
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -126,6 +128,26 @@ For: [https://www.w3.org/news/2020/page-title](https://www.w3.org/news/2020/page
 
 This page should exist: [https://www.w3.org/news/2020/](https://www.w3.org/news/2020/)
 
+### Use trailing slashes on section pages
+
+It's important to avoid duplicate URLs, a unique URL should work with or without a trailing slash "/" but not both.
+
+URLs are hierarchical and it's useful to stick to a consistent pattern for the use of trailing slashes. Ideally only 
+leaf pages (i.e. pages with no children) should not have a trailing slash. All other pages (i.e. those with children) should 
+have a trailing slash. 
+
+Relative links on a page will work differently depending on whether the current page has a trailing slash or not.
+
+For individual pages, do not end the URL with a trailing slash.
+
+For example: https://www.w3.org/news/
+
+For pages with child pages, then we recommend ending the URL with a trailing slash.
+
+For example: https://www.w3.org/news/2021/post-name
+
+Also see https://developers.google.com/search/blog/2010/04/to-slash-or-not-to-slash
+
 ### Use URL paths for pages, query params for search forms
 
 Listing pages often have dynamically generated pages that return resources based on different criteria (e.g. a blog listing page).
@@ -135,7 +157,7 @@ Where a user navigates to a listing page from a *browse link* we recommend using
 
 For example: 
 * [https://www.w3.org/tr/all](https://www.w3.org/tr/all) 
-* [https://www.w3.org/blog/2021](https://www.w3.org/blog/2021)
+* [https://www.w3.org/blog/2021/](https://www.w3.org/blog/2021/)
 * [https://www.w3.org/blog/category/developers](https://www.w3.org/blog/category/developers)
 
 Please note if this results in parent URLs that have no content ensure a [redirect is in place](#redirect-parent-urls-that-have-no-content)
@@ -147,14 +169,13 @@ to create the URL.
 
 Instead of: [https://www.w3.org/blog/search/keyword/category/accessibility](https://www.w3.org/blog/search/keyword/category/accessibility)
 
-Use: [https://www.w3.org/blog?search=keyword&category=accessibility](https://www.w3.org/blog?search=keyword&category=accessibility)
+Use: [https://www.w3.org/blog/?search=keyword&category=accessibility](https://www.w3.org/blog?search=keyword&category=accessibility)
 
 Pagination links are often hyperlinks on a page, however, for this special case we recommend using query parameters.
 
 Instead of: [https://www.w3.org/blog/page/2](https://www.w3.org/blog/page/2)
 
-Use: [https://www.w3.org/blog?page=2](https://www.w3.org/blog?page=2)
-
+Use: [https://www.w3.org/blog/?page=2](https://www.w3.org/blog?page=2)
 
 ### URLs are public
 
