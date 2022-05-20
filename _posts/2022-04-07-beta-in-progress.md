@@ -6,10 +6,11 @@ categories:
 description: As our work comes to a close, we reflect on the past six months and the future of w3.org
 author: "Simon R Jones"
 date: 2022-04-07
+updated: 2022-05-20 
 
 ---
 
-It's been 22 months since we started work with W3C on the redesign of the iconic w3.org (we kicked things off 
+It's been 2 years since we started work with W3C on the redesign of the iconic w3.org (we kicked things off 
 in March 2020, just as the pandemic started!). It's been a privilege working with the talented and experienced team at W3C
 on a website that has such a valuable mission to develop and promote web standards to help everyone build a better web.
 
