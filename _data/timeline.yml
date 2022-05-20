@@ -1,4 +1,9 @@
 entries:
+  - date: 2022-04-07
+    title: Handing over to W3C
+    description: "As our work comes to a close, we reflect on the past six months and the future of w3.org"
+    link: /updates/beta-in-progress
+
   - date: 2021-10-01
     title: Weeknotes, 1 Oct
     description: We're working on a frontend integration sprint to build out the new w3.org
