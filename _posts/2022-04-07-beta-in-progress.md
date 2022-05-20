@@ -2,7 +2,7 @@
 layout: post
 title: Handing over to W3C
 categories:
-- Updates
+- Beta
 description: As our work comes to a close, we reflect on the past six months and the future of w3.org
 author: "Simon R Jones"
 date: 2022-04-07
