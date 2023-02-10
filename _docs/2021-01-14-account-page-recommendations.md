@@ -11,8 +11,7 @@ updated: 2023-02-07
 ---
 {: .no_toc }
 
-Studio 24 reviewed and iterated the sign-in and account pages in Jan 2021. This was updated based on discussions between 
-W3C and Studio 24 in August 2020 and the notes captured during the meeting. 
+Studio 24 reviewed and iterated the sign-in and account pages in Jan 2021. 
 
 * [Content design work - Sign up and account screens](https://docs.google.com/presentation/d/1_f5bw4LvqPSYPAoa4_WjXbBqKCu92ViUy-S4fSKStTM/view)
 
