@@ -39,7 +39,7 @@ centred design that allows people to positively engage with brands and their con
 
 In his free time, Ian can be found in the pottery studio knee-deep in creative projects with his family.
 
-### Marie Manandise, Front End Team Lead
+### Marie Manandise, Front-End Team Lead
 
 #### Role: CMS lead, Technical Lead
 
@@ -91,6 +91,8 @@ Sazia is a user advocate, a systematic problem solver and just generally a peopl
 techniques and methods that has helped brands such as Volkswagen, O2, Avios and The Telegraph. She is skilled at user 
 research, information architecture, workshop facilitation and user centric design. All in all she just has a passion 
 for making others’ lives easier on the web and beyond.
+
+Sazia helped us as a contractor for 3 months in 2020.
 
 ### Julia Sang, Senior Project Manager
 
