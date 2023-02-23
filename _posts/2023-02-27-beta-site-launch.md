@@ -17,7 +17,7 @@ with help from [Craft CMS](https://craftcms.com/), [Digital Accessibility Centre
 
 Studio 24 worked on the project between March 2020 and April 2022 and have provided support to W3C since then. The W3C 
 Systems Team, Marketing and Communications Team, and others have been hard at work building pages using the design system, 
-writing content and updating the Beta website.  
+writing content, importing legacy content, and updating the Beta website.  
 
 W3C plan to gather community feedback and test the Beta website before updating the live w3.org website later in 2023.
 
