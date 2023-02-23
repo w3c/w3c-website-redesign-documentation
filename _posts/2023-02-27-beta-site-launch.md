@@ -15,7 +15,7 @@ This is an exciting development and is the result of over 2 years of work from [
 with help from [Craft CMS](https://craftcms.com/), [Digital Accessibility Centre](https://digitalaccessibilitycentre.org/) and 
 [Zoonou](https://zoonou.com/).
 
-Studio 24 worked on the project between March 2020 and May 2022 and have provided support to W3C since then. The W3C 
+Studio 24 worked on the project between March 2020 and April 2022 and have provided support to W3C since then. The W3C 
 Systems Team, Marketing and Communications Team, and others have been hard at work building pages using the design system, 
 writing content and updating the Beta website.  
 
