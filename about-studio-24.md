@@ -48,7 +48,7 @@ A few years later, she woke up with the urge to make websites for a living. She 
 into website building ones and started straight away as a freelance web developer.
 
 Marie joined the studio in 2016 and has focussed on PHP development, CMS projects in Craft CMS and WordPress, and
-user research Discovery projects where she can bring her expertise to bear on client problems.
+user research projects where she can bring her expertise to help solve client problems.
 
 She is a big believer in coding best practices and often thinks that, when it comes to web design or development, ‘less is more’.
 
@@ -105,7 +105,7 @@ Julia worked at IRIS Worldwide with some of the world’s biggest brands includi
 
 Julia is now at Citizens Advice helping deliver projects that help people from all walks of life.
 
-### Carlos Eriksson, Front-end Developer
+### Carlos Eriksson, Front-End Developer
 
 #### Role: Front-End Development, Accessibility
 
