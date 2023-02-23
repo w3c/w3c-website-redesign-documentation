@@ -11,9 +11,9 @@ There are several ways you can follow updates on this project and provide feedba
 
 ## Keeping up to date
 
-We publish project updates to the [timeline](/timeline/). You can subscribe to updates via [RSS](/feeds/updates.xml).
+We publish project updates to the [timeline](/timeline/). You can subscribe to [site updates via RSS](/feeds/updates.xml).
 
-W3C also post updates to the [W3C blog](https://www.w3.org/blog/).
+W3C also post updates to the [W3C blog](https://www.w3.org/blog/). You can subscribe to [W3C blog updates via RSS](https://www.w3.org/blog/feed).
 
 ## Getting involved
 
@@ -30,5 +30,5 @@ You can [give feedback](https://github.com/w3c/w3c-website) to help us improve t
 
 You are also welcome to engage with us on social media: 
 
-* Studio 24 via Mastodon [@simonrjones@mastodon.social](https://mastodon.social/@simonrjones), [Twitter](https://twitter.com/studio24) or [LinkedIn](https://www.linkedin.com/company/studio24ltd/)
-* W3C via Mastodon [@w3c@w3c.social](https://w3c.social/@w3c) or [Twitter](https://twitter.com/w3c/) 
+* Studio 24 via [Mastodon](https://mastodon.social/@simonrjones), [Twitter](https://twitter.com/studio24) or [LinkedIn](https://www.linkedin.com/company/studio24ltd/)
+* W3C via [Mastodon](https://w3c.social/@w3c) or [Twitter](https://twitter.com/w3c/) 
