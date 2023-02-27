@@ -7,17 +7,15 @@ description: "Find out how you can contribute to this project by giving feedback
 ---
 # Feedback
 
-There are several ways you can follow updates on this project and provide feedback.
+There are several ways you can provide feedback on this project.
 
 ## Keeping up to date
 
-We publish project updates to the [timeline](/timeline/). You can subscribe to [site updates via RSS](/feeds/updates.xml).
-
-W3C also post updates to the [W3C blog](https://www.w3.org/blog/). You can subscribe to [W3C blog updates via RSS](https://www.w3.org/blog/feed).
+We published project updates to the [timeline](/timeline/) (with [site updates via RSS](/feeds/updates.xml)).
 
 ## Getting involved
 
-Coralie Mercier, Head of Marketing & Communications at W3C, is responsible for managing community feedback on this 
+[Coralie Mercier](https://www.w3.org/People/Coralie), Head of Marketing & Communications at W3C, is responsible for managing community feedback on this 
 project. 
 
 ### Community feedback
