@@ -48,7 +48,7 @@ Content is published from the production `production` branch. See [publishing co
 Any changes committed to the `develop` branch are auto-deployed to https://develop--ecstatic-mccarthy-0be5bd.netlify.app/
 
 Netlify automatically creates a preview URL for any pull requests that are created to merge into the `production` branch. 
-[Login to Netlify](https://app.netlify.com/sites/ecstatic-mccarthy-0be5bd/overview) to view the preview URL.
+[Login to Netlify](https://app.netlify.com/sites/ecstatic-mccarthy-0be5bd/deploys?filter=deploy+previews) to view deploy previews.
 
 ## Templating
 
