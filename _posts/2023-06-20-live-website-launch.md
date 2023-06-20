@@ -19,6 +19,6 @@ issues reported from the community on the Beta website. Issues are tracked on a 
 and are prioritised by the W3C team.
 
 This work recently included updating to Craft 4 and PHP 8 and a number of front-end fixes. The update to Craft went fairly smoothly, 
-but the update to PHP 8 created a number of dependencies we had to solve, including updating servers and using [Deployer 7](https://deployer.org/) 
+but the update to PHP 8 created a number of issues we had to solve, including updating servers and using [Deployer 7](https://deployer.org/) 
 for deployment (previous versions don’t work with PHP 8). This also gave me the chance to contribute some improvements 
 to the [Craft CMS recipe](https://deployer.org/docs/7.x/recipe/craftcms) in Deployer!
