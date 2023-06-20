@@ -3,7 +3,7 @@ layout: post
 title: W3C live website launch
 categories:
 - Live
-description: The redesigned W3C website has gone live today on w3.org!
+description: The redesigned W3C website has gone live today on w3.org
 author: "Simon R Jones"
 date: 2023-06-20 
 
