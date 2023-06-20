@@ -20,9 +20,7 @@ project.
 
 ### Community feedback
 
-The new W3C website is currently being tested on the [Beta website](https://beta.w3.org/).
-
-You can [give feedback](https://github.com/w3c/w3c-website) to help us improve the Beta website.
+You can [give feedback](https://github.com/w3c/w3c-website) to help us improve the website.
 
 ### Social media
 
