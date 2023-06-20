@@ -14,7 +14,7 @@ After working in partnership with W3C for the past 3 years, the redesigned W3C w
 This is a massive achievement for the W3C and Studio 24 teams and one I’m really proud of. I’ve written more on this on 
 the [Studio 24 website](https://www.studio24.net/blog/w3c-launch-their-new-website/), you can also read W3C’s blog post [LINK].
 
-After a pause since April last year, we’ve been working with W3C again since May on some improvements and helping tackle 
+After a pause since April last year, we’ve been working with W3C again since May on some improvements and helping address 
 issues reported from the community on the Beta website. Issues are tracked on a [GitHub project board](https://github.com/orgs/w3c/projects/27) 
 and are prioritised by the W3C team.
 
