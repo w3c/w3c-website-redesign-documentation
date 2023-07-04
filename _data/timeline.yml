@@ -14,11 +14,16 @@ entries:
     description: "As our work comes to a close, we reflect on the past six months and the future of w3.org"
     link: /updates/beta-in-progress
 
+  - date: 2021-10-04
+    title: URL strategy
+    description: "Updated the URL strategy doc based on usage for the news & blog section"
+    link: /docs/url-strategy
+    
   - date: 2021-10-01
     title: Weeknotes, 1 Oct
     description: We're working on a frontend integration sprint to build out the new w3.org
     link:  /updates/weeknotes-01-oct/
-
+ 
   - date: 2021-09-08
     title: High level timeline and approach (August Update)
     description: "Latest updates to the delivery timeline and approach"

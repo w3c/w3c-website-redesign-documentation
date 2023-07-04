@@ -6,7 +6,7 @@ categories:
 description: Our URL and redirect strategy for the w3.org website
 author: Simon R Jones, Marie Manandise
 date: 2020-08-13
-updated: 2021-03-17
+updated: 2021-10-04
 thumbnail: /assets/images/img-standards.png
 thumbnail_alt: Sketch of an American Football Placekicker scoring a field goal.
     The football shows the W3C logo. 'Standards' is written in the end zone.
@@ -17,6 +17,12 @@ thumbnail_alt: Sketch of an American Football Placekicker scoring a field goal.
 This document outlines our recommendations for URLs and redirects for the new W3C website. This document was originally 
 written in August, 2020, and updated in early 2021 after decisions were made on various aspects of the front-end site 
 build (e.g. [internationalization](/docs/internationalization-approach-agreed/)).
+
+Updated:
+* Oct 21
+    * [Use URL paths for pages, query params for search forms](#use-url-paths-for-pages-query-params-for-search-forms)
+    * [Redirect parent URLs that have no content](#redirect-parent-urls-that-have-no-content)
+    * [Use trailing slashes on section pages](#use-trailing-slashes-on-section-pages)
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -83,7 +89,6 @@ URLs are composed of words in lower-case characters separated by dashes “-”.
 Instead of: [https://www.w3.org/Consortium/facts.html](https://www.w3.org/Consortium/facts.html)
 
 Use: [https://www.w3.org/about/facts](https://www.w3.org/about/facts)
-Use: [https://www.w3.org/about/facts](https://www.w3.org/about/facts)
 
 ### Standardise on lower-case URLs
 
@@ -99,7 +104,7 @@ Short URLs are better than long URLs.
 
 Instead of: [https://www.w3.org/Consortium/Legal/logo-usage-20000308](https://www.w3.org/Consortium/Legal/logo-usage-20000308)
 
-Use: [https://www.w3.org/get-involved/logos](https://www.w3.org/get-involved/logos) .
+Use: [https://www.w3.org/policies/logos](https://www.w3.org/policies/logos)
 
 ### Prefer shallow URLs
 
@@ -123,36 +128,59 @@ For: [https://www.w3.org/news/2020/page-title](https://www.w3.org/news/2020/page
 
 This page should exist: [https://www.w3.org/news/2020/](https://www.w3.org/news/2020/)
 
-### Use query parameters for filters
+### Use trailing slashes on section pages
 
-Best practise notes that a URL should identify a unique resource.
+It's important to avoid duplicate URLs, a unique URL should work with or without a trailing slash "/" but not both.
 
-A common pattern is to use filters to change the content displayed on a page (e.g. filter by category or pagination). 
-These can be included in the URL via paths (e.g. _URL/page/2_) or query params (e.g. _URL?page=2_).
+URLs are hierarchical and it's useful to stick to a consistent pattern for the use of trailing slashes. Ideally only 
+leaf pages (i.e. pages with no children) should not have a trailing slash. All other pages (i.e. those with children) should 
+have a trailing slash. 
 
-Given filters do not create a unique resource and break the hierarchical, hackable nature of URLs we recommend the use 
-of query params for filters.
+Relative links on a page will work differently depending on whether the current page has a trailing slash or not.
 
-For example, for the TR search page:
+For individual pages, do not end the URL with a trailing slash.
 
-[https://www.w3.org/tr?tag=accessibility](https://www.w3.org/tr?tag=accessibility)
+For example: https://www.w3.org/news/
 
-[https://www.w3.org/tr?tag=accessibility&status=in-progress](https://www.w3.org/tr?tag=accessibility&status=in-progress)
+For pages with child pages, then we recommend ending the URL with a trailing slash.
 
-And for a news listing page:
+For example: https://www.w3.org/news/2021/post-name
 
-[https://www.w3.org/news/2020?page=2](https://www.w3.org/news/2020?page=2)
+Also see https://developers.google.com/search/blog/2010/04/to-slash-or-not-to-slash
 
-But use a sub-path for an individual news article (which is a resource; these sub-paths identifying a resources are often 
-referred to as ‘slugs’):
+### Use URL paths for pages, query params for search forms
 
-[https://www.w3.org/news/2020/page-title](https://www.w3.org/news/2020/page-title)
+Listing pages often have dynamically generated pages that return resources based on different criteria (e.g. a blog listing page).
+
+Listing pages can be navigated to via a *browse link* (a hyperlink to a listing page with a specific filter, e.g. by year). 
+Where a user navigates to a listing page from a *browse link* we recommend using URL paths to create the URL.
+
+For example: 
+* [https://www.w3.org/tr/all](https://www.w3.org/tr/all) 
+* [https://www.w3.org/blog/2021/](https://www.w3.org/blog/2021/)
+* [https://www.w3.org/blog/category/developers](https://www.w3.org/blog/category/developers)
+
+Please note if this results in parent URLs that have no content ensure a [redirect is in place](#redirect-parent-urls-that-have-no-content)
+to send requests to the parent page to a sensible location.
+
+Listing pages can also be navigated to via *search forms* (where users can choose a combination of search keywords and/or filters).
+Where a user navigates to a listing page from a *search form* we recommend using query parameters (also known as GET params) 
+to create the URL.
+
+Instead of: [https://www.w3.org/blog/search/keyword/category/accessibility](https://www.w3.org/blog/search/keyword/category/accessibility)
+
+Use: [https://www.w3.org/blog/?search=keyword&category=accessibility](https://www.w3.org/blog?search=keyword&category=accessibility)
+
+Pagination links are often hyperlinks on a page, however, for this special case we recommend using query parameters.
+
+Instead of: [https://www.w3.org/blog/page/2](https://www.w3.org/blog/page/2)
+
+Use: [https://www.w3.org/blog/?page=2](https://www.w3.org/blog?page=2)
 
 ### URLs are public
 
 It should be assumed all URLs are public and must not contain any sensitive or personal information. For any unique 
 one-time URLs (e.g. password resets) see [W3C guidance on capability URLs](https://www.w3.org/TR/capability-urls/).
-
 
 ### Simplify URLs for high-level pages
 
@@ -265,6 +293,14 @@ adding a banner to legacy pages to indicate they are archived and no longer upda
 
 A [log of new site URLs](https://docs.google.com/spreadsheets/d/1a9pm5HWzcidtLPCeFRz4F0Ir4TT3oOK54FlEEd3IXUE/edit) is 
 being maintained at Google Sheets. This will act as a guide to URL format and structure until the Beta site is launched.
+
+### Redirect parent URLs that have no content
+
+If a parent URL has no content, it's important to 301 redirect this to a sensible location.
+
+For example: [https://www.w3.org/blog/category/](https://www.w3.org/blog/category/)
+
+Should redirect to: [https://www.w3.org/blog/](https://www.w3.org/blog/)
 
 ### Redirects log
 
