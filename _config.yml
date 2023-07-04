@@ -16,8 +16,7 @@ footer_content: >
   View all <a href="/docs/">Documents</a> and <a href="/updates/">Updates</a>.
   <a href="/writing-guide/">Writing guide</a>. 
   <br>
-  Content on this site is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.<br>
-  Find us on Twitter: <a href="https://twitter.com/studio24">Studio 24</a> and <a href="https://twitter.com/w3c">W3C</a>.
+  Content on this site is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
 
 collections:
   docs:
